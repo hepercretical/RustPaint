@@ -1,0 +1,62 @@
+{
+  "reference_sha256": "01ca7b8866b6918f7e24c65fe02893aea444f2cbde9867981e78160b7a49719d",
+  "binary_reference_sha256": "d94d89377a2a78a73b95cff70fc7706df9ae2ae53175bd6d26abb8301e36ecd9",
+  "binary_evidence": [
+    "binary-recovery/global-width-evidence.json",
+    "binary-recovery/register-repairs.json",
+    "binary-recovery/size-records22.json",
+    "binary-recovery/constant-lanes23.json",
+    "binary-recovery/constant-lanes24.json",
+    "binary-recovery/repairs25.json",
+    "binary-recovery/repairs26.json",
+    "binary-recovery/contracts27.json",
+    "binary-recovery/repairs28.json"
+  ],
+  "expected_count": 2,
+  "functions": [
+    {
+      "original": "FUN_14008df70",
+      "rust": "recovered::adapters28::fun_14008df70",
+      "category": "adapters28",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_context_contract": {
+        "symbols": [],
+        "unused_first_parameter_callees": [],
+        "global_view_types": {}
+      },
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 122961,
+      "source_lines": 208,
+      "source_sha256": "f4e319f85f043b559c6b1fcabfbb9ddd85614cc99d6e51465aab67e2c9508b7e"
+    },
+    {
+      "original": "FUN_1400c4060",
+      "rust": "recovered::adapters28::fun_1400c4060",
+      "category": "adapters28",
+      "native_reference": "parsed-c-ir",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_context_contract": {
+        "symbols": [
+          "CONTEXT_IGNORED_FUN_1400c4060_extraout_XMM0_Da",
+          "CONTEXT_IGNORED_FUN_1400c4060_extraout_XMM0_Da_00"
+        ],
+        "unused_first_parameter_callees": [
+          "FUN_140063f70",
+          "FUN_140064070"
+        ],
+        "global_view_types": {}
+      },
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 170811,
+      "source_lines": 324,
+      "source_sha256": "b3aea5bc6835f53250bbc126b2bfb190052bc474f149c05081e412e98a790fcc"
+    }
+  ]
+}

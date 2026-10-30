@@ -1,0 +1,28 @@
+{
+  "reference_sha256": "01ca7b8866b6918f7e24c65fe02893aea444f2cbde9867981e78160b7a49719d",
+  "expected_count": 2,
+  "functions": [
+    {
+      "original": "NAMED_L154902",
+      "rust": "recovered::runtime32::named_l154902",
+      "category": "checked-runtime",
+      "native_reference": "original-c-controlled-callees",
+      "source_line": 154902,
+      "source_lines": 33,
+      "source_sha256": "997c16423a1065fd286862f0dbc509bc5e4c90c46b25b1af2963b256005d1926",
+      "original_signature": "undefined8 __scrt_initialize_onexit_tables(uint param_1)",
+      "original_symbol": "__scrt_initialize_onexit_tables"
+    },
+    {
+      "original": "NAMED_L176343",
+      "rust": "recovered::runtime32::named_l176343",
+      "category": "checked-runtime",
+      "native_reference": "original-c-explicit-probe-context",
+      "source_line": 176343,
+      "source_lines": 21,
+      "source_sha256": "5c61c47e8fd366786bd9e85bdb808b50e173be5167eff754439ed761053a6489",
+      "original_signature": "void __chkstk(void)",
+      "original_symbol": "__chkstk"
+    }
+  ]
+}

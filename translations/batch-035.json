@@ -1,0 +1,238 @@
+{
+  "reference_sha256": "01ca7b8866b6918f7e24c65fe02893aea444f2cbde9867981e78160b7a49719d",
+  "binary_reference_sha256": "d94d89377a2a78a73b95cff70fc7706df9ae2ae53175bd6d26abb8301e36ecd9",
+  "binary_evidence": [
+    "binary-recovery/global-width-evidence.json",
+    "binary-recovery/register-repairs.json",
+    "binary-recovery/size-records22.json",
+    "binary-recovery/constant-lanes23.json",
+    "binary-recovery/constant-lanes24.json",
+    "binary-recovery/repairs25.json",
+    "binary-recovery/repairs26.json",
+    "binary-recovery/contracts27.json",
+    "binary-recovery/repairs28.json",
+    "binary-recovery/contracts35.json"
+  ],
+  "expected_count": 11,
+  "functions": [
+    {
+      "original": "FUN_140027f70",
+      "rust": "recovered::adapters35::fun_140027f70",
+      "category": "adapters35",
+      "native_reference": "parsed-c-ir",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_context_contract": {
+        "symbols": [],
+        "unused_first_parameter_callees": [],
+        "global_view_types": {}
+      },
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 38581,
+      "source_lines": 334,
+      "source_sha256": "0acf4ec678a8d32aecd94afcb9b353a0c990fcd52086b3ef54fb0cdd043f1df7"
+    },
+    {
+      "original": "FUN_1400285f0",
+      "rust": "recovered::adapters35::fun_1400285f0",
+      "category": "adapters35",
+      "native_reference": "parsed-c-ir",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_context_contract": {
+        "symbols": [],
+        "unused_first_parameter_callees": [],
+        "global_view_types": {}
+      },
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 38922,
+      "source_lines": 334,
+      "source_sha256": "33e16a26c538ebfb5be89179bc1688d43a7f24cceb09c184ecf398de7e77de31"
+    },
+    {
+      "original": "FUN_14002c190",
+      "rust": "recovered::adapters35::fun_14002c190",
+      "category": "adapters35",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_context_contract": {
+        "symbols": [],
+        "unused_first_parameter_callees": [],
+        "global_view_types": {}
+      },
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 41936,
+      "source_lines": 187,
+      "source_sha256": "d543db8e019428406fd8ca57fb2580bb9f65a59a9b1ae697de109b495d737b59"
+    },
+    {
+      "original": "FUN_140034d90",
+      "rust": "recovered::adapters35::fun_140034d90",
+      "category": "adapters35",
+      "native_reference": "parsed-c-ir",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_context_contract": {
+        "symbols": [
+          "CONTEXT_IGNORED_FUN_140034d90_extraout_XMM0_Qa"
+        ],
+        "unused_first_parameter_callees": [
+          "FUN_14003b8b0",
+          "FUN_14003ba30"
+        ],
+        "global_view_types": {}
+      },
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 49148,
+      "source_lines": 247,
+      "source_sha256": "d784c22b1c17609ad2482f4ca828755cb66ab036171beff7143262556f3dd4e8"
+    },
+    {
+      "original": "FUN_1400365d0",
+      "rust": "recovered::adapters35::fun_1400365d0",
+      "category": "adapters35",
+      "native_reference": "parsed-c-ir",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_context_contract": {
+        "symbols": [],
+        "unused_first_parameter_callees": [],
+        "global_view_types": {}
+      },
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 50435,
+      "source_lines": 76,
+      "source_sha256": "7eff1f2ffb3f52e94848d3e9ce08c8d62ec7bcddd349c48975312cea8eb565f5"
+    },
+    {
+      "original": "FUN_140044400",
+      "rust": "recovered::adapters35::fun_140044400",
+      "category": "adapters35",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_context_contract": {
+        "symbols": [],
+        "unused_first_parameter_callees": [],
+        "global_view_types": {}
+      },
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 63479,
+      "source_lines": 99,
+      "source_sha256": "18fbaa056b48d1b14e21e22c5a37671a752385448e81b6bbb087f124ceb73745"
+    },
+    {
+      "original": "FUN_14005d180",
+      "rust": "recovered::adapters35::fun_14005d180",
+      "category": "adapters35",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_context_contract": {
+        "symbols": [],
+        "unused_first_parameter_callees": [],
+        "global_view_types": {}
+      },
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 84810,
+      "source_lines": 119,
+      "source_sha256": "6591991302d81f675f5e78c2aa980cf3a1d576cadfa36414e6a121fe08d77052"
+    },
+    {
+      "original": "FUN_140064070",
+      "rust": "recovered::adapters35::fun_140064070",
+      "category": "adapters35",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_context_contract": {
+        "symbols": [],
+        "unused_first_parameter_callees": [],
+        "global_view_types": {}
+      },
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 90252,
+      "source_lines": 92,
+      "source_sha256": "54d7c1461e76db08dd63c84c31e002535ca7c5a1e1d4eadeaa51b343cc68070b"
+    },
+    {
+      "original": "FUN_14006f820",
+      "rust": "recovered::adapters35::fun_14006f820",
+      "category": "adapters35",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_context_contract": {
+        "symbols": [],
+        "unused_first_parameter_callees": [],
+        "global_view_types": {}
+      },
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 99751,
+      "source_lines": 73,
+      "source_sha256": "66100ae39f29904bd420a09b997365538f000f22df6293d9f68a5c8fe81b0147"
+    },
+    {
+      "original": "FUN_14006feb0",
+      "rust": "recovered::adapters35::fun_14006feb0",
+      "category": "adapters35",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_context_contract": {
+        "symbols": [],
+        "unused_first_parameter_callees": [],
+        "global_view_types": {}
+      },
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 100040,
+      "source_lines": 142,
+      "source_sha256": "050a15b5ed6478151ff471244e374e3600fc3ec315e2d32429be08562ebf2616"
+    },
+    {
+      "original": "FUN_140091b50",
+      "rust": "recovered::adapters35::fun_140091b50",
+      "category": "adapters35",
+      "native_reference": "parsed-c-ir",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_context_contract": {
+        "symbols": [
+          "CONTEXT_IGNORED_FUN_140091b50_extraout_XMM0_Da"
+        ],
+        "unused_first_parameter_callees": [
+          "FUN_140093820",
+          "FUN_1400939a0"
+        ],
+        "global_view_types": {}
+      },
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 1,
+      "source_line": 126002,
+      "source_lines": 520,
+      "source_sha256": "a2d3057a8fabbd968aae56625904f8dcac8536cfeb66e16959397f2cd585a977"
+    }
+  ]
+}

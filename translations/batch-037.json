@@ -1,0 +1,27 @@
+{
+  "reference_sha256": "01ca7b8866b6918f7e24c65fe02893aea444f2cbde9867981e78160b7a49719d",
+  "expected_count": 2,
+  "functions": [
+    {
+      "original": "FUN_1400b1350",
+      "rust": "recovered::substring37::fun_1400b1350",
+      "category": "checked-substring-search",
+      "native_reference": "normalized-source-c-with-hardware-pcmpestri",
+      "source_line": 156100,
+      "source_lines": 123,
+      "source_sha256": "f031fa6896d380399b6f5790ce1676ee74e74c95a75c58fbe2660e60934c9211"
+    },
+    {
+      "original": "NAMED_L156673",
+      "rust": "recovered::substring37::named_l156673",
+      "category": "checked-substring-search",
+      "native_reference": "normalized-source-c-with-hardware-pcmpestri",
+      "source_line": 156673,
+      "source_lines": 123,
+      "source_sha256": "f44bc56ace11842ee9c5a51eaf73c0982fb8970cb03ead445dca470487c3d406",
+      "original_signature": "undefined1 (*) [16]\r\nthunk_FUN_1400b1350(undefined1 (*param_1) [16],undefined1 (*param_2) [16],undefined1 (*param_3) [16]\r\n                   ,longlong param_4)",
+      "original_symbol": "thunk_FUN_1400b1350"
+    }
+  ],
+  "recovery_evidence": "binary-recovery/batch36/contracts.json"
+}

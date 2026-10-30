@@ -1,0 +1,15 @@
+{
+  "reference_sha256": "01ca7b8866b6918f7e24c65fe02893aea444f2cbde9867981e78160b7a49719d",
+  "expected_count": 1,
+  "functions": [
+    {
+      "original": "FUN_1400b0538",
+      "rust": "recovered::sections34::fun_1400b0538",
+      "category": "checked-section-scan",
+      "native_reference": "original-c-with-typed-source-records",
+      "source_line": 154941,
+      "source_lines": 30,
+      "source_sha256": "250db8cdd661761027e9c15244fb2b55d2cc9b438c7874ddaef58fdf657c937e"
+    }
+  ]
+}

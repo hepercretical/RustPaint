@@ -1,0 +1,3838 @@
+{
+  "reference_sha256": "01ca7b8866b6918f7e24c65fe02893aea444f2cbde9867981e78160b7a49719d",
+  "expected_count": 441,
+  "functions": [
+    {
+      "original": "NAMED_L157631",
+      "rust": "recovered::adapters16::named_l157631",
+      "category": "adapters16",
+      "source_line": 157631,
+      "source_lines": 10,
+      "source_sha256": "fd887061529b6ba0db0e0a6ee89fea24418e63c0d15468b1bbd9932a3e71af50",
+      "original_signature": "int __cdecl AfxInitialize(int param_1,ulong param_2)",
+      "original_symbol": "AfxInitialize"
+    },
+    {
+      "original": "FUN_1400cf090",
+      "rust": "recovered::adapters16::fun_1400cf090",
+      "category": "adapters16",
+      "source_line": 177692,
+      "source_lines": 10,
+      "source_sha256": "02c9c1d100bc28fccfc26ff92f1ffd0ded1348b973369bab44e7442337a37efa"
+    },
+    {
+      "original": "FUN_1400cf0d5",
+      "rust": "recovered::adapters16::fun_1400cf0d5",
+      "category": "adapters16",
+      "source_line": 177707,
+      "source_lines": 10,
+      "source_sha256": "f323e10ddbc17d4cd6dd6f5859ceb0952e48236c169afcc1bdc98cbda112fac0"
+    },
+    {
+      "original": "NAMED_L151072",
+      "rust": "recovered::adapters16::named_l151072",
+      "category": "adapters16",
+      "source_line": 151072,
+      "source_lines": 10,
+      "source_sha256": "a35d97d2470888e2ab3dc54cc2fe52a92c7b191a541f61c942332133e1ec0216",
+      "original_signature": "int __thiscall CWnd::PreCreateWindow(CWnd *this,tagCREATESTRUCTW *param_1)",
+      "original_symbol": "CWnd::PreCreateWindow"
+    },
+    {
+      "original": "NAMED_L152226",
+      "rust": "recovered::adapters16::named_l152226",
+      "category": "adapters16",
+      "source_line": 152226,
+      "source_lines": 10,
+      "source_sha256": "0268943ebb63cb6abc5de88a29e62c4e7d11f94d5cc0760c29315b6ae245d056",
+      "original_signature": "AFX_MSGMAP * __thiscall CCommonDialog::GetMessageMap(CCommonDialog *this)",
+      "original_symbol": "CCommonDialog::GetMessageMap"
+    },
+    {
+      "original": "NAMED_L110942",
+      "rust": "recovered::adapters16::named_l110942",
+      "category": "adapters16",
+      "source_line": 110942,
+      "source_lines": 8,
+      "source_sha256": "43e7a93e4eb72b320d0390b766a636a35bd538220bd12352488c8c5d99041289",
+      "original_signature": "void __thiscall CView::OnActivateView(CView *this,int param_1,CView *param_2,CView *param_3)",
+      "original_symbol": "CView::OnActivateView"
+    },
+    {
+      "original": "NAMED_L150697",
+      "rust": "recovered::adapters16::named_l150697",
+      "category": "adapters16",
+      "source_line": 150697,
+      "source_lines": 10,
+      "source_sha256": "e9f18e2d09a187f1bc72095db125ee768140d0abd92ecf9d9d5ecce5cf515dc7",
+      "original_signature": "int __thiscall CDialog::Create(CDialog *this,wchar_t *param_1,CWnd *param_2)",
+      "original_symbol": "CDialog::Create"
+    },
+    {
+      "original": "NAMED_L152424",
+      "rust": "recovered::adapters16::named_l152424",
+      "category": "adapters16",
+      "source_line": 152424,
+      "source_lines": 8,
+      "source_sha256": "a3ec45ee2dc6ee298ddf7626a7a1b43481b8bdfe95080ea4c8a609834551ccd6",
+      "original_signature": "void __thiscall CPreviewView::OnDisplayPageNumber(CPreviewView *this,uint param_1,uint param_2)",
+      "original_symbol": "CPreviewView::OnDisplayPageNumber"
+    },
+    {
+      "original": "NAMED_L152999",
+      "rust": "recovered::adapters16::named_l152999",
+      "category": "adapters16",
+      "source_line": 152999,
+      "source_lines": 8,
+      "source_sha256": "75f37633d632ff56585d63bd4f72d1f62bd231289552e0eab51c489dddaf349e",
+      "original_signature": "void __thiscall COleServerDoc::OnSetHostNames(COleServerDoc *this,wchar_t *param_1,wchar_t *param_2)",
+      "original_symbol": "COleServerDoc::OnSetHostNames"
+    },
+    {
+      "original": "NAMED_L153084",
+      "rust": "recovered::adapters16::named_l153084",
+      "category": "adapters16",
+      "source_line": 153084,
+      "source_lines": 8,
+      "source_sha256": "dc64273066ad0e86a9b315dde164328f0880893f01b6fdf48210ac72fd5ec891",
+      "original_signature": "void __thiscall COleServerDoc::OnSetItemRects(COleServerDoc *this,tagRECT *param_1,tagRECT *param_2)",
+      "original_symbol": "COleServerDoc::OnSetItemRects"
+    },
+    {
+      "original": "NAMED_L152265",
+      "rust": "recovered::adapters16::named_l152265",
+      "category": "adapters16",
+      "source_line": 152265,
+      "source_lines": 10,
+      "source_sha256": "ff42541c5fe7f441d9f3b964c6b9f904d9c823c655966cfd7cff3e111c0ee26c",
+      "original_signature": "CPrintDialog * __thiscall CPrintDialog::AttachOnSetup(CPrintDialog *this)",
+      "original_symbol": "CPrintDialog::AttachOnSetup"
+    },
+    {
+      "original": "NAMED_L152459",
+      "rust": "recovered::adapters16::named_l152459",
+      "category": "adapters16",
+      "source_line": 152459,
+      "source_lines": 10,
+      "source_sha256": "a27ae02ebb8ab2a52221bb18239f4de5b221cc6eb442cb26b4f23240f4be432b",
+      "original_signature": "AFX_INTERFACEMAP * __cdecl COleServerDoc::GetThisInterfaceMap(void)",
+      "original_symbol": "COleServerDoc::GetThisInterfaceMap"
+    },
+    {
+      "original": "NAMED_L151529",
+      "rust": "recovered::adapters16::named_l151529",
+      "category": "adapters16",
+      "source_line": 151529,
+      "source_lines": 10,
+      "source_sha256": "ef2051520abe8bc0fe28cdf6abeb40b4c576f90a50da2b16510b8581bc5e2431",
+      "original_signature": "int __thiscall CWnd::OnCommand(CWnd *this,__uint64 param_1,__int64 param_2)",
+      "original_symbol": "CWnd::OnCommand"
+    },
+    {
+      "original": "NAMED_L153463",
+      "rust": "recovered::adapters16::named_l153463",
+      "category": "adapters16",
+      "source_line": 153463,
+      "source_lines": 8,
+      "source_sha256": "81c2bc9b638bdaeae6c26f5c1d6d381a506e63d2be0e47f55717f738d35c1ed5",
+      "original_signature": "void __thiscall CFrameWnd::OnSetPreviewMode(CFrameWnd *this,int param_1,CPrintPreviewState *param_2)",
+      "original_symbol": "CFrameWnd::OnSetPreviewMode"
+    },
+    {
+      "original": "NAMED_L157721",
+      "rust": "recovered::adapters16::named_l157721",
+      "category": "adapters16",
+      "source_line": 157721,
+      "source_lines": 10,
+      "source_sha256": "4e69135250e53279762a59e8ca174880cb867f64d903e0cf9782e95e7904bc3c",
+      "original_signature": "HRESULT __stdcall SetErrorInfo(ULONG dwReserved,IErrorInfo *perrinfo)",
+      "original_symbol": "SetErrorInfo"
+    },
+    {
+      "original": "NAMED_L150103",
+      "rust": "recovered::adapters16::named_l150103",
+      "category": "adapters16",
+      "source_line": 150103,
+      "source_lines": 10,
+      "source_sha256": "095240720bb2698b1983fe22c616257a6b255fdadf9c0d2d38ca579d3cab8b62",
+      "original_signature": "LPVOID __stdcall HeapAlloc(HANDLE hHeap,DWORD dwFlags,SIZE_T dwBytes)",
+      "original_symbol": "HeapAlloc"
+    },
+    {
+      "original": "NAMED_L150617",
+      "rust": "recovered::adapters16::named_l150617",
+      "category": "adapters16",
+      "source_line": 150617,
+      "source_lines": 10,
+      "source_sha256": "c1f37475cb08bbb862d483377eee1f1890ac08527050857737dd53ee31fba14b",
+      "original_signature": "CRuntimeClass * __thiscall CGdiObject::GetRuntimeClass(CGdiObject *this)",
+      "original_symbol": "CGdiObject::GetRuntimeClass"
+    },
+    {
+      "original": "NAMED_L150859",
+      "rust": "recovered::adapters16::named_l150859",
+      "category": "adapters16",
+      "source_line": 150859,
+      "source_lines": 10,
+      "source_sha256": "6665cbec87ce16deb45936f11cbcd3a1428b66a81d6b7ad5946130c4f0500afc",
+      "original_signature": "CTypeLibCache * __thiscall CCmdTarget::GetTypeLibCache(CCmdTarget *this)",
+      "original_symbol": "CCmdTarget::GetTypeLibCache"
+    },
+    {
+      "original": "NAMED_L151568",
+      "rust": "recovered::adapters16::named_l151568",
+      "category": "adapters16",
+      "source_line": 151568,
+      "source_lines": 10,
+      "source_sha256": "c0e340ac379494e44f52db49838b556e699d20c50b3bee894ffbe5acb7f0fb27",
+      "original_signature": "int __thiscall CDialog::PreTranslateMessage(CDialog *this,tagMSG *param_1)",
+      "original_symbol": "CDialog::PreTranslateMessage"
+    },
+    {
+      "original": "NAMED_L152862",
+      "rust": "recovered::adapters16::named_l152862",
+      "category": "adapters16",
+      "source_line": 152862,
+      "source_lines": 10,
+      "source_sha256": "ed57111201275e948e3c177e9431a36f6763475dfad69eef18ff2ea5cf5ce698",
+      "original_signature": "__POSITION * __thiscall COleDocument::GetStartPosition(COleDocument *this)",
+      "original_symbol": "COleDocument::GetStartPosition"
+    },
+    {
+      "original": "NAMED_L153073",
+      "rust": "recovered::adapters16::named_l153073",
+      "category": "adapters16",
+      "source_line": 153073,
+      "source_lines": 8,
+      "source_sha256": "27d0693600b7fcd010549675d1c24ae06957c952786f2637377a1b394d4850a6",
+      "original_signature": "void __thiscall COleServerDoc::OnShowControlBars(COleServerDoc *this,CFrameWnd *param_1,int param_2)",
+      "original_symbol": "COleServerDoc::OnShowControlBars"
+    },
+    {
+      "original": "NAMED_L153523",
+      "rust": "recovered::adapters16::named_l153523",
+      "category": "adapters16",
+      "source_line": 153523,
+      "source_lines": 10,
+      "source_sha256": "0be5b433a46cabb78edab9688b5d56f634f0d7f698e08665db122ae5e803f494",
+      "original_signature": "HACCEL__ * __thiscall CFrameWnd::GetDefaultAccelerator(CFrameWnd *this)",
+      "original_symbol": "CFrameWnd::GetDefaultAccelerator"
+    },
+    {
+      "original": "NAMED_L154180",
+      "rust": "recovered::adapters16::named_l154180",
+      "category": "adapters16",
+      "source_line": 154180,
+      "source_lines": 10,
+      "source_sha256": "a5b977b73c731702f9137fea7aa83374c0e8a293421775674ad731764be31540",
+      "original_signature": "CDocument * __thiscall CDocTemplate::CreateNewDocument(CDocTemplate *this)",
+      "original_symbol": "CDocTemplate::CreateNewDocument"
+    },
+    {
+      "original": "NAMED_L150116",
+      "rust": "recovered::adapters16::named_l150116",
+      "category": "adapters16",
+      "source_line": 150116,
+      "source_lines": 10,
+      "source_sha256": "7e43c85008353db19eba4702d12e0575176fa19321c925336f120a16529211b9",
+      "original_signature": "FARPROC __stdcall GetProcAddress(HMODULE hModule,LPCSTR lpProcName)",
+      "original_symbol": "GetProcAddress"
+    },
+    {
+      "original": "NAMED_L152004",
+      "rust": "recovered::adapters16::named_l152004",
+      "category": "adapters16",
+      "source_line": 152004,
+      "source_lines": 10,
+      "source_sha256": "b927e755e6ddeb61d5814270d9271ec4dcd3c84b030c4b40f7fb50927843986c",
+      "original_signature": "int __thiscall CWnd::SetOccDialogInfo(CWnd *this,_AFX_OCC_DIALOG_INFO *param_1)",
+      "original_symbol": "CWnd::SetOccDialogInfo"
+    },
+    {
+      "original": "NAMED_L152678",
+      "rust": "recovered::adapters16::named_l152678",
+      "category": "adapters16",
+      "source_line": 152678,
+      "source_lines": 10,
+      "source_sha256": "949d8700fece8fc4c5cac0d89ea7b3df9ef4166aecaec0478cd0017b0ba6fa32",
+      "original_signature": "__POSITION * __thiscall CDocument::GetFirstViewPosition(CDocument *this)",
+      "original_symbol": "CDocument::GetFirstViewPosition"
+    },
+    {
+      "original": "NAMED_L157670",
+      "rust": "recovered::adapters16::named_l157670",
+      "category": "adapters16",
+      "source_line": 157670,
+      "source_lines": 10,
+      "source_sha256": "9b333bd3c09c0090278c7ca42de935fa04fdb48865923462f6f5a5b23ea44a0a",
+      "original_signature": "HRESULT __stdcall GetErrorInfo(ULONG dwReserved,IErrorInfo **pperrinfo)",
+      "original_symbol": "GetErrorInfo"
+    },
+    {
+      "original": "NAMED_L152605",
+      "rust": "recovered::adapters16::named_l152605",
+      "category": "adapters16",
+      "source_line": 152605,
+      "source_lines": 10,
+      "source_sha256": "584fc4c1ad46b3bf179c815da15df6bc19c38fb654f1a45cda1dc09cf14c5111",
+      "original_signature": "int __thiscall CDocument::SetChunkValue(CDocument *this,IFilterChunkValue *param_1)",
+      "original_symbol": "CDocument::SetChunkValue"
+    },
+    {
+      "original": "NAMED_L152691",
+      "rust": "recovered::adapters16::named_l152691",
+      "category": "adapters16",
+      "source_line": 152691,
+      "source_lines": 10,
+      "source_sha256": "ecc53fbddc2c8c38b6ac720fd07114d29ffa7e713656e28e63dacef1eee15364",
+      "original_signature": "CView * __thiscall CDocument::GetNextView(CDocument *this,__POSITION **param_1)",
+      "original_symbol": "CDocument::GetNextView"
+    },
+    {
+      "original": "NAMED_L151135",
+      "rust": "recovered::adapters16::named_l151135",
+      "category": "adapters16",
+      "source_line": 151135,
+      "source_lines": 10,
+      "source_sha256": "1188a9d29895c39c98b45f641ca3b28f3568bf34315bfe62786c8b304be3f137",
+      "original_signature": "CScrollBar * __thiscall CWnd::GetScrollBarCtrl(CWnd *this,int param_1)",
+      "original_symbol": "CWnd::GetScrollBarCtrl"
+    },
+    {
+      "original": "NAMED_L152017",
+      "rust": "recovered::adapters16::named_l152017",
+      "category": "adapters16",
+      "source_line": 152017,
+      "source_lines": 10,
+      "source_sha256": "ec07a46968f3e51349f57158280bef942dbbc40881d62679b4ba937539bf6731",
+      "original_signature": "_AFX_OCC_DIALOG_INFO * __thiscall CWnd::GetOccDialogInfo(CWnd *this)",
+      "original_symbol": "CWnd::GetOccDialogInfo"
+    },
+    {
+      "original": "NAMED_L153267",
+      "rust": "recovered::adapters16::named_l153267",
+      "category": "adapters16",
+      "source_line": 153267,
+      "source_lines": 10,
+      "source_sha256": "11d24dd0f710d3e335e0bf0e73561c1e4a86fb90c0ee60c3a5774a4905df4251",
+      "original_signature": "int __thiscall CFrameWnd::PreTranslateMessage(CFrameWnd *this,tagMSG *param_1)",
+      "original_symbol": "CFrameWnd::PreTranslateMessage"
+    },
+    {
+      "original": "NAMED_L154040",
+      "rust": "recovered::adapters16::named_l154040",
+      "category": "adapters16",
+      "source_line": 154040,
+      "source_lines": 10,
+      "source_sha256": "b715476253a78ac123225679aba20018c638ca8fa7bf971237028fc43240c665",
+      "original_signature": "HINSTANCE__ * __thiscall CWinApp::LoadAppLangResourceDLL(CWinApp *this)",
+      "original_symbol": "CWinApp::LoadAppLangResourceDLL"
+    },
+    {
+      "original": "NAMED_L153202",
+      "rust": "recovered::adapters16::named_l153202",
+      "category": "adapters16",
+      "source_line": 153202,
+      "source_lines": 8,
+      "source_sha256": "a2535b850c65c8ee23cb2fcf95a5df3cb2b6fdd5b37b1b836a7cb20414a20817",
+      "original_signature": "void __thiscall CFrameWnd::OnInitMenuPopup(CFrameWnd *this,CMenu *param_1,uint param_2,int param_3)",
+      "original_symbol": "CFrameWnd::OnInitMenuPopup"
+    },
+    {
+      "original": "NAMED_L150950",
+      "rust": "recovered::adapters16::named_l150950",
+      "category": "adapters16",
+      "source_line": 150950,
+      "source_lines": 10,
+      "source_sha256": "9052cef6f7dc80fd4ee73c3eff470fce250529524c1974ea7b90b6ba835c48c5",
+      "original_signature": "AFX_EVENTSINKMAP * __thiscall CCmdTarget::GetEventSinkMap(CCmdTarget *this)",
+      "original_symbol": "CCmdTarget::GetEventSinkMap"
+    },
+    {
+      "original": "NAMED_L151954",
+      "rust": "recovered::adapters16::named_l151954",
+      "category": "adapters16",
+      "source_line": 151954,
+      "source_lines": 10,
+      "source_sha256": "e8106d8fbd0444691e08dbe7d23a754962918f7626c49316dfa4666f3b782e22",
+      "original_signature": "CScrollBar * __thiscall CView::GetScrollBarCtrl(CView *this,int param_1)",
+      "original_symbol": "CView::GetScrollBarCtrl"
+    },
+    {
+      "original": "NAMED_L152239",
+      "rust": "recovered::adapters16::named_l152239",
+      "category": "adapters16",
+      "source_line": 152239,
+      "source_lines": 10,
+      "source_sha256": "cac7a1e9eb8636b82f5a94b10ece6beb8c75d0c8ecd10c970ba4fc74dcf19377",
+      "original_signature": "CRuntimeClass * __thiscall CCommonDialog::GetRuntimeClass(CCommonDialog *this)",
+      "original_symbol": "CCommonDialog::GetRuntimeClass"
+    },
+    {
+      "original": "NAMED_L153652",
+      "rust": "recovered::adapters16::named_l153652",
+      "category": "adapters16",
+      "source_line": 153652,
+      "source_lines": 10,
+      "source_sha256": "59e0f755076af01eceaa9ddd8359d0c18a8af57eda0555952e4e76408329415e",
+      "original_signature": "AFX_INTERFACEMAP * __thiscall CCmdTarget::GetInterfaceMap(CCmdTarget *this)",
+      "original_symbol": "CCmdTarget::GetInterfaceMap"
+    },
+    {
+      "original": "NAMED_L153678",
+      "rust": "recovered::adapters16::named_l153678",
+      "category": "adapters16",
+      "source_line": 153678,
+      "source_lines": 10,
+      "source_sha256": "8c85cbf110488a67421fb9004ef2add6cc77d8e5cbf41476877b039611750949",
+      "original_signature": "int __thiscall CWinThread::PreTranslateMessage(CWinThread *this,tagMSG *param_1)",
+      "original_symbol": "CWinThread::PreTranslateMessage"
+    },
+    {
+      "original": "NAMED_L150643",
+      "rust": "recovered::adapters16::named_l150643",
+      "category": "adapters16",
+      "source_line": 150643,
+      "source_lines": 10,
+      "source_sha256": "e336cf6ea9ed688f296e108010f88286daac73033f828a8c0d92c4c4ea8da56a",
+      "original_signature": "int __thiscall CException::ReportError(CException *this,uint param_1,uint param_2)",
+      "original_symbol": "CException::ReportError"
+    },
+    {
+      "original": "NAMED_L150684",
+      "rust": "recovered::adapters16::named_l150684",
+      "category": "adapters16",
+      "source_line": 150684,
+      "source_lines": 10,
+      "source_sha256": "ca37fd1744004e7ee61803be5525ca5993f9f029814e8898c96dd029d2173333",
+      "original_signature": "CRuntimeClass * __thiscall CFileException::GetRuntimeClass(CFileException *this)",
+      "original_symbol": "CFileException::GetRuntimeClass"
+    },
+    {
+      "original": "NAMED_L151830",
+      "rust": "recovered::adapters16::named_l151830",
+      "category": "adapters16",
+      "source_line": 151830,
+      "source_lines": 10,
+      "source_sha256": "b067dd8ed54abfe760c02d121b308bc83dd9be49855df354aaf04d729e05b207",
+      "original_signature": "int __thiscall CDialog::SetOccDialogInfo(CDialog *this,_AFX_OCC_DIALOG_INFO *param_1)",
+      "original_symbol": "CDialog::SetOccDialogInfo"
+    },
+    {
+      "original": "NAMED_L152750",
+      "rust": "recovered::adapters16::named_l152750",
+      "category": "adapters16",
+      "source_line": 152750,
+      "source_lines": 10,
+      "source_sha256": "718ef1f16ae59ccf5dc013fc720d9133265a3d998405fd78a8c3e5ff6fc0f73a",
+      "original_signature": "HACCEL__ * __thiscall COleServerDoc::GetDefaultAccelerator(COleServerDoc *this)",
+      "original_symbol": "COleServerDoc::GetDefaultAccelerator"
+    },
+    {
+      "original": "NAMED_L153306",
+      "rust": "recovered::adapters16::named_l153306",
+      "category": "adapters16",
+      "source_line": 153306,
+      "source_lines": 10,
+      "source_sha256": "1cf66f6ecbae9d10d4a8cd17347e3440dd1a3af84d834f6f118c5807564418c6",
+      "original_signature": "int __thiscall CFrameWnd::OnCommand(CFrameWnd *this,__uint64 param_1,__int64 param_2)",
+      "original_symbol": "CFrameWnd::OnCommand"
+    },
+    {
+      "original": "NAMED_L150924",
+      "rust": "recovered::adapters16::named_l150924",
+      "category": "adapters16",
+      "source_line": 150924,
+      "source_lines": 10,
+      "source_sha256": "780e3d5d4e8c939108e1ba2843a32d13d20d2c50f4a3309b9f10d05960e6084d",
+      "original_signature": "AFX_CONNECTIONMAP * __thiscall CCmdTarget::GetConnectionMap(CCmdTarget *this)",
+      "original_symbol": "CCmdTarget::GetConnectionMap"
+    },
+    {
+      "original": "NAMED_L151660",
+      "rust": "recovered::adapters16::named_l151660",
+      "category": "adapters16",
+      "source_line": 151660,
+      "source_lines": 10,
+      "source_sha256": "a2204aff95a6fc37a1bf22498d6a1c2265041d04a852d72dfd32093e004e3cbf",
+      "original_signature": "int __thiscall CWnd::OnTouchInputs(CWnd *this,uint param_1,tagTOUCHINPUT *param_2)",
+      "original_symbol": "CWnd::OnTouchInputs"
+    },
+    {
+      "original": "NAMED_L151843",
+      "rust": "recovered::adapters16::named_l151843",
+      "category": "adapters16",
+      "source_line": 151843,
+      "source_lines": 10,
+      "source_sha256": "5168b17a1267bcdde9b047b5187b75b33f1c410c74d442a4597ddfc0d2655577",
+      "original_signature": "_AFX_OCC_DIALOG_INFO * __thiscall CDialog::GetOccDialogInfo(CDialog *this)",
+      "original_symbol": "CDialog::GetOccDialogInfo"
+    },
+    {
+      "original": "NAMED_L151856",
+      "rust": "recovered::adapters16::named_l151856",
+      "category": "adapters16",
+      "source_line": 151856,
+      "source_lines": 10,
+      "source_sha256": "bcf9fcdfcaa4b14f079618e15325df2e3bcdc0c69520c9e679b17eb3f2b81cef",
+      "original_signature": "int __thiscall CDialog::CreateIndirect(CDialog *this,void *param_1,CWnd *param_2)",
+      "original_symbol": "CDialog::CreateIndirect"
+    },
+    {
+      "original": "NAMED_L152947",
+      "rust": "recovered::adapters16::named_l152947",
+      "category": "adapters16",
+      "source_line": 152947,
+      "source_lines": 10,
+      "source_sha256": "e8d7c867db966177017ebc691b994ec07172451afbdc6e39922d3b038aab9017",
+      "original_signature": "IOleItemContainer * __thiscall COleLinkingDoc::GetContainer(COleLinkingDoc *this)",
+      "original_symbol": "COleLinkingDoc::GetContainer"
+    },
+    {
+      "original": "NAMED_L152043",
+      "rust": "recovered::adapters16::named_l152043",
+      "category": "adapters16",
+      "source_line": 152043,
+      "source_lines": 10,
+      "source_sha256": "9ba1362d737d36d3a14d0ea74007fda770417fa69bda38b543b131129f4e01bc",
+      "original_signature": "int __thiscall CView::OnScroll(CView *this,uint param_1,uint param_2,int param_3)",
+      "original_symbol": "CView::OnScroll"
+    },
+    {
+      "original": "NAMED_L153156",
+      "rust": "recovered::adapters16::named_l153156",
+      "category": "adapters16",
+      "source_line": 153156,
+      "source_lines": 10,
+      "source_sha256": "d5e3d00261e2d6be7fa9f846e4f38fcdc148a897d90f0c38db8243603b0986fa",
+      "original_signature": "int __thiscall COleServerDoc::GetFileTypeString(COleServerDoc *this,CStringT<> *param_1)",
+      "original_symbol": "COleServerDoc::GetFileTypeString"
+    },
+    {
+      "original": "NAMED_L150976",
+      "rust": "recovered::adapters16::named_l150976",
+      "category": "adapters16",
+      "source_line": 150976,
+      "source_lines": 10,
+      "source_sha256": "83cd77e0e1ba3b29264609c882d3962043c486d2123ca59777029c48b97dadde",
+      "original_signature": "IUnknown * __thiscall CCmdTarget::GetInterfaceHook(CCmdTarget *this,void *param_1)",
+      "original_symbol": "CCmdTarget::GetInterfaceHook"
+    },
+    {
+      "original": "NAMED_L152592",
+      "rust": "recovered::adapters16::named_l152592",
+      "category": "adapters16",
+      "source_line": 152592,
+      "source_lines": 10,
+      "source_sha256": "06380762ed49a6407dc00751033934400d4b54cdbd2a6c2e03cba93ed43ddf09",
+      "original_signature": "int __thiscall CDocument::ReadNextChunkValue(CDocument *this,IFilterChunkValue **param_1)",
+      "original_symbol": "CDocument::ReadNextChunkValue"
+    },
+    {
+      "original": "NAMED_L154319",
+      "rust": "recovered::adapters16::named_l154319",
+      "category": "adapters16",
+      "source_line": 154319,
+      "source_lines": 10,
+      "source_sha256": "e3b9ce9ecee8a28292ea1a70ac96bf4d1c82d5fd118fcf73b1a2712709fcbfe1",
+      "original_signature": "AFX_INTERFACEMAP * __thiscall COleServerItem::GetInterfaceMap(COleServerItem *this)",
+      "original_symbol": "COleServerItem::GetInterfaceMap"
+    },
+    {
+      "original": "NAMED_L150872",
+      "rust": "recovered::adapters16::named_l150872",
+      "category": "adapters16",
+      "source_line": 150872,
+      "source_lines": 10,
+      "source_sha256": "89cba8c6a574bbf20ed12fb1e67db3b63a1d63f9adc2832b64e3595c98b60c5d",
+      "original_signature": "long __thiscall CCmdTarget::GetTypeLib(CCmdTarget *this,ulong param_1,ITypeLib **param_2)",
+      "original_symbol": "CCmdTarget::GetTypeLib"
+    },
+    {
+      "original": "NAMED_L151801",
+      "rust": "recovered::adapters16::named_l151801",
+      "category": "adapters16",
+      "source_line": 151801,
+      "source_lines": 10,
+      "source_sha256": "c460faf11bfc4001154fc6b6f9efbb421818d1138c38f1d12a2a5e03b5fc9c7c",
+      "original_signature": "int __thiscall CWnd::CreateControlContainer(CWnd *this,COleControlContainer **param_1)",
+      "original_symbol": "CWnd::CreateControlContainer"
+    },
+    {
+      "original": "NAMED_L152875",
+      "rust": "recovered::adapters16::named_l152875",
+      "category": "adapters16",
+      "source_line": 152875,
+      "source_lines": 10,
+      "source_sha256": "4f43d0811da002ae647aea3c75954307baa55ffd2a48f471baba9abb8d727cf4",
+      "original_signature": "CDocItem * __thiscall COleDocument::GetNextItem(COleDocument *this,__POSITION **param_1)",
+      "original_symbol": "COleDocument::GetNextItem"
+    },
+    {
+      "original": "NAMED_L154384",
+      "rust": "recovered::adapters16::named_l154384",
+      "category": "adapters16",
+      "source_line": 154384,
+      "source_lines": 10,
+      "source_sha256": "9e1e3bb8fdde9637d60480139fae3cabb1217f7fd477e7ab63d35a01ad14590a",
+      "original_signature": "int __thiscall COleServerItem::OnSetColorScheme(COleServerItem *this,tagLOGPALETTE *param_1)",
+      "original_symbol": "COleServerItem::OnSetColorScheme"
+    },
+    {
+      "original": "NAMED_L154066",
+      "rust": "recovered::adapters16::named_l154066",
+      "category": "adapters16",
+      "source_line": 154066,
+      "source_lines": 10,
+      "source_sha256": "adb161182a187f04b7790df01183da188b2690a0762ba337362a50681340a57e",
+      "original_signature": "CRuntimeClass * __thiscall CSingleDocTemplate::GetRuntimeClass(CSingleDocTemplate *this)",
+      "original_symbol": "CSingleDocTemplate::GetRuntimeClass"
+    },
+    {
+      "original": "NAMED_L153768",
+      "rust": "recovered::adapters16::named_l153768",
+      "category": "adapters16",
+      "source_line": 153768,
+      "source_lines": 9,
+      "source_sha256": "cbaaae0d3e8f67379b8f4700afb0c7c236ba15a4b3b4781bfd9bf6f53156e3a6",
+      "original_signature": "void __thiscall\r\nCWinApp::GetProfileStringW(CWinApp *this,wchar_t *param_1,wchar_t *param_2,wchar_t *param_3)",
+      "original_symbol": "CWinApp::GetProfileStringW"
+    },
+    {
+      "original": "NAMED_L153988",
+      "rust": "recovered::adapters16::named_l153988",
+      "category": "adapters16",
+      "source_line": 153988,
+      "source_lines": 10,
+      "source_sha256": "d7d40f76c46a246b04aa245e18cd97ac2229d2b95918dd0e023bd92b43bc81a9",
+      "original_signature": "ulong __thiscall CWinApp::ApplicationRecoveryCallback(CWinApp *this,void *param_1)",
+      "original_symbol": "CWinApp::ApplicationRecoveryCallback"
+    },
+    {
+      "original": "NAMED_L154118",
+      "rust": "recovered::adapters16::named_l154118",
+      "category": "adapters16",
+      "source_line": 154118,
+      "source_lines": 10,
+      "source_sha256": "b40e041ab0110a80424d2638c66fbe13e55f82e14c082262d1b6de64ba57bdf8",
+      "original_signature": "__POSITION * __thiscall CSingleDocTemplate::GetFirstDocPosition(CSingleDocTemplate *this)",
+      "original_symbol": "CSingleDocTemplate::GetFirstDocPosition"
+    },
+    {
+      "original": "NAMED_L150989",
+      "rust": "recovered::adapters16::named_l150989",
+      "category": "adapters16",
+      "source_line": 150989,
+      "source_lines": 10,
+      "source_sha256": "ebb75d8929bc63bf6e0afdc25f40a79faea9f401df36bb1a4dfb5d2361828277",
+      "original_signature": "int __thiscall CCmdTarget::GetExtraConnectionPoints(CCmdTarget *this,CPtrArray *param_1)",
+      "original_symbol": "CCmdTarget::GetExtraConnectionPoints"
+    },
+    {
+      "original": "NAMED_L152934",
+      "rust": "recovered::adapters16::named_l152934",
+      "category": "adapters16",
+      "source_line": 152934,
+      "source_lines": 10,
+      "source_sha256": "2d4c878ced8d3ab27f1a06b59e0a234b17ec34e26a3810dd6ce56499b2850156",
+      "original_signature": "IMoniker * __thiscall COleServerDoc::GetMoniker(COleServerDoc *this,tagOLEGETMONIKER param_1)",
+      "original_symbol": "COleServerDoc::GetMoniker"
+    },
+    {
+      "original": "FUN_140018e50",
+      "rust": "recovered::adapters16::fun_140018e50",
+      "category": "adapters16",
+      "source_line": 26261,
+      "source_lines": 12,
+      "source_sha256": "10475736ffb4fa205303a98047da25951ef5180de640b21217688dad7d43d0a1"
+    },
+    {
+      "original": "NAMED_L152555",
+      "rust": "recovered::adapters16::named_l152555",
+      "category": "adapters16",
+      "source_line": 152555,
+      "source_lines": 10,
+      "source_sha256": "334772983273eea1c91b14d36bcf9d155429875e156e42a4fb4b415ac407bbfb",
+      "original_signature": "IUnknown * __thiscall COleServerDoc::GetInterfaceHook(COleServerDoc *this,void *param_1)",
+      "original_symbol": "COleServerDoc::GetInterfaceHook"
+    },
+    {
+      "original": "NAMED_L152788",
+      "rust": "recovered::adapters16::named_l152788",
+      "category": "adapters16",
+      "source_line": 152788,
+      "source_lines": 10,
+      "source_sha256": "46ac07d2f01b8c36b76fd6f4c08fc6389f6b578449fe3fc6c197067a3a77fff8",
+      "original_signature": "long __thiscall CDocument::OnPreviewHandlerQueryFocus(CDocument *this,HWND__ **param_1)",
+      "original_symbol": "CDocument::OnPreviewHandlerQueryFocus"
+    },
+    {
+      "original": "NAMED_L151542",
+      "rust": "recovered::adapters16::named_l151542",
+      "category": "adapters16",
+      "source_line": 151542,
+      "source_lines": 10,
+      "source_sha256": "dabc07a13aec2521ab47f6ca0d33cb1581d8153fa2673433d537a0a5a1dfc6f9",
+      "original_signature": "int __thiscall CWnd::OnNotify(CWnd *this,__uint64 param_1,__int64 param_2,__int64 *param_3)",
+      "original_symbol": "CWnd::OnNotify"
+    },
+    {
+      "original": "NAMED_L154001",
+      "rust": "recovered::adapters16::named_l154001",
+      "category": "adapters16",
+      "source_line": 154001,
+      "source_lines": 10,
+      "source_sha256": "561a58c722ebaab15c75d56d86f8ed1f8405f474035fdd9308fc35b6c624bf98",
+      "original_signature": "CDataRecoveryHandler * __thiscall CWinApp::GetDataRecoveryHandler(CWinApp *this)",
+      "original_symbol": "CWinApp::GetDataRecoveryHandler"
+    },
+    {
+      "original": "NAMED_L151450",
+      "rust": "recovered::adapters16::named_l151450",
+      "category": "adapters16",
+      "source_line": 151450,
+      "source_lines": 10,
+      "source_sha256": "e7af27807640934b2a4b869bfeedf916d79801116a883265f76f8b001a4c8cd1",
+      "original_signature": "long __thiscall CWnd::accHitTest(CWnd *this,long param_1,long param_2,tagVARIANT *param_3)",
+      "original_symbol": "CWnd::accHitTest"
+    },
+    {
+      "original": "NAMED_L152343",
+      "rust": "recovered::adapters16::named_l152343",
+      "category": "adapters16",
+      "source_line": 152343,
+      "source_lines": 10,
+      "source_sha256": "6b0ad48cf820a192681845f32060b07f434c43ed7fa07b223625550335558185",
+      "original_signature": "int __thiscall CScrollView::OnScroll(CScrollView *this,uint param_1,uint param_2,int param_3)",
+      "original_symbol": "CScrollView::OnScroll"
+    },
+    {
+      "original": "NAMED_L122221",
+      "rust": "recovered::adapters16::named_l122221",
+      "category": "adapters16",
+      "source_line": 122221,
+      "source_lines": 10,
+      "source_sha256": "950bdb18b72c0bf8898366e354d45a047e23b00716ce4459b881efc11b38ed4b",
+      "original_signature": "int __thiscall COleServerItem::OnSetExtent(COleServerItem *this,tagDVASPECT param_1,CSize *param_2)",
+      "original_symbol": "COleServerItem::OnSetExtent"
+    },
+    {
+      "original": "NAMED_L150142",
+      "rust": "recovered::adapters16::named_l150142",
+      "category": "adapters16",
+      "source_line": 150142,
+      "source_lines": 10,
+      "source_sha256": "4d51eec1ae4c67b49a21b151c66ffc6bdb1bf6b962e2b7a3c02389e9acc3a267",
+      "original_signature": "HMODULE __stdcall LoadLibraryExW(LPCWSTR lpLibFileName,HANDLE hFile,DWORD dwFlags)",
+      "original_symbol": "LoadLibraryExW"
+    },
+    {
+      "original": "NAMED_L152568",
+      "rust": "recovered::adapters16::named_l152568",
+      "category": "adapters16",
+      "source_line": 152568,
+      "source_lines": 10,
+      "source_sha256": "f6b160635c737467cf019c01c88c6e75a4d3f7b48d24e9bc577c79d72830dacb",
+      "original_signature": "__POSITION * __thiscall CDocument::FindChunk(CDocument *this,_GUID *param_1,ulong param_2)",
+      "original_symbol": "CDocument::FindChunk"
+    },
+    {
+      "original": "NAMED_L157795",
+      "rust": "recovered::adapters16::named_l157795",
+      "category": "adapters16",
+      "source_line": 157795,
+      "source_lines": 10,
+      "source_sha256": "7af94a57043158b45c357917c799b389f058324a3250050acaee07c4b5f4473f",
+      "original_signature": "HRESULT __stdcall CoGetApartmentType(APTTYPE *pAptType,APTTYPEQUALIFIER *pAptQualifier)",
+      "original_symbol": "CoGetApartmentType"
+    },
+    {
+      "original": "NAMED_L154131",
+      "rust": "recovered::adapters16::named_l154131",
+      "category": "adapters16",
+      "source_line": 154131,
+      "source_lines": 10,
+      "source_sha256": "7fa21fb7cba3ffc13ef27a4fd199adc377c887045aa30c883c6254df666d8acb",
+      "original_signature": "CDocument * __thiscall CSingleDocTemplate::GetNextDoc(CSingleDocTemplate *this,__POSITION **param_1)",
+      "original_symbol": "CSingleDocTemplate::GetNextDoc"
+    },
+    {
+      "original": "NAMED_L153718",
+      "rust": "recovered::adapters16::named_l153718",
+      "category": "adapters16",
+      "source_line": 153718,
+      "source_lines": 10,
+      "source_sha256": "1e3980cd7a9b3142c333bdb7eb8fa7665acc3513ad2907925beab5c98d5a5b59",
+      "original_signature": "int __thiscall CWinThread::ProcessMessageFilter(CWinThread *this,int param_1,tagMSG *param_2)",
+      "original_symbol": "CWinThread::ProcessMessageFilter"
+    },
+    {
+      "original": "NAMED_L154519",
+      "rust": "recovered::adapters16::named_l154519",
+      "category": "adapters16",
+      "source_line": 154519,
+      "source_lines": 10,
+      "source_sha256": "b32f960363f6ac8e34c9175bf4520b1a9c4be56a23b34bb54a8586fc2b3a5aea",
+      "original_signature": "int __thiscall CFrameWnd::NegotiateBorderSpace(CFrameWnd *this,uint param_1,tagRECT *param_2)",
+      "original_symbol": "CFrameWnd::NegotiateBorderSpace"
+    },
+    {
+      "original": "NAMED_L153900",
+      "rust": "recovered::adapters16::named_l153900",
+      "category": "adapters16",
+      "source_line": 153900,
+      "source_lines": 10,
+      "source_sha256": "6f532ff1ddfdd3fe79db188a338b7641baf9f73508871ceb76d794b7120f18ef",
+      "original_signature": "int __thiscall CWinApp::DoMessageBox(CWinApp *this,wchar_t *param_1,uint param_2,uint param_3)",
+      "original_symbol": "CWinApp::DoMessageBox"
+    },
+    {
+      "original": "NAMED_L151595",
+      "rust": "recovered::adapters16::named_l151595",
+      "category": "adapters16",
+      "source_line": 151595,
+      "source_lines": 10,
+      "source_sha256": "825c6362ab2cdd99e7f9e95d4a7861374a9e34abfbf9938b50270cf2f3663113",
+      "original_signature": "__int64 __thiscall CWnd::WindowProc(CWnd *this,uint param_1,__uint64 param_2,__int64 param_3)",
+      "original_symbol": "CWnd::WindowProc"
+    },
+    {
+      "original": "NAMED_L157644",
+      "rust": "recovered::adapters16::named_l157644",
+      "category": "adapters16",
+      "source_line": 157644,
+      "source_lines": 10,
+      "source_sha256": "fcb87bc73720abe72f6fd9fd53c7d0ffbbbe9b8faa2a43c2a1985a77bf1f219a",
+      "original_signature": "int __cdecl AfxWinMain(HINSTANCE__ *param_1,HINSTANCE__ *param_2,wchar_t *param_3,int param_4)",
+      "original_symbol": "AfxWinMain"
+    },
+    {
+      "original": "NAMED_L157657",
+      "rust": "recovered::adapters16::named_l157657",
+      "category": "adapters16",
+      "source_line": 157657,
+      "source_lines": 10,
+      "source_sha256": "fcb87bc73720abe72f6fd9fd53c7d0ffbbbe9b8faa2a43c2a1985a77bf1f219a",
+      "original_signature": "int __cdecl AfxWinMain(HINSTANCE__ *param_1,HINSTANCE__ *param_2,wchar_t *param_3,int param_4)",
+      "original_symbol": "AfxWinMain"
+    },
+    {
+      "original": "NAMED_L151002",
+      "rust": "recovered::adapters16::named_l151002",
+      "category": "adapters16",
+      "source_line": 151002,
+      "source_lines": 10,
+      "source_sha256": "a2b263478bdea46aa80b9f9fb2f52c67867c821900ebeb999153b7c003594f43",
+      "original_signature": "IConnectionPoint * __thiscall CCmdTarget::GetConnectionHook(CCmdTarget *this,_GUID *param_1)",
+      "original_symbol": "CCmdTarget::GetConnectionHook"
+    },
+    {
+      "original": "NAMED_L153861",
+      "rust": "recovered::adapters16::named_l153861",
+      "category": "adapters16",
+      "source_line": 153861,
+      "source_lines": 10,
+      "source_sha256": "0acdc8956c65f47c7cd8720f839f8b4754c3882bea35b8b61bafeb3c8c5eddf8",
+      "original_signature": "CDocument * __thiscall CWinApp::OpenDocumentFile(CWinApp *this,wchar_t *param_1,int param_2)",
+      "original_symbol": "CWinApp::OpenDocumentFile"
+    },
+    {
+      "original": "NAMED_L154436",
+      "rust": "recovered::adapters16::named_l154436",
+      "category": "adapters16",
+      "source_line": 154436,
+      "source_lines": 11,
+      "source_sha256": "6909f25f314c302b0ec56f77c6cd97f63a3d1979fabd488bb2e7afd66d395307",
+      "original_signature": "int __thiscall\r\nCOleServerItem::OnInitFromData(COleServerItem *this,COleDataObject *param_1,int param_2)",
+      "original_symbol": "COleServerItem::OnInitFromData"
+    },
+    {
+      "original": "NAMED_L156799",
+      "rust": "recovered::adapters16::named_l156799",
+      "category": "adapters16",
+      "source_line": 156799,
+      "source_lines": 11,
+      "source_sha256": "7e32a892bc68aa17701b88444889e99a28f7d6e7b3deb1455abe20ecb3f0e620",
+      "original_signature": "__int64 __thiscall\r\nstd::basic_streambuf<>::xsputn(basic_streambuf<> *this,wchar_t *param_1,__int64 param_2)",
+      "original_symbol": "std::basic_streambuf<>::xsputn"
+    },
+    {
+      "original": "NAMED_L156874",
+      "rust": "recovered::adapters16::named_l156874",
+      "category": "adapters16",
+      "source_line": 156874,
+      "source_lines": 11,
+      "source_sha256": "f881dd7e908a7310b12c8db817b5c6bfd5598a59d015e72a2620ab14a0e7f8ac",
+      "original_signature": "__int64 __thiscall\r\nstd::basic_streambuf<>::xsgetn(basic_streambuf<> *this,wchar_t *param_1,__int64 param_2)",
+      "original_symbol": "std::basic_streambuf<>::xsgetn"
+    },
+    {
+      "original": "NAMED_L152654",
+      "rust": "recovered::adapters16::named_l152654",
+      "category": "adapters16",
+      "source_line": 152654,
+      "source_lines": 10,
+      "source_sha256": "5274c0844c0f3df75c2cd02a45df238f04d51406645adb262f6d9f4067706ae2",
+      "original_signature": "long __thiscall CDocument::LoadDocumentFromStream(CDocument *this,IStream *param_1,ulong param_2)",
+      "original_symbol": "CDocument::LoadDocumentFromStream"
+    },
+    {
+      "original": "FUN_1400b0ea0",
+      "rust": "recovered::adapters16::fun_1400b0ea0",
+      "category": "adapters16",
+      "source_line": 155566,
+      "source_lines": 13,
+      "source_sha256": "d8931196105ece2f5b69ccc79e4ffedaf7f52afaceb185d75fd6d447ed672d0f"
+    },
+    {
+      "original": "NAMED_L153119",
+      "rust": "recovered::adapters16::named_l153119",
+      "category": "adapters16",
+      "source_line": 153119,
+      "source_lines": 10,
+      "source_sha256": "4af1986dc1f107c85532267b73de191c10665a0b2a449fd710bb6ba160c2deb6",
+      "original_signature": "COleIPFrameWnd * __thiscall COleServerDoc::CreateInPlaceFrame(COleServerDoc *this,CWnd *param_1)",
+      "original_symbol": "COleServerDoc::CreateInPlaceFrame"
+    },
+    {
+      "original": "NAMED_L153487",
+      "rust": "recovered::adapters16::named_l153487",
+      "category": "adapters16",
+      "source_line": 153487,
+      "source_lines": 11,
+      "source_sha256": "d13c0a391ad75f49ac1fa87480d5fc07acd5875c8549ad7df2c7f921543c2693",
+      "original_signature": "int __thiscall\r\nCFrameWnd::OnCreateClient(CFrameWnd *this,tagCREATESTRUCTW *param_1,CCreateContext *param_2)",
+      "original_symbol": "CFrameWnd::OnCreateClient"
+    },
+    {
+      "original": "NAMED_L154450",
+      "rust": "recovered::adapters16::named_l154450",
+      "category": "adapters16",
+      "source_line": 154450,
+      "source_lines": 11,
+      "source_sha256": "2fb5a5bd08b16e8823b421d7e0393c464d323cfff1be96e8a8c065321a0cdc34",
+      "original_signature": "int __thiscall\r\nCOleServerItem::OnRenderData(COleServerItem *this,tagFORMATETC *param_1,tagSTGMEDIUM *param_2)",
+      "original_symbol": "COleServerItem::OnRenderData"
+    },
+    {
+      "original": "NAMED_L151622",
+      "rust": "recovered::adapters16::named_l151622",
+      "category": "adapters16",
+      "source_line": 151622,
+      "source_lines": 10,
+      "source_sha256": "3c51dd77301b714cb6a643ebeb4564013050b5361bc5eac8ec19cc2e3e4c78ba",
+      "original_signature": "__int64 __thiscall CWnd::DefWindowProcW(CWnd *this,uint param_1,__uint64 param_2,__int64 param_3)",
+      "original_symbol": "CWnd::DefWindowProcW"
+    },
+    {
+      "original": "NAMED_L152849",
+      "rust": "recovered::adapters16::named_l152849",
+      "category": "adapters16",
+      "source_line": 152849,
+      "source_lines": 10,
+      "source_sha256": "86581fb6c5810ffbce16a64f56fe1208147a278ef595ab127fe84efcc658f57b",
+      "original_signature": "COleClientItem * __thiscall COleDocument::GetInPlaceActiveItem(COleDocument *this,CWnd *param_1)",
+      "original_symbol": "COleDocument::GetInPlaceActiveItem"
+    },
+    {
+      "original": "NAMED_L153742",
+      "rust": "recovered::adapters16::named_l153742",
+      "category": "adapters16",
+      "source_line": 153742,
+      "source_lines": 10,
+      "source_sha256": "5a43a2ec534d334c5ce38122ce35fd0bca12602782d90b47d43a24f9e9732ee1",
+      "original_signature": "uint __thiscall CWinApp::GetProfileIntW(CWinApp *this,wchar_t *param_1,wchar_t *param_2,int param_3)",
+      "original_symbol": "CWinApp::GetProfileIntW"
+    },
+    {
+      "original": "NAMED_L153755",
+      "rust": "recovered::adapters16::named_l153755",
+      "category": "adapters16",
+      "source_line": 153755,
+      "source_lines": 10,
+      "source_sha256": "f3fab1736f44ff3be1d8f5dcaab1cff35eb08dd63f9d77ab1ac9c5fa61a0b6bd",
+      "original_signature": "int __thiscall CWinApp::WriteProfileInt(CWinApp *this,wchar_t *param_1,wchar_t *param_2,int param_3)",
+      "original_symbol": "CWinApp::WriteProfileInt"
+    },
+    {
+      "original": "NAMED_L157132",
+      "rust": "recovered::adapters16::named_l157132",
+      "category": "adapters16",
+      "source_line": 157132,
+      "source_lines": 14,
+      "source_sha256": "7571107614be97c1add77469ba973cac9b9a768b674dc0bf610af4effa1e09b7",
+      "original_signature": "DWORD __std_fs_open_handle(undefined8 *param_1,LPCWSTR param_2,DWORD param_3,DWORD param_4)",
+      "original_symbol": "__std_fs_open_handle"
+    },
+    {
+      "original": "NAMED_L151869",
+      "rust": "recovered::adapters16::named_l151869",
+      "category": "adapters16",
+      "source_line": 151869,
+      "source_lines": 11,
+      "source_sha256": "d180a40e814e033ffb2e647610a73b114f7888c2ba1a8593f86c8bb9c7612bed",
+      "original_signature": "int __thiscall\r\nCDialog::CreateIndirect(CDialog *this,DLGTEMPLATE *param_1,CWnd *param_2,void *param_3)",
+      "original_symbol": "CDialog::CreateIndirect"
+    },
+    {
+      "original": "NAMED_L152801",
+      "rust": "recovered::adapters16::named_l152801",
+      "category": "adapters16",
+      "source_line": 152801,
+      "source_lines": 10,
+      "source_sha256": "2c736639ca9a239180fbc90aee7b9dc296fc12d3c508185189b16abf5ae1d6da",
+      "original_signature": "long __thiscall CDocument::OnPreviewHandlerTranslateAccelerator(CDocument *this,tagMSG *param_1)",
+      "original_symbol": "CDocument::OnPreviewHandlerTranslateAccelerator"
+    },
+    {
+      "original": "NAMED_L153975",
+      "rust": "recovered::adapters16::named_l153975",
+      "category": "adapters16",
+      "source_line": 153975,
+      "source_lines": 10,
+      "source_sha256": "c2c7cf89afed0ffc543a23b7edd35c542fd8553490523d4b48b020ef55d27cfd",
+      "original_signature": "long __thiscall CWinApp::RegisterWithRestartManager(CWinApp *this,int param_1,CStringT<> *param_2)",
+      "original_symbol": "CWinApp::RegisterWithRestartManager"
+    },
+    {
+      "original": "NAMED_L154166",
+      "rust": "recovered::adapters16::named_l154166",
+      "category": "adapters16",
+      "source_line": 154166,
+      "source_lines": 11,
+      "source_sha256": "c075f11809ea259c21637421b53deed0fae789e6221cd5d79cb6ee27e28799dc",
+      "original_signature": "Confidence __thiscall\r\nCDocTemplate::MatchDocType(CDocTemplate *this,wchar_t *param_1,CDocument **param_2)",
+      "original_symbol": "CDocTemplate::MatchDocType"
+    },
+    {
+      "original": "NAMED_L154207",
+      "rust": "recovered::adapters16::named_l154207",
+      "category": "adapters16",
+      "source_line": 154207,
+      "source_lines": 10,
+      "source_sha256": "fb02908d232578274d36c5902d0bdbee29abdc642188ca10e7a2a2f77e093a9e",
+      "original_signature": "void __thiscall\r\nCDocTemplate::InitialUpdateFrame\r\n          (CDocTemplate *this,CFrameWnd *param_1,CDocument *param_2,int param_3)",
+      "original_symbol": "CDocTemplate::InitialUpdateFrame"
+    },
+    {
+      "original": "NAMED_L154359",
+      "rust": "recovered::adapters16::named_l154359",
+      "category": "adapters16",
+      "source_line": 154359,
+      "source_lines": 11,
+      "source_sha256": "b4b3cc3a02eba3e19adbc8a5dd64d4d32ce66dc81d44d70ffc760b14881981eb",
+      "original_signature": "int __thiscall\r\nCOleServerItem::OnDrawEx(COleServerItem *this,CDC *param_1,tagDVASPECT param_2,CSize *param_3)",
+      "original_symbol": "COleServerItem::OnDrawEx"
+    },
+    {
+      "original": "NAMED_L150017",
+      "rust": "recovered::adapters16::named_l150017",
+      "category": "adapters16",
+      "source_line": 150017,
+      "source_lines": 10,
+      "source_sha256": "943a8bd687b9f36b7104518eddffe670d236d2b877c7df8fe292ec9af671e232",
+      "original_signature": "HRESULT __stdcall CoCreateFreeThreadedMarshaler(LPUNKNOWN punkOuter,LPUNKNOWN *ppunkMarshal)",
+      "original_symbol": "CoCreateFreeThreadedMarshaler"
+    },
+    {
+      "original": "NAMED_L152960",
+      "rust": "recovered::adapters16::named_l152960",
+      "category": "adapters16",
+      "source_line": 152960,
+      "source_lines": 11,
+      "source_sha256": "4fdafae4cbb4107cdc09e4e66f2f423b3082c90c68db082b6a4eee657064fa5a",
+      "original_signature": "COleClientItem * __thiscall\r\nCOleLinkingDoc::OnFindEmbeddedItem(COleLinkingDoc *this,wchar_t *param_1)",
+      "original_symbol": "COleLinkingDoc::OnFindEmbeddedItem"
+    },
+    {
+      "original": "NAMED_L153143",
+      "rust": "recovered::adapters16::named_l153143",
+      "category": "adapters16",
+      "source_line": 153143,
+      "source_lines": 10,
+      "source_sha256": "4fdfdda14d46e73ecd7b4310259748873955c062b17a9ff5caf23844f7f8b910",
+      "original_signature": "void __thiscall\r\nCOleServerDoc::OnResizeBorder\r\n          (COleServerDoc *this,tagRECT *param_1,IOleInPlaceUIWindow *param_2,int param_3)",
+      "original_symbol": "COleServerDoc::OnResizeBorder"
+    },
+    {
+      "original": "NAMED_L150670",
+      "rust": "recovered::adapters16::named_l150670",
+      "category": "adapters16",
+      "source_line": 150670,
+      "source_lines": 11,
+      "source_sha256": "39e031ad7f02b9f87246ffabea8475a2c367182b806fe1f1841e67f96d1df824",
+      "original_signature": "int __thiscall\r\nCException::GetErrorMessage(CException *this,wchar_t *param_1,uint param_2,uint *param_3)",
+      "original_symbol": "CException::GetErrorMessage"
+    },
+    {
+      "original": "NAMED_L152910",
+      "rust": "recovered::adapters16::named_l152910",
+      "category": "adapters16",
+      "source_line": 152910,
+      "source_lines": 10,
+      "source_sha256": "ad634aa9769d526f237bae4398ab058f5491aaeb0fbb28485de4546b1eb675c0",
+      "original_signature": "COleClientItem * __thiscall COleDocument::GetPrimarySelectedItem(COleDocument *this,CView *param_1)",
+      "original_symbol": "COleDocument::GetPrimarySelectedItem"
+    },
+    {
+      "original": "NAMED_L154479",
+      "rust": "recovered::adapters16::named_l154479",
+      "category": "adapters16",
+      "source_line": 154479,
+      "source_lines": 11,
+      "source_sha256": "80f9570f059414cb4013d4aaaf365a78cdefebf0274de8034cf0b1bdc64fabef",
+      "original_signature": "int __thiscall\r\nCOleServerItem::GetMetafileData(COleServerItem *this,tagFORMATETC *param_1,tagSTGMEDIUM *param_2)",
+      "original_symbol": "COleServerItem::GetMetafileData"
+    },
+    {
+      "original": "NAMED_L151608",
+      "rust": "recovered::adapters16::named_l151608",
+      "category": "adapters16",
+      "source_line": 151608,
+      "source_lines": 11,
+      "source_sha256": "cb02d8f5d169677de266365de0018571510c61d75ae6304954b4c95b1ada57e0",
+      "original_signature": "int __thiscall\r\nCWnd::OnWndMsg(CWnd *this,uint param_1,__uint64 param_2,__int64 param_3,__int64 *param_4)",
+      "original_symbol": "CWnd::OnWndMsg"
+    },
+    {
+      "original": "NAMED_L106088",
+      "rust": "recovered::adapters16::named_l106088",
+      "category": "adapters16",
+      "source_line": 106088,
+      "source_lines": 13,
+      "source_sha256": "e6bbc4d1911426f856362cd4c7f87173526187baf6bc269b6876719f2d419573",
+      "original_signature": "void * __thiscall\r\nConcurrency::details::UMSFreeThreadProxyFactory::_scalar_deleting_destructor_\r\n          (UMSFreeThreadProxyFactory *this,uint param_1)",
+      "original_symbol": "Concurrency::details::UMSFreeThreadProxyFactory::_scalar_deleting_destructor_"
+    },
+    {
+      "original": "NAMED_L153704",
+      "rust": "recovered::adapters16::named_l153704",
+      "category": "adapters16",
+      "source_line": 153704,
+      "source_lines": 11,
+      "source_sha256": "9d2780520dc397bb21fd22c1e1b30971d619044d19fb08fbb5fa7eb8643c1344",
+      "original_signature": "__int64 __thiscall\r\nCWinApp::ProcessWndProcException(CWinApp *this,CException *param_1,tagMSG *param_2)",
+      "original_symbol": "CWinApp::ProcessWndProcException"
+    },
+    {
+      "original": "NAMED_L152774",
+      "rust": "recovered::adapters16::named_l152774",
+      "category": "adapters16",
+      "source_line": 152774,
+      "source_lines": 11,
+      "source_sha256": "971e47d5e5f15b46abff470a213d859a03301aadf9a0829deee0034e1976d532",
+      "original_signature": "long __thiscall\r\nCOleDocument::OnLoadDocumentFromStream(COleDocument *this,IStream *param_1,ulong param_2)",
+      "original_symbol": "COleDocument::OnLoadDocumentFromStream"
+    },
+    {
+      "original": "NAMED_L152974",
+      "rust": "recovered::adapters16::named_l152974",
+      "category": "adapters16",
+      "source_line": 152974,
+      "source_lines": 11,
+      "source_sha256": "e9df628daa0c88230a0902c45d6d717ea1eebe232f394a294f04fdaa71d0c62f",
+      "original_signature": "int __thiscall\r\nCOleLinkingDoc::RegisterIfServerAttached(COleLinkingDoc *this,wchar_t *param_1,int param_2)",
+      "original_symbol": "COleLinkingDoc::RegisterIfServerAttached"
+    },
+    {
+      "original": "NAMED_L152629",
+      "rust": "recovered::adapters16::named_l152629",
+      "category": "adapters16",
+      "source_line": 152629,
+      "source_lines": 11,
+      "source_sha256": "f660d0c720768e79a51c9fc14facc549bd9f159d67b0ef93c6d03f1c323c6cbe",
+      "original_signature": "int __thiscall\r\nCDocument::GetThumbnail(CDocument *this,uint param_1,HBITMAP__ **param_2,WTS_ALPHATYPE *param_3)",
+      "original_symbol": "CDocument::GetThumbnail"
+    },
+    {
+      "original": "NAMED_L151581",
+      "rust": "recovered::adapters16::named_l151581",
+      "category": "adapters16",
+      "source_line": 151581,
+      "source_lines": 11,
+      "source_sha256": "127c0f3c5f896bbdc11fdc301e648994cf1632458c2bbc4a9a5f7299f481ded7",
+      "original_signature": "int __thiscall\r\nCWnd::OnAmbientProperty(CWnd *this,COleControlSite *param_1,long param_2,tagVARIANT *param_3)",
+      "original_symbol": "CWnd::OnAmbientProperty"
+    },
+    {
+      "original": "NAMED_L154193",
+      "rust": "recovered::adapters16::named_l154193",
+      "category": "adapters16",
+      "source_line": 154193,
+      "source_lines": 11,
+      "source_sha256": "228b9c5aab965b78c45d75e7c5f2274eaef36324568174db98bc6ae513aa91a3",
+      "original_signature": "CFrameWnd * __thiscall\r\nCDocTemplate::CreateNewFrame(CDocTemplate *this,CDocument *param_1,CFrameWnd *param_2)",
+      "original_symbol": "CDocTemplate::CreateNewFrame"
+    },
+    {
+      "original": "NAMED_L151929",
+      "rust": "recovered::adapters16::named_l151929",
+      "category": "adapters16",
+      "source_line": 151929,
+      "source_lines": 11,
+      "source_sha256": "32ee17b43be5f1d68aede958bcb9e80131ee8056fe3f5205b9319d595ef611ed",
+      "original_signature": "int __thiscall\r\nCView::OnCmdMsg(CView *this,uint param_1,int param_2,void *param_3,AFX_CMDHANDLERINFO *param_4)",
+      "original_symbol": "CView::OnCmdMsg"
+    },
+    {
+      "original": "NAMED_L150656",
+      "rust": "recovered::adapters16::named_l150656",
+      "category": "adapters16",
+      "source_line": 150656,
+      "source_lines": 11,
+      "source_sha256": "3044940f983be3d323125f830fb855c8a23b632b80a62b0e6f9dc06466b9c8d8",
+      "original_signature": "int __thiscall\r\nCFileException::GetErrorMessage(CFileException *this,wchar_t *param_1,uint param_2,uint *param_3)",
+      "original_symbol": "CFileException::GetErrorMessage"
+    },
+    {
+      "original": "NAMED_L151515",
+      "rust": "recovered::adapters16::named_l151515",
+      "category": "adapters16",
+      "source_line": 151515,
+      "source_lines": 11,
+      "source_sha256": "0e5925c336f9b34f321cc9a9218cb0bc7a3684d0059aa6a430da0b3ea273f868",
+      "original_signature": "long __thiscall\r\nCWnd::CreateAccessibleProxy(CWnd *this,__uint64 param_1,__int64 param_2,__int64 *param_3)",
+      "original_symbol": "CWnd::CreateAccessibleProxy"
+    },
+    {
+      "original": "NAMED_L153780",
+      "rust": "recovered::adapters16::named_l153780",
+      "category": "adapters16",
+      "source_line": 153780,
+      "source_lines": 11,
+      "source_sha256": "ee4800625af7999aae098b2b27fc2f41d6490a7f637dafc34e0ea0dc24d1ad86",
+      "original_signature": "int __thiscall\r\nCWinApp::WriteProfileStringW(CWinApp *this,wchar_t *param_1,wchar_t *param_2,wchar_t *param_3)",
+      "original_symbol": "CWinApp::WriteProfileStringW"
+    },
+    {
+      "original": "NAMED_L153026",
+      "rust": "recovered::adapters16::named_l153026",
+      "category": "adapters16",
+      "source_line": 153026,
+      "source_lines": 11,
+      "source_sha256": "981caacaedc44284157e5e4e111f2bcb4b5e6dc0d2a909638ea25a561ef185f4",
+      "original_signature": "CDocObjectServer * __thiscall\r\nCOleServerDoc::GetDocObjectServer(COleServerDoc *this,IOleDocumentSite *param_1)",
+      "original_symbol": "COleServerDoc::GetDocObjectServer"
+    },
+    {
+      "original": "NAMED_L150795",
+      "rust": "recovered::adapters16::named_l150795",
+      "category": "adapters16",
+      "source_line": 150795,
+      "source_lines": 11,
+      "source_sha256": "3b96549b1b3247133d7b796e0ddc708ad35502abbccb915849c872b4f78e538b",
+      "original_signature": "int __thiscall\r\nCDialog::OnCmdMsg(CDialog *this,uint param_1,int param_2,void *param_3,AFX_CMDHANDLERINFO *param_4)",
+      "original_symbol": "CDialog::OnCmdMsg"
+    },
+    {
+      "original": "NAMED_L151646",
+      "rust": "recovered::adapters16::named_l151646",
+      "category": "adapters16",
+      "source_line": 151646,
+      "source_lines": 11,
+      "source_sha256": "d3534ae92c78599c7c664b248048769be401dd4c34a88818cc1512bbdc38270f",
+      "original_signature": "int __thiscall\r\nCWnd::OnChildNotify(CWnd *this,uint param_1,__uint64 param_2,__int64 param_3,__int64 *param_4)",
+      "original_symbol": "CWnd::OnChildNotify"
+    },
+    {
+      "original": "NAMED_L154259",
+      "rust": "recovered::adapters16::named_l154259",
+      "category": "adapters16",
+      "source_line": 154259,
+      "source_lines": 11,
+      "source_sha256": "f0e6b0bdbeb6e47afb0b70befda3cf06e48dd1e744765d214a0e6db403195f3b",
+      "original_signature": "CDocument * __thiscall\r\nCSingleDocTemplate::OpenDocumentFile(CSingleDocTemplate *this,wchar_t *param_1,int param_2)",
+      "original_symbol": "CSingleDocTemplate::OpenDocumentFile"
+    },
+    {
+      "original": "NAMED_L156888",
+      "rust": "recovered::adapters16::named_l156888",
+      "category": "adapters16",
+      "source_line": 156888,
+      "source_lines": 11,
+      "source_sha256": "d94d335e679bd558faebaa1ce1145bb302cb48b5d814e6719cce417abc32b6e9",
+      "original_signature": "basic_streambuf<> * __thiscall\r\nstd::basic_streambuf<>::setbuf(basic_streambuf<> *this,wchar_t *param_1,__int64 param_2)",
+      "original_symbol": "std::basic_streambuf<>::setbuf"
+    },
+    {
+      "original": "NAMED_L150076",
+      "rust": "recovered::adapters16::named_l150076",
+      "category": "adapters16",
+      "source_line": 150076,
+      "source_lines": 11,
+      "source_sha256": "0115c5022717c854f9e37a94f06116b5869a4fe096809b5c84f86543f8d8e603",
+      "original_signature": "HRESULT __stdcall\r\nCoCreateInstance(IID *rclsid,LPUNKNOWN pUnkOuter,DWORD dwClsContext,IID *riid,LPVOID *ppv)",
+      "original_symbol": "CoCreateInstance"
+    },
+    {
+      "original": "NAMED_L154464",
+      "rust": "recovered::adapters16::named_l154464",
+      "category": "adapters16",
+      "source_line": 154464,
+      "source_lines": 12,
+      "source_sha256": "605758231e65a42cf63ea524d6f773a1ec0888e01fca3a7edd337ec12b10364a",
+      "original_signature": "int __thiscall\r\nCOleServerItem::OnSetData\r\n          (COleServerItem *this,tagFORMATETC *param_1,tagSTGMEDIUM *param_2,int param_3)",
+      "original_symbol": "COleServerItem::OnSetData"
+    },
+    {
+      "original": "NAMED_L151555",
+      "rust": "recovered::adapters16::named_l151555",
+      "category": "adapters16",
+      "source_line": 151555,
+      "source_lines": 10,
+      "source_sha256": "b0cd64efd1b0cd4aa7067903228bd583dbfa4f858a3743da0c5af3a9f20959b3",
+      "original_signature": "_func___int64_HWND___ptr_uint___uint64___int64 ** __thiscall CWnd::GetSuperWndProcAddr(CWnd *this)",
+      "original_symbol": "CWnd::GetSuperWndProcAddr"
+    },
+    {
+      "original": "NAMED_L123765",
+      "rust": "recovered::adapters16::named_l123765",
+      "category": "adapters16",
+      "source_line": 123765,
+      "source_lines": 11,
+      "source_sha256": "bc598af9277683f3181c652cb07a8d0ff1360e1d34b792033a7480304a81eab7",
+      "original_signature": "BOOL __stdcall\r\nInitializeCriticalSectionEx(LPCRITICAL_SECTION lpCriticalSection,DWORD dwSpinCount,DWORD Flags)",
+      "original_symbol": "InitializeCriticalSectionEx"
+    },
+    {
+      "original": "NAMED_L154504",
+      "rust": "recovered::adapters16::named_l154504",
+      "category": "adapters16",
+      "source_line": 154504,
+      "source_lines": 12,
+      "source_sha256": "37243bb0741615b634ddd8704b4a0ca3aae4400e64ec7bf583d16ab3cb9d4957",
+      "original_signature": "int __thiscall\r\nCFrameWnd::LoadFrame\r\n          (CFrameWnd *this,uint param_1,ulong param_2,CWnd *param_3,CCreateContext *param_4)",
+      "original_symbol": "CFrameWnd::LoadFrame"
+    },
+    {
+      "original": "NAMED_L154735",
+      "rust": "recovered::adapters16::named_l154735",
+      "category": "adapters16",
+      "source_line": 154735,
+      "source_lines": 16,
+      "source_sha256": "c1c721151af86afccd5246cd7611abb6db894b0e7a513e1e165895dcd4f3377e",
+      "original_signature": "void __cdecl\r\n_eh_vector_destructor_iterator_\r\n          (void *param_1,__uint64 param_2,__uint64 param_3,_func_void_void_ptr *param_4)",
+      "original_symbol": "_eh_vector_destructor_iterator_"
+    },
+    {
+      "original": "NAMED_L154345",
+      "rust": "recovered::adapters16::named_l154345",
+      "category": "adapters16",
+      "source_line": 154345,
+      "source_lines": 11,
+      "source_sha256": "45991460638545d2e411519629011cba451f4bc41197ec55d856f091a5a6db63",
+      "original_signature": "void __thiscall\r\nCOleServerItem::OnUpdate\r\n          (COleServerItem *this,COleServerItem *param_1,__int64 param_2,CObject *param_3,\r\n          tagDVASPECT param_4)",
+      "original_symbol": "COleServerItem::OnUpdate"
+    },
+    {
+      "original": "NAMED_L152291",
+      "rust": "recovered::adapters16::named_l152291",
+      "category": "adapters16",
+      "source_line": 152291,
+      "source_lines": 12,
+      "source_sha256": "b1f250caf6cec408881253bbce67170b0457c23d8e41ca46f6727be734b99ed7",
+      "original_signature": "int __thiscall\r\nCCmdTarget::OnCmdMsg\r\n          (CCmdTarget *this,uint param_1,int param_2,void *param_3,AFX_CMDHANDLERINFO *param_4)",
+      "original_symbol": "CCmdTarget::OnCmdMsg"
+    },
+    {
+      "original": "NAMED_L152529",
+      "rust": "recovered::adapters16::named_l152529",
+      "category": "adapters16",
+      "source_line": 152529,
+      "source_lines": 12,
+      "source_sha256": "6513b0004c5c72ba2aff944200d2b458b70e155482a7a608a746edaab51fefe4",
+      "original_signature": "int __thiscall\r\nCOleDocument::OnCmdMsg\r\n          (COleDocument *this,uint param_1,int param_2,void *param_3,AFX_CMDHANDLERINFO *param_4)",
+      "original_symbol": "COleDocument::OnCmdMsg"
+    },
+    {
+      "original": "NAMED_L154079",
+      "rust": "recovered::adapters16::named_l154079",
+      "category": "adapters16",
+      "source_line": 154079,
+      "source_lines": 12,
+      "source_sha256": "d4872353b6ec2a156c04e6251ee47dfbded58b5e5f3796f638e155b6a1b435d3",
+      "original_signature": "int __thiscall\r\nCDocTemplate::OnCmdMsg\r\n          (CDocTemplate *this,uint param_1,int param_2,void *param_3,AFX_CMDHANDLERINFO *param_4)",
+      "original_symbol": "CDocTemplate::OnCmdMsg"
+    },
+    {
+      "original": "FUN_140034480",
+      "rust": "recovered::adapters16::fun_140034480",
+      "category": "adapters16",
+      "source_line": 48653,
+      "source_lines": 16,
+      "source_sha256": "c43ecc1ac9f683e50b5604f50ad7e23c60eeb9380e172a1fb41e8704506fcd30"
+    },
+    {
+      "original": "FUN_14007a0f0",
+      "rust": "recovered::adapters16::fun_14007a0f0",
+      "category": "adapters16",
+      "source_line": 107370,
+      "source_lines": 16,
+      "source_sha256": "8e31de8c8ab83f0e1f505ef08d76a36b35b9e6e1bbf44f6bba9585a829ca4051"
+    },
+    {
+      "original": "NAMED_L153226",
+      "rust": "recovered::adapters16::named_l153226",
+      "category": "adapters16",
+      "source_line": 153226,
+      "source_lines": 12,
+      "source_sha256": "4f680d51bc396017918a517fb00e469ddbef693da6556eb4ee7b7675b6a8a2bf",
+      "original_signature": "int __thiscall\r\nCFrameWnd::OnCmdMsg(CFrameWnd *this,uint param_1,int param_2,void *param_3,\r\n                   AFX_CMDHANDLERINFO *param_4)",
+      "original_symbol": "CFrameWnd::OnCmdMsg"
+    },
+    {
+      "original": "NAMED_L153794",
+      "rust": "recovered::adapters16::named_l153794",
+      "category": "adapters16",
+      "source_line": 153794,
+      "source_lines": 12,
+      "source_sha256": "c44257c14fee3cae0d280d029d91fdd48821fef0959301e3d7c2ceab769e9369",
+      "original_signature": "int __thiscall\r\nCWinApp::GetProfileBinary\r\n          (CWinApp *this,wchar_t *param_1,wchar_t *param_2,uchar **param_3,uint *param_4)",
+      "original_symbol": "CWinApp::GetProfileBinary"
+    },
+    {
+      "original": "NAMED_L153809",
+      "rust": "recovered::adapters16::named_l153809",
+      "category": "adapters16",
+      "source_line": 153809,
+      "source_lines": 12,
+      "source_sha256": "74019d7735df9d90a4c2ff53fafb08ffe7228688055ae4a59345938ad8a6b4c5",
+      "original_signature": "int __thiscall\r\nCWinApp::WriteProfileBinary\r\n          (CWinApp *this,wchar_t *param_1,wchar_t *param_2,uchar *param_3,uint param_4)",
+      "original_symbol": "CWinApp::WriteProfileBinary"
+    },
+    {
+      "original": "NAMED_L154244",
+      "rust": "recovered::adapters16::named_l154244",
+      "category": "adapters16",
+      "source_line": 154244,
+      "source_lines": 12,
+      "source_sha256": "df1561de13a04bfc820578ad9eba6114693dc6b310ef3045e782b0f115b4d42b",
+      "original_signature": "CDocument * __thiscall\r\nCSingleDocTemplate::OpenDocumentFile\r\n          (CSingleDocTemplate *this,wchar_t *param_1,int param_2,int param_3)",
+      "original_symbol": "CSingleDocTemplate::OpenDocumentFile"
+    },
+    {
+      "original": "FUN_14001c0c0",
+      "rust": "recovered::adapters16::fun_14001c0c0",
+      "category": "adapters16",
+      "source_line": 28799,
+      "source_lines": 20,
+      "source_sha256": "1d4754aace909c85f973b2cbc59271ba525674410bf8e8655d23d288aec0ac4e"
+    },
+    {
+      "original": "FUN_14001c790",
+      "rust": "recovered::adapters16::fun_14001c790",
+      "category": "adapters16",
+      "source_line": 29257,
+      "source_lines": 20,
+      "source_sha256": "fb0285c7ac6706d45917b309074d9167a887f2a6968ec5b4c37f466134e99d39"
+    },
+    {
+      "original": "FUN_14001cf10",
+      "rust": "recovered::adapters16::fun_14001cf10",
+      "category": "adapters16",
+      "source_line": 29831,
+      "source_lines": 20,
+      "source_sha256": "8abcfc29bfd14603338e8898773aaf76c78a966db5586dfa9890a0c4f3c8d89f"
+    },
+    {
+      "original": "FUN_14001d4b0",
+      "rust": "recovered::adapters16::fun_14001d4b0",
+      "category": "adapters16",
+      "source_line": 30203,
+      "source_lines": 20,
+      "source_sha256": "8032ba578e2505333bae22dc99a5d7a0942921c5107bbd1aa968215945afc4e3"
+    },
+    {
+      "original": "FUN_140064590",
+      "rust": "recovered::adapters16::fun_140064590",
+      "category": "adapters16",
+      "source_line": 90532,
+      "source_lines": 20,
+      "source_sha256": "7f0284f14899ac590d38ccc8f7664532b385efcc4887e6d8cc0a925375dbd20e"
+    },
+    {
+      "original": "FUN_140064ee0",
+      "rust": "recovered::adapters16::fun_140064ee0",
+      "category": "adapters16",
+      "source_line": 91137,
+      "source_lines": 20,
+      "source_sha256": "228f63ff0226f3b845e8941caf7daf0bfeb7a3b71eeb9eb1a5bfb2527cd7104d"
+    },
+    {
+      "original": "FUN_1400a7d80",
+      "rust": "recovered::adapters16::fun_1400a7d80",
+      "category": "adapters16",
+      "source_line": 144101,
+      "source_lines": 20,
+      "source_sha256": "656420bbc3123553e6fda28a90e0e13317cf60541444214d6b299015adde77ad"
+    },
+    {
+      "original": "FUN_1400a83a0",
+      "rust": "recovered::adapters16::fun_1400a83a0",
+      "category": "adapters16",
+      "source_line": 144568,
+      "source_lines": 20,
+      "source_sha256": "ff75771000ab9c534874dee9c6e7576ef67d927a6b9747d5cc4d0a65f2cae222"
+    },
+    {
+      "original": "NAMED_L154397",
+      "rust": "recovered::adapters16::named_l154397",
+      "category": "adapters16",
+      "source_line": 154397,
+      "source_lines": 12,
+      "source_sha256": "4e6295c3fedc977c52a58bae9be555d41f56c093e5153c7a455e86fb3c2e4f24",
+      "original_signature": "COleDataSource * __thiscall\r\nCOleServerItem::OnGetClipboardData\r\n          (COleServerItem *this,int param_1,tagPOINT *param_2,tagSIZE *param_3)",
+      "original_symbol": "COleServerItem::OnGetClipboardData"
+    },
+    {
+      "original": "NAMED_L151814",
+      "rust": "recovered::adapters16::named_l151814",
+      "category": "adapters16",
+      "source_line": 151814,
+      "source_lines": 13,
+      "source_sha256": "ccc2b7aa4814cfdf3a4f84aa010c362bdfb6ebf39281f2c08fb3490b45bbb07c",
+      "original_signature": "int __thiscall\r\nCWnd::CreateControlSite\r\n          (CWnd *this,COleControlContainer *param_1,COleControlSite **param_2,uint param_3,\r\n          _GUID *param_4)",
+      "original_symbol": "CWnd::CreateControlSite"
+    },
+    {
+      "original": "FUN_14007a080",
+      "rust": "recovered::adapters16::fun_14007a080",
+      "category": "adapters16",
+      "source_line": 107350,
+      "source_lines": 17,
+      "source_sha256": "0f15b3b8b3bcecfa039dc51974c7deeee46cb92dcd2070af750903a0c46c3713"
+    },
+    {
+      "original": "FUN_14007bd30",
+      "rust": "recovered::adapters16::fun_14007bd30",
+      "category": "adapters16",
+      "source_line": 109021,
+      "source_lines": 17,
+      "source_sha256": "520dad3d19c18a6b3a1f0b21958b88394d51b2952452b920401dade0319c2993"
+    },
+    {
+      "original": "NAMED_L153010",
+      "rust": "recovered::adapters16::named_l153010",
+      "category": "adapters16",
+      "source_line": 153010,
+      "source_lines": 13,
+      "source_sha256": "783a322d531b847505eb0aa4d1f33c285265e1fcf27645e458922916d44fbb1a",
+      "original_signature": "long __thiscall\r\nCOleServerDoc::OnExecOleCmd\r\n          (COleServerDoc *this,_GUID *param_1,ulong param_2,ulong param_3,tagVARIANT *param_4,\r\n          tagVARIANT *param_5)",
+      "original_symbol": "COleServerDoc::OnExecOleCmd"
+    },
+    {
+      "original": "NAMED_L151026",
+      "rust": "recovered::adapters16::named_l151026",
+      "category": "adapters16",
+      "source_line": 151026,
+      "source_lines": 12,
+      "source_sha256": "51cfcae68ff18d6bdb63411e4d23cae35815882e46d3a4aeb7e85c850543c1bd",
+      "original_signature": "int __thiscall\r\nCWnd::Create(CWnd *this,wchar_t *param_1,wchar_t *param_2,ulong param_3,tagRECT *param_4,\r\n            CWnd *param_5,uint param_6,CCreateContext *param_7)",
+      "original_symbol": "CWnd::Create"
+    },
+    {
+      "original": "FUN_14006e750",
+      "rust": "recovered::adapters16::fun_14006e750",
+      "category": "adapters16",
+      "source_line": 98860,
+      "source_lines": 15,
+      "source_sha256": "f9795cedd98fc58ea91cba5817a4fce2a049a9bed72129f20d277d622ba264fd"
+    },
+    {
+      "original": "FUN_14007bd90",
+      "rust": "recovered::adapters16::fun_14007bd90",
+      "category": "adapters16",
+      "source_line": 109041,
+      "source_lines": 18,
+      "source_sha256": "7815069a9cbab2a6778f377b1ac4669e9fe94ab04583b43be6e47f84951b0ad5"
+    },
+    {
+      "original": "NAMED_L157609",
+      "rust": "recovered::adapters16::named_l157609",
+      "category": "adapters16",
+      "source_line": 157609,
+      "source_lines": 13,
+      "source_sha256": "b63b0507a5341c7dbc23001514b4dbf55f74d625bf5cdd64d0ea47546542729f",
+      "original_signature": "int __stdcall\r\nMultiByteToWideChar(UINT CodePage,DWORD dwFlags,LPCSTR lpMultiByteStr,int cbMultiByte,\r\n                   LPWSTR lpWideCharStr,int cchWideChar)",
+      "original_symbol": "MultiByteToWideChar"
+    },
+    {
+      "original": "NAMED_L36052",
+      "rust": "recovered::adapters16::named_l36052",
+      "category": "adapters16",
+      "source_line": 36052,
+      "source_lines": 20,
+      "source_sha256": "209ebdcf4742b1008661ec4a24b7ba03606c632f7d8df8e6a3157a37ebc7e373",
+      "original_signature": "void thunk_FUN_140024f50(longlong *param_1)",
+      "original_symbol": "thunk_FUN_140024f50"
+    },
+    {
+      "original": "NAMED_L151041",
+      "rust": "recovered::adapters16::named_l151041",
+      "category": "adapters16",
+      "source_line": 151041,
+      "source_lines": 12,
+      "source_sha256": "7e2a49c642ff2dd524bf5f3c5c2bf7735a0a4beaa21c5afa4a7c0294c3e8005a",
+      "original_signature": "int __thiscall\r\nCWnd::CreateEx(CWnd *this,ulong param_1,wchar_t *param_2,wchar_t *param_3,ulong param_4,\r\n              tagRECT *param_5,CWnd *param_6,uint param_7,void *param_8)",
+      "original_symbol": "CWnd::CreateEx"
+    },
+    {
+      "original": "FUN_140034240",
+      "rust": "recovered::adapters16::fun_140034240",
+      "category": "adapters16",
+      "source_line": 48521,
+      "source_lines": 19,
+      "source_sha256": "c832d7cfe2adf55b5e5f445f0af975f1002c78d49c49a0134142ad403463d5aa"
+    },
+    {
+      "original": "FUN_140078760",
+      "rust": "recovered::adapters16::fun_140078760",
+      "category": "adapters16",
+      "source_line": 105985,
+      "source_lines": 19,
+      "source_sha256": "694c12d2f8db23ae98448e5536f8fd554b2a9e2dacf6ea5fcbd19eb3d5eda234"
+    },
+    {
+      "original": "NAMED_L153959",
+      "rust": "recovered::adapters16::named_l153959",
+      "category": "adapters16",
+      "source_line": 153959,
+      "source_lines": 13,
+      "source_sha256": "230dd496c28109c8b747ccad6df85f432a74f3fdddbe121bda2d43ba5684ee34",
+      "original_signature": "long __thiscall\r\nCWinApp::RegisterWithRestartManager\r\n          (CWinApp *this,wchar_t *param_1,ulong param_2,_func_ulong_void_ptr *param_3,void *param_4,\r\n          ulong param_5,ulong param_6)",
+      "original_symbol": "CWinApp::RegisterWithRestartManager"
+    },
+    {
+      "original": "NAMED_L153252",
+      "rust": "recovered::adapters16::named_l153252",
+      "category": "adapters16",
+      "source_line": 153252,
+      "source_lines": 12,
+      "source_sha256": "d7df47f029320dbc08838a785f34418436dd056ef752b57d641e20b43ca27d04",
+      "original_signature": "int __thiscall\r\nCFrameWnd::Create(CFrameWnd *this,wchar_t *param_1,wchar_t *param_2,ulong param_3,tagRECT *param_4,\r\n                 CWnd *param_5,wchar_t *param_6,ulong param_7,CCreateContext *param_8)",
+      "original_symbol": "CFrameWnd::Create"
+    },
+    {
+      "original": "FUN_1400786f0",
+      "rust": "recovered::adapters16::fun_1400786f0",
+      "category": "adapters16",
+      "source_line": 105962,
+      "source_lines": 20,
+      "source_sha256": "1a21cdaf12be219b10ee134a19043ab76c3d501455beabbe73a14469ce3f2d96"
+    },
+    {
+      "original": "NAMED_L12352",
+      "rust": "recovered::adapters16::named_l12352",
+      "category": "adapters16",
+      "source_line": 12352,
+      "source_lines": 23,
+      "source_sha256": "7a521d8bb9e897d20cb1a4722a4a18f04c883e5a0bce58fc1f2035f77a166250",
+      "original_signature": "void thunk_FUN_140008c50(longlong param_1)",
+      "original_symbol": "thunk_FUN_140008c50"
+    },
+    {
+      "original": "NAMED_L72404",
+      "rust": "recovered::adapters16::named_l72404",
+      "category": "adapters16",
+      "source_line": 72404,
+      "source_lines": 23,
+      "source_sha256": "b7ba888d709375c526d7262975501cb5068030b44bdd25ceafc19f3c3f758f85",
+      "original_signature": "void thunk_FUN_14004eff0(longlong param_1)",
+      "original_symbol": "thunk_FUN_14004eff0"
+    },
+    {
+      "original": "FUN_14002b660",
+      "rust": "recovered::adapters16::fun_14002b660",
+      "category": "adapters16",
+      "source_line": 41297,
+      "source_lines": 21,
+      "source_sha256": "3bd064fc4ecefade0db5027b70bfcbfb2f96e5da267b9207014766d694a0ef39"
+    },
+    {
+      "original": "FUN_140078500",
+      "rust": "recovered::adapters16::fun_140078500",
+      "category": "adapters16",
+      "source_line": 105867,
+      "source_lines": 21,
+      "source_sha256": "f9cb279693f7f3896e0cfdb1c57d613ae97579d8f5d9684433e806b5991f0239"
+    },
+    {
+      "original": "NAMED_L9446",
+      "rust": "recovered::adapters16::named_l9446",
+      "category": "adapters16",
+      "source_line": 9446,
+      "source_lines": 21,
+      "source_sha256": "88e05977ba9ae29ccd66e818e75362d609e13cc6a4a4b534751cb11916a085f8",
+      "original_signature": "void thunk_FUN_1400054d0(longlong *param_1)",
+      "original_symbol": "thunk_FUN_1400054d0"
+    },
+    {
+      "original": "NAMED_L18275",
+      "rust": "recovered::adapters16::named_l18275",
+      "category": "adapters16",
+      "source_line": 18275,
+      "source_lines": 21,
+      "source_sha256": "92aad06fbeb10f63073f1af141b3b5a05b42f57c9238f51853d3fcdf1d7fa9af",
+      "original_signature": "void thunk_FUN_14000f600(longlong *param_1)",
+      "original_symbol": "thunk_FUN_14000f600"
+    },
+    {
+      "original": "FUN_14005de70",
+      "rust": "recovered::adapters16::fun_14005de70",
+      "category": "adapters16",
+      "source_line": 85469,
+      "source_lines": 16,
+      "source_sha256": "cb833dd020460f1a8a463a747b7c5acac357fa0ee39ca5415ad31b7a15ffe8f6"
+    },
+    {
+      "original": "NAMED_L151056",
+      "rust": "recovered::adapters16::named_l151056",
+      "category": "adapters16",
+      "source_line": 151056,
+      "source_lines": 13,
+      "source_sha256": "b91597a2cd46285be43e50886183f3ba9846dc76ff9f9e724e51525d7be6fccd",
+      "original_signature": "int __thiscall\r\nCWnd::CreateEx(CWnd *this,ulong param_1,wchar_t *param_2,wchar_t *param_3,ulong param_4,int param_5,\r\n              int param_6,int param_7,int param_8,HWND__ *param_9,HMENU__ *param_10,void *param_11)",
+      "original_symbol": "CWnd::CreateEx"
+    },
+    {
+      "original": "FUN_1400ad530",
+      "rust": "recovered::adapters16::fun_1400ad530",
+      "category": "adapters16",
+      "source_line": 149016,
+      "source_lines": 25,
+      "source_sha256": "91afa88f87acffac9bab91d3ef0b948cca3521ad1c2ba6edee0eee41984b2b8c"
+    },
+    {
+      "original": "FUN_14005ddd0",
+      "rust": "recovered::adapters16::fun_14005ddd0",
+      "category": "adapters16",
+      "source_line": 85447,
+      "source_lines": 19,
+      "source_sha256": "504d8de6d2a3660184cde3730b16b2d9e4d33e32a8e0e564b1837b26f6b6fe49"
+    },
+    {
+      "original": "FUN_140017ea0",
+      "rust": "recovered::adapters16::fun_140017ea0",
+      "category": "adapters16",
+      "source_line": 25327,
+      "source_lines": 26,
+      "source_sha256": "18ff21e2992f9751aebee6654ed84c9525e5a91036de85c409aabdcf826b5427"
+    },
+    {
+      "original": "FUN_140023540",
+      "rust": "recovered::adapters16::fun_140023540",
+      "category": "adapters16",
+      "source_line": 34821,
+      "source_lines": 32,
+      "source_sha256": "91b0ceceb699f9718978db45d4b9e77bda3f75dbf3b162f94560f2141f549a6e"
+    },
+    {
+      "original": "FUN_14007a320",
+      "rust": "recovered::adapters16::fun_14007a320",
+      "category": "adapters16",
+      "source_line": 107501,
+      "source_lines": 32,
+      "source_sha256": "bc9e1a9ac0e4fa589d6ed6c83e58deb0b84924d37415f0d84cb47f33c0d4f080"
+    },
+    {
+      "original": "FUN_140076d10",
+      "rust": "recovered::adapters16::fun_140076d10",
+      "category": "adapters16",
+      "source_line": 104562,
+      "source_lines": 21,
+      "source_sha256": "bd5fa80cf85f549cfdea178fd5b94d1ac0530c26bf448ce30543c8f50ba798bd"
+    },
+    {
+      "original": "FUN_14005a690",
+      "rust": "recovered::adapters16::fun_14005a690",
+      "category": "adapters16",
+      "source_line": 82464,
+      "source_lines": 32,
+      "source_sha256": "c6d6165fcd50160d813e5e3e25ac13e5499589c62d00668444bb8228598936e1"
+    },
+    {
+      "original": "FUN_1400a71b0",
+      "rust": "recovered::adapters16::fun_1400a71b0",
+      "category": "adapters16",
+      "source_line": 143395,
+      "source_lines": 22,
+      "source_sha256": "ab58efba388654bb8a7d39be5fefafe16e7baaef9c5ab02a5b9e13276e3602aa"
+    },
+    {
+      "original": "FUN_1400a7020",
+      "rust": "recovered::adapters16::fun_1400a7020",
+      "category": "adapters16",
+      "source_line": 143329,
+      "source_lines": 22,
+      "source_sha256": "ee6f5beb5020a01d60ff76f88fc9a9132e46a0193ca16f4fc10bb60927b24951"
+    },
+    {
+      "original": "FUN_14001b9a0",
+      "rust": "recovered::adapters16::fun_14001b9a0",
+      "category": "adapters16",
+      "source_line": 28285,
+      "source_lines": 23,
+      "source_sha256": "421a3eab1bf0ee4021f6340a28f3145ae26f644118e4f8bae32d5e21919d5d57"
+    },
+    {
+      "original": "FUN_140076e30",
+      "rust": "recovered::adapters16::fun_140076e30",
+      "category": "adapters16",
+      "source_line": 104608,
+      "source_lines": 23,
+      "source_sha256": "0dc25f61beed8b930db4fb253bfc1b62d02ef6e333defa01aea828635ea5d77d"
+    },
+    {
+      "original": "FUN_140077330",
+      "rust": "recovered::adapters16::fun_140077330",
+      "category": "adapters16",
+      "source_line": 104822,
+      "source_lines": 23,
+      "source_sha256": "7d03f73fd803fed0509e4facdeece963490ba486436586ba0b2e88a6e54bae78"
+    },
+    {
+      "original": "FUN_140077450",
+      "rust": "recovered::adapters16::fun_140077450",
+      "category": "adapters16",
+      "source_line": 104870,
+      "source_lines": 23,
+      "source_sha256": "c03d900b953e3d1fd5be50baae6713a0b73e62184ad2128cdb37a5a651585030"
+    },
+    {
+      "original": "FUN_140077570",
+      "rust": "recovered::adapters16::fun_140077570",
+      "category": "adapters16",
+      "source_line": 104918,
+      "source_lines": 23,
+      "source_sha256": "42b1293031a565c31b88b5962d9d8a50fdf2b35cb82b9c043649606823a9e394"
+    },
+    {
+      "original": "FUN_140076bf0",
+      "rust": "recovered::adapters16::fun_140076bf0",
+      "category": "adapters16",
+      "source_line": 104514,
+      "source_lines": 23,
+      "source_sha256": "50d80dd2387cf8bfb554114b6822a613b900c942a79129e649f815c6cb96ec05"
+    },
+    {
+      "original": "FUN_140076f50",
+      "rust": "recovered::adapters16::fun_140076f50",
+      "category": "adapters16",
+      "source_line": 104656,
+      "source_lines": 23,
+      "source_sha256": "80d867da59f67390923dc551b8281e9b77cf7622697e25e750579d3f1988575e"
+    },
+    {
+      "original": "FUN_140077090",
+      "rust": "recovered::adapters16::fun_140077090",
+      "category": "adapters16",
+      "source_line": 104704,
+      "source_lines": 23,
+      "source_sha256": "46735fea8d8fad098055cd8adcb39a00530473b30e090fabaccb40dde0750950"
+    },
+    {
+      "original": "FUN_140008e50",
+      "rust": "recovered::adapters16::fun_140008e50",
+      "category": "adapters16",
+      "source_line": 12480,
+      "source_lines": 34,
+      "source_sha256": "a670ad5d0da72aaad522ec7bce1bf324f30384c854565dc38bc915e8388ff241"
+    },
+    {
+      "original": "FUN_140065370",
+      "rust": "recovered::adapters16::fun_140065370",
+      "category": "adapters16",
+      "source_line": 91424,
+      "source_lines": 38,
+      "source_sha256": "df59ff9f7831db135ed251fec9ca976a679bba0b70e32d91198f28662d8cf190"
+    },
+    {
+      "original": "FUN_1400183f0",
+      "rust": "recovered::adapters16::fun_1400183f0",
+      "category": "adapters16",
+      "source_line": 25671,
+      "source_lines": 33,
+      "source_sha256": "fbb0823a76ac0abdc84475a56fb08d9429c9f8e712ace291c21bfdfb89157ef2"
+    },
+    {
+      "original": "FUN_14005c770",
+      "rust": "recovered::adapters16::fun_14005c770",
+      "category": "adapters16",
+      "source_line": 84244,
+      "source_lines": 29,
+      "source_sha256": "5c16973e6536503dc1b27e1d2c420faf49f159691eb89dcd7288f86e845d62fa"
+    },
+    {
+      "original": "FUN_1400a7ce0",
+      "rust": "recovered::adapters16::fun_1400a7ce0",
+      "category": "adapters16",
+      "source_line": 144058,
+      "source_lines": 38,
+      "source_sha256": "2359fd30dc712caadf1415e3be76ec17ae4fc35c03d1fdaeed2de54361b6e248"
+    },
+    {
+      "original": "FUN_1400a8300",
+      "rust": "recovered::adapters16::fun_1400a8300",
+      "category": "adapters16",
+      "source_line": 144525,
+      "source_lines": 38,
+      "source_sha256": "d65d10ba92ee7f867857068d10a0e52e8d4dbfb439518bb15c08afb88539a636"
+    },
+    {
+      "original": "FUN_14008eea0",
+      "rust": "recovered::adapters16::fun_14008eea0",
+      "category": "adapters16",
+      "source_line": 123536,
+      "source_lines": 29,
+      "source_sha256": "000bee7421b832c831769bb6583a3ebdf6cfa65020552b595e092f776d6b3aad"
+    },
+    {
+      "original": "FUN_14006e7d0",
+      "rust": "recovered::adapters16::fun_14006e7d0",
+      "category": "adapters16",
+      "source_line": 98880,
+      "source_lines": 35,
+      "source_sha256": "48b2137c1ff6bf1129f7dc5916c8df12d70e579ddb8835f88881c2e3f52947d1"
+    },
+    {
+      "original": "FUN_1400644d0",
+      "rust": "recovered::adapters16::fun_1400644d0",
+      "category": "adapters16",
+      "source_line": 90486,
+      "source_lines": 41,
+      "source_sha256": "de6db4364d555e91e6f3122e3d6e4bdadc8022d7d93a1c85217db8581a2591d3"
+    },
+    {
+      "original": "FUN_140064dc0",
+      "rust": "recovered::adapters16::fun_140064dc0",
+      "category": "adapters16",
+      "source_line": 91062,
+      "source_lines": 41,
+      "source_sha256": "047c6046e0d530dfbbcc39ef3349d851c83d20e58785a14d220bea7474edfa4e"
+    },
+    {
+      "original": "FUN_140005f20",
+      "rust": "recovered::adapters16::fun_140005f20",
+      "category": "adapters16",
+      "source_line": 10008,
+      "source_lines": 40,
+      "source_sha256": "327d0d342b011488a401584084092663d7571a09835a3dc69102e251336ca20b"
+    },
+    {
+      "original": "FUN_1400a7dc0",
+      "rust": "recovered::adapters16::fun_1400a7dc0",
+      "category": "adapters16",
+      "source_line": 144126,
+      "source_lines": 39,
+      "source_sha256": "f00ef4d6c6eba1bdc109fe094992b3afa88e176c15400ff81fdb7f934bf1a6ff"
+    },
+    {
+      "original": "FUN_1400a83e0",
+      "rust": "recovered::adapters16::fun_1400a83e0",
+      "category": "adapters16",
+      "source_line": 144593,
+      "source_lines": 39,
+      "source_sha256": "e9c4e5a59df580f353b42c7005df6a812f099bb0996e1f78fc0437d5825b0aad"
+    },
+    {
+      "original": "FUN_1400a7c10",
+      "rust": "recovered::adapters16::fun_1400a7c10",
+      "category": "adapters16",
+      "source_line": 144010,
+      "source_lines": 43,
+      "source_sha256": "ff2b4219c10da0f44a82296c3908723c56a2a11b86e0cdb6e7b38d2cf49cd481"
+    },
+    {
+      "original": "FUN_1400a7ec0",
+      "rust": "recovered::adapters16::fun_1400a7ec0",
+      "category": "adapters16",
+      "source_line": 144203,
+      "source_lines": 43,
+      "source_sha256": "045c5e46f42fb43a102e71671c7a206a8405ce3ff602af7d380ecd158b66d1e7"
+    },
+    {
+      "original": "FUN_14003b4f0",
+      "rust": "recovered::adapters16::fun_14003b4f0",
+      "category": "adapters16",
+      "source_line": 55226,
+      "source_lines": 40,
+      "source_sha256": "3c68fed842d78edf4bac1c0945a71741a0a1cbb66be5071337997199f0515c1d"
+    },
+    {
+      "original": "FUN_14005c3d0",
+      "rust": "recovered::adapters16::fun_14005c3d0",
+      "category": "adapters16",
+      "source_line": 84055,
+      "source_lines": 43,
+      "source_sha256": "71444f5ba17d4115cb0aeb8f9a6bda70803b993c24331cccb3f1b5c144641fc1"
+    },
+    {
+      "original": "FUN_140078d00",
+      "rust": "recovered::adapters16::fun_140078d00",
+      "category": "adapters16",
+      "source_line": 106330,
+      "source_lines": 42,
+      "source_sha256": "25bedf6fe4ec8533cec1151efb1884a9bf39191ddf5d02bd96f54e616a4dff02"
+    },
+    {
+      "original": "FUN_140079280",
+      "rust": "recovered::adapters16::fun_140079280",
+      "category": "adapters16",
+      "source_line": 106708,
+      "source_lines": 42,
+      "source_sha256": "b085d6766aae431d15ba92ba2fc424a24a3fb64a7822bcd4e4fd05ddd0f5fff3"
+    },
+    {
+      "original": "FUN_140018970",
+      "rust": "recovered::adapters16::fun_140018970",
+      "category": "adapters16",
+      "source_line": 25999,
+      "source_lines": 44,
+      "source_sha256": "a0b7887b03f3bb98f0ad9feb02cc2134c1acd55dbfb4d2c21170963317fc7ae8"
+    },
+    {
+      "original": "FUN_14000bf40",
+      "rust": "recovered::adapters16::fun_14000bf40",
+      "category": "adapters16",
+      "source_line": 15415,
+      "source_lines": 45,
+      "source_sha256": "132faccbf6542e856b3d2a718c20088ce869679e513041cd87430fa554446b65"
+    },
+    {
+      "original": "FUN_140001a20",
+      "rust": "recovered::adapters16::fun_140001a20",
+      "category": "adapters16",
+      "source_line": 5660,
+      "source_lines": 44,
+      "source_sha256": "a51079cb0ac9e6f6f55a2a0a005299839091b3b4f2887f0c1eee26f1a663d5b5"
+    },
+    {
+      "original": "FUN_1400327f0",
+      "rust": "recovered::adapters16::fun_1400327f0",
+      "category": "adapters16",
+      "source_line": 46965,
+      "source_lines": 43,
+      "source_sha256": "fbc631b447f2e866919e9b2aefdbc88189dbf900f879e285a1358df83a59f6f3"
+    },
+    {
+      "original": "FUN_140066b30",
+      "rust": "recovered::adapters16::fun_140066b30",
+      "category": "adapters16",
+      "source_line": 92868,
+      "source_lines": 45,
+      "source_sha256": "4f832af05af474c4321836de465d91f23d2dceead895ab3e002b96e0e8c533e8"
+    },
+    {
+      "original": "FUN_140066e10",
+      "rust": "recovered::adapters16::fun_140066e10",
+      "category": "adapters16",
+      "source_line": 93026,
+      "source_lines": 45,
+      "source_sha256": "1107419604574553a2b4a60678607caf9b0409ab28c7736c31fbe25e942af078"
+    },
+    {
+      "original": "FUN_140068dc0",
+      "rust": "recovered::adapters16::fun_140068dc0",
+      "category": "adapters16",
+      "source_line": 94520,
+      "source_lines": 39,
+      "source_sha256": "953a21790a34bb6d34afc29d763c2779412e4459945e275e482d6f42554f01a6"
+    },
+    {
+      "original": "FUN_14006c970",
+      "rust": "recovered::adapters16::fun_14006c970",
+      "category": "adapters16",
+      "source_line": 97420,
+      "source_lines": 40,
+      "source_sha256": "4177d3ef07a1c2fdda1112a1153cbbedc9206655a494b39109f20b7cd1bd0e92"
+    },
+    {
+      "original": "FUN_14007eb50",
+      "rust": "recovered::adapters16::fun_14007eb50",
+      "category": "adapters16",
+      "source_line": 111489,
+      "source_lines": 39,
+      "source_sha256": "4566f0c7db1fe45c20ad5670943759e0d17bdde300811d51be68a4d0cd4225d5"
+    },
+    {
+      "original": "FUN_14008c370",
+      "rust": "recovered::adapters16::fun_14008c370",
+      "category": "adapters16",
+      "source_line": 121423,
+      "source_lines": 39,
+      "source_sha256": "1222f3d4e0a5116d38f3e1cb5c95f2683a0a3144b6eb5e9b2768471ee9b8c75a"
+    },
+    {
+      "original": "FUN_14005d0a0",
+      "rust": "recovered::adapters16::fun_14005d0a0",
+      "category": "adapters16",
+      "source_line": 84766,
+      "source_lines": 39,
+      "source_sha256": "e996dd63fe2a0d2d3639682af064741b370ff0d92e87ac0ebe237ae9bdc17f30"
+    },
+    {
+      "original": "FUN_140068ea0",
+      "rust": "recovered::adapters16::fun_140068ea0",
+      "category": "adapters16",
+      "source_line": 94565,
+      "source_lines": 39,
+      "source_sha256": "1c08da765875316b659687ea55111576ad8eb86e551dc16447e8bdf82d1fe00f"
+    },
+    {
+      "original": "FUN_14008c450",
+      "rust": "recovered::adapters16::fun_14008c450",
+      "category": "adapters16",
+      "source_line": 121468,
+      "source_lines": 39,
+      "source_sha256": "fb5c60b449391ecf42f664915baf652eca88e43511f95d37b5aa673af61470e5"
+    },
+    {
+      "original": "FUN_14008c530",
+      "rust": "recovered::adapters16::fun_14008c530",
+      "category": "adapters16",
+      "source_line": 121513,
+      "source_lines": 39,
+      "source_sha256": "7497482e776faebe8b12ac4f4dd468217f6049b16c541b4236f92513d94193f7"
+    },
+    {
+      "original": "FUN_14008c610",
+      "rust": "recovered::adapters16::fun_14008c610",
+      "category": "adapters16",
+      "source_line": 121558,
+      "source_lines": 39,
+      "source_sha256": "af3b49d21d0cf5e55f745ee0a0640599d13c798380eab6c4af115fad700f3253"
+    },
+    {
+      "original": "FUN_1400028d0",
+      "rust": "recovered::adapters16::fun_1400028d0",
+      "category": "adapters16",
+      "source_line": 6526,
+      "source_lines": 38,
+      "source_sha256": "1afcdc1a49d7fab4be01940500cf6e1753a84cf46ebc85266dc8c3594cffe155"
+    },
+    {
+      "original": "FUN_140015950",
+      "rust": "recovered::adapters16::fun_140015950",
+      "category": "adapters16",
+      "source_line": 23452,
+      "source_lines": 38,
+      "source_sha256": "7bc125351cea2603c8c193b4f5dd1a1407e0b3cb95378b9decab8bbadaccc7d4"
+    },
+    {
+      "original": "FUN_14003c630",
+      "rust": "recovered::adapters16::fun_14003c630",
+      "category": "adapters16",
+      "source_line": 56386,
+      "source_lines": 45,
+      "source_sha256": "5be17158afe73c6d7c029712af0fd93801cae3362db1beae38718093298dbc37"
+    },
+    {
+      "original": "FUN_140093750",
+      "rust": "recovered::adapters16::fun_140093750",
+      "category": "adapters16",
+      "source_line": 127341,
+      "source_lines": 45,
+      "source_sha256": "7eddcd64a7625e96274e4a32b6f2cf59efec31acc5bc953fc455a8d2fabbad41"
+    },
+    {
+      "original": "FUN_14000a2e0",
+      "rust": "recovered::adapters16::fun_14000a2e0",
+      "category": "adapters16",
+      "source_line": 13731,
+      "source_lines": 42,
+      "source_sha256": "87780cf0698164a4abc700ba098cbc2a5896600eb553b439f15d397cf2aa66b3"
+    },
+    {
+      "original": "FUN_140093120",
+      "rust": "recovered::adapters16::fun_140093120",
+      "category": "adapters16",
+      "source_line": 127004,
+      "source_lines": 42,
+      "source_sha256": "ed06b6ca89462bc607a66f631eb0e4d0bb94a581619f8d3d58bcf2c65666a077"
+    },
+    {
+      "original": "FUN_140015a30",
+      "rust": "recovered::adapters16::fun_140015a30",
+      "category": "adapters16",
+      "source_line": 23496,
+      "source_lines": 40,
+      "source_sha256": "0b2de3c8ca7aac181bc318e2202d68f70ed415ac3fbc0ed31ae0ee01dc1ea427"
+    },
+    {
+      "original": "FUN_14006ca90",
+      "rust": "recovered::adapters16::fun_14006ca90",
+      "category": "adapters16",
+      "source_line": 97482,
+      "source_lines": 40,
+      "source_sha256": "cd60802f8ad1515a5764a15c40c87489827c28de720e9bf5f87051dbe1011238"
+    },
+    {
+      "original": "FUN_1400645d0",
+      "rust": "recovered::adapters16::fun_1400645d0",
+      "category": "adapters16",
+      "source_line": 90558,
+      "source_lines": 45,
+      "source_sha256": "7d9cffe6d94415105d6f7d93b018c2f8f37bcafd5d03f9fe639abc4048f26838"
+    },
+    {
+      "original": "FUN_140064f20",
+      "rust": "recovered::adapters16::fun_140064f20",
+      "category": "adapters16",
+      "source_line": 91163,
+      "source_lines": 45,
+      "source_sha256": "bc437dbd535b344eff3e1c3b716c2e61d9524d8434fed32ac7916cc11cab6122"
+    },
+    {
+      "original": "FUN_140093f80",
+      "rust": "recovered::adapters16::fun_140093f80",
+      "category": "adapters16",
+      "source_line": 127762,
+      "source_lines": 57,
+      "source_sha256": "f740812400bb62851bce3c9c4dabd8e07fc69424057ee330bd4370a918aabd81"
+    },
+    {
+      "original": "FUN_140080730",
+      "rust": "recovered::adapters16::fun_140080730",
+      "category": "adapters16",
+      "source_line": 112883,
+      "source_lines": 40,
+      "source_sha256": "563ba60d5ad05495a3c417abf8fe70416255ac1440cf556250041435c8d795a1"
+    },
+    {
+      "original": "NAMED_L150256",
+      "rust": "recovered::adapters16::named_l150256",
+      "category": "adapters16",
+      "source_line": 150256,
+      "source_lines": 43,
+      "source_sha256": "267f6d5cb127026d9b800453e82a7d89544c18a436f6b5034bee7e5b0140e7c8",
+      "original_signature": "void __cdecl DloadMakePermanentImageCommit(void *param_1,__uint64 param_2)",
+      "original_symbol": "DloadMakePermanentImageCommit"
+    },
+    {
+      "original": "FUN_1400a0c70",
+      "rust": "recovered::adapters16::fun_1400a0c70",
+      "category": "adapters16",
+      "source_line": 138258,
+      "source_lines": 42,
+      "source_sha256": "11ba2ff076309f78ef78b0c4aa890c5d561feec2c09d7e02dbfb50538b2fb6a4"
+    },
+    {
+      "original": "FUN_14005d7b0",
+      "rust": "recovered::adapters16::fun_14005d7b0",
+      "category": "adapters16",
+      "source_line": 85163,
+      "source_lines": 43,
+      "source_sha256": "3891674cb8a8c6c9440dd3d7bb7e306acea4a0c498334a41036419fec21a0061"
+    },
+    {
+      "original": "FUN_140007410",
+      "rust": "recovered::adapters16::fun_140007410",
+      "category": "adapters16",
+      "source_line": 11183,
+      "source_lines": 43,
+      "source_sha256": "a34e056e56906fa71a523d98ae77f86201d0a289b543e8f9203d1064a09ab007"
+    },
+    {
+      "original": "FUN_1400401a0",
+      "rust": "recovered::adapters16::fun_1400401a0",
+      "category": "adapters16",
+      "source_line": 59632,
+      "source_lines": 44,
+      "source_sha256": "1f860dbe70c0ed5b89d7614dca7a4bf9d7c841db0c31986229d6318cd1bb1890"
+    },
+    {
+      "original": "FUN_14003d7e0",
+      "rust": "recovered::adapters16::fun_14003d7e0",
+      "category": "adapters16",
+      "source_line": 57337,
+      "source_lines": 42,
+      "source_sha256": "8361bcbb74e88643054688a8d04936bd1094ef29bd9f4d2e547a9fcd7a9c1177"
+    },
+    {
+      "original": "FUN_14004d470",
+      "rust": "recovered::adapters16::fun_14004d470",
+      "category": "adapters16",
+      "source_line": 70977,
+      "source_lines": 42,
+      "source_sha256": "5fa5b0718e8056636e5bad32579fe671dab29a50f770b1ffee4da6916cc9985f"
+    },
+    {
+      "original": "FUN_14006c880",
+      "rust": "recovered::adapters16::fun_14006c880",
+      "category": "adapters16",
+      "source_line": 97372,
+      "source_lines": 42,
+      "source_sha256": "166e26b0d79394dae38bae4adc5ec86a07caad3d59f70996f18b3234e9270f07"
+    },
+    {
+      "original": "FUN_14007f9d0",
+      "rust": "recovered::adapters16::fun_14007f9d0",
+      "category": "adapters16",
+      "source_line": 112274,
+      "source_lines": 42,
+      "source_sha256": "54df8acb20220b16f4e1ef5aa027caba74291af6f35b027a1da04ecb46cf2c25"
+    },
+    {
+      "original": "FUN_140082fd0",
+      "rust": "recovered::adapters16::fun_140082fd0",
+      "category": "adapters16",
+      "source_line": 114686,
+      "source_lines": 42,
+      "source_sha256": "8c95f0a43d84199f9b51a0ec1e5f4b9d1e198b93fa54f5033a76ae35a4fafb65"
+    },
+    {
+      "original": "FUN_14008c6f0",
+      "rust": "recovered::adapters16::fun_14008c6f0",
+      "category": "adapters16",
+      "source_line": 121603,
+      "source_lines": 42,
+      "source_sha256": "645653f8a3779144bebde7cf360ab746801ff0b007ae5654cc0ba84c36a2ac90"
+    },
+    {
+      "original": "FUN_1400016e0",
+      "rust": "recovered::adapters16::fun_1400016e0",
+      "category": "adapters16",
+      "source_line": 5467,
+      "source_lines": 44,
+      "source_sha256": "9d316f08115c6d0cff1cf5b931cc8c2603f0bae263264b3e65134f1de41c909d"
+    },
+    {
+      "original": "FUN_14004b910",
+      "rust": "recovered::adapters16::fun_14004b910",
+      "category": "adapters16",
+      "source_line": 69491,
+      "source_lines": 42,
+      "source_sha256": "3a375e4d520a05d998272a5bba272f3c8b3131a1c910f385adccb7c7c63b3427"
+    },
+    {
+      "original": "FUN_14004baf0",
+      "rust": "recovered::adapters16::fun_14004baf0",
+      "category": "adapters16",
+      "source_line": 69592,
+      "source_lines": 42,
+      "source_sha256": "2b9bca63bf1b3db6071e3069418c9152b1770f4d1096330995ee6513a884af8a"
+    },
+    {
+      "original": "FUN_14004bbf0",
+      "rust": "recovered::adapters16::fun_14004bbf0",
+      "category": "adapters16",
+      "source_line": 69640,
+      "source_lines": 42,
+      "source_sha256": "24861d395f3b7b1d3be44e80640a44238be8789630b7fd549b49539d9e0caee5"
+    },
+    {
+      "original": "FUN_14004bcf0",
+      "rust": "recovered::adapters16::fun_14004bcf0",
+      "category": "adapters16",
+      "source_line": 69688,
+      "source_lines": 42,
+      "source_sha256": "353ff9e267f02ddd51163e0a8ff799fe85e851cc98957416f9c94ba82e0b5057"
+    },
+    {
+      "original": "NAMED_L78319",
+      "rust": "recovered::adapters16::named_l78319",
+      "category": "adapters16",
+      "source_line": 78319,
+      "source_lines": 33,
+      "source_sha256": "6cf0843a2b13af52821b5e45ae3aeb449d660f135d67416a238fa95c6891526f",
+      "original_signature": "undefined8 thunk_FUN_140059980(undefined8 param_1,longlong *param_2)",
+      "original_symbol": "thunk_FUN_140059980"
+    },
+    {
+      "original": "FUN_14003e6d0",
+      "rust": "recovered::adapters16::fun_14003e6d0",
+      "category": "adapters16",
+      "source_line": 58173,
+      "source_lines": 44,
+      "source_sha256": "8174ab34ae21e05b0eb4f7b2917d817a87a95387aeb55b7a1fdd42864a30aa60"
+    },
+    {
+      "original": "FUN_140094110",
+      "rust": "recovered::adapters16::fun_140094110",
+      "category": "adapters16",
+      "source_line": 127858,
+      "source_lines": 32,
+      "source_sha256": "f69a3da6c50bc26c0281da39243b7cde8f332967885140b8e18b6579a62f1a0d"
+    },
+    {
+      "original": "FUN_1400051d0",
+      "rust": "recovered::adapters16::fun_1400051d0",
+      "category": "adapters16",
+      "source_line": 9247,
+      "source_lines": 59,
+      "source_sha256": "ea4f4651e9ac8603efde69e10e40f1254cda897ff63fbc0265a094166b68c7e5"
+    },
+    {
+      "original": "FUN_1400a0e90",
+      "rust": "recovered::adapters16::fun_1400a0e90",
+      "category": "adapters16",
+      "source_line": 138365,
+      "source_lines": 44,
+      "source_sha256": "94cfab8c45f839d1f6bb660eac891fe6e698047fc1456b571dff28187b9bb5e4"
+    },
+    {
+      "original": "FUN_14003f420",
+      "rust": "recovered::adapters16::fun_14003f420",
+      "category": "adapters16",
+      "source_line": 58929,
+      "source_lines": 44,
+      "source_sha256": "a632acf96ef07f9e84f1313b707d9a2195ed57f005322976ab62e83b947c3055"
+    },
+    {
+      "original": "FUN_140052900",
+      "rust": "recovered::adapters16::fun_140052900",
+      "category": "adapters16",
+      "source_line": 75098,
+      "source_lines": 46,
+      "source_sha256": "712b43f228c9548a74531ce94cc801d80ba7eec069cfb7534481021b456de1b1"
+    },
+    {
+      "original": "FUN_140052a30",
+      "rust": "recovered::adapters16::fun_140052a30",
+      "category": "adapters16",
+      "source_line": 75164,
+      "source_lines": 45,
+      "source_sha256": "c2e623c1a1115aa864d73792e927ada7ab902e7782f1f4283c66435e5cf9745f"
+    },
+    {
+      "original": "FUN_140052b20",
+      "rust": "recovered::adapters16::fun_140052b20",
+      "category": "adapters16",
+      "source_line": 75215,
+      "source_lines": 45,
+      "source_sha256": "2b996b105c53b6cc52bb0ca874262f1cd17a287632c7d6960a917b95c901a45e"
+    },
+    {
+      "original": "FUN_140052c10",
+      "rust": "recovered::adapters16::fun_140052c10",
+      "category": "adapters16",
+      "source_line": 75266,
+      "source_lines": 45,
+      "source_sha256": "fb4006d95fafe3098666a5238f2eab2fb063af832dde8d6ce6560edb004c7c61"
+    },
+    {
+      "original": "FUN_140052d00",
+      "rust": "recovered::adapters16::fun_140052d00",
+      "category": "adapters16",
+      "source_line": 75317,
+      "source_lines": 45,
+      "source_sha256": "dd8e97a550b6f45dbf86f0069ffa83f4d1be3ff375c56e659f2dc40fe1e3f771"
+    },
+    {
+      "original": "FUN_1400a80a0",
+      "rust": "recovered::adapters16::fun_1400a80a0",
+      "category": "adapters16",
+      "source_line": 144357,
+      "source_lines": 49,
+      "source_sha256": "2459c0c7619dd6937fb4410f780dc9c34ee835c9fbb963fd1d18dee38561843b"
+    },
+    {
+      "original": "FUN_14003d0f0",
+      "rust": "recovered::adapters16::fun_14003d0f0",
+      "category": "adapters16",
+      "source_line": 56961,
+      "source_lines": 46,
+      "source_sha256": "9faaafeb4c1a25b6abcbc72cd463bb1b6281a72a97188cd3af8e84c4a92d00d7"
+    },
+    {
+      "original": "FUN_14007a940",
+      "rust": "recovered::adapters16::fun_14007a940",
+      "category": "adapters16",
+      "source_line": 107895,
+      "source_lines": 54,
+      "source_sha256": "28bd7c82b2c8c3c760ced0536e992368866e82a5c98e834b8e19ac856138ab07"
+    },
+    {
+      "original": "FUN_14007abb0",
+      "rust": "recovered::adapters16::fun_14007abb0",
+      "category": "adapters16",
+      "source_line": 108040,
+      "source_lines": 54,
+      "source_sha256": "6f83035e2effe3efba473f32bc50722c545a177b1362711420fea4292f955bd8"
+    },
+    {
+      "original": "FUN_140063f70",
+      "rust": "recovered::adapters16::fun_140063f70",
+      "category": "adapters16",
+      "source_line": 90185,
+      "source_lines": 64,
+      "source_sha256": "e3dae81dd84f0d5a9b9bae6103f3fcb5a4a9a6b406c90591a788bd4a3d3db011"
+    },
+    {
+      "original": "FUN_140068340",
+      "rust": "recovered::adapters16::fun_140068340",
+      "category": "adapters16",
+      "source_line": 94058,
+      "source_lines": 50,
+      "source_sha256": "a71803ce3645fb2e8653a7b82daf53820b3521f7951cc37440d55f901d0f986b"
+    },
+    {
+      "original": "FUN_14003a680",
+      "rust": "recovered::adapters16::fun_14003a680",
+      "category": "adapters16",
+      "source_line": 54344,
+      "source_lines": 57,
+      "source_sha256": "e84f0f4241655abf0ee03c60f683ba5ff5737ff8b1cd8a1ed69b829d6f37c1ad"
+    },
+    {
+      "original": "FUN_140044150",
+      "rust": "recovered::adapters16::fun_140044150",
+      "category": "adapters16",
+      "source_line": 63330,
+      "source_lines": 51,
+      "source_sha256": "5d129a88bfee7423cc62bb3ff7af258ea0b1955eb814a533a58c4c316061ed95"
+    },
+    {
+      "original": "FUN_140083850",
+      "rust": "recovered::adapters16::fun_140083850",
+      "category": "adapters16",
+      "source_line": 115085,
+      "source_lines": 50,
+      "source_sha256": "3d5d184f5c75abd15a5953b2612b81457c2980b70c101c824a7a63784390bed0"
+    },
+    {
+      "original": "FUN_1400072f0",
+      "rust": "recovered::adapters16::fun_1400072f0",
+      "category": "adapters16",
+      "source_line": 11124,
+      "source_lines": 53,
+      "source_sha256": "e79a9b5c2d001bb4122b76c6788f8af7dd90eb2316a8ff58dc36f5a03a42e1d7"
+    },
+    {
+      "original": "FUN_14004a970",
+      "rust": "recovered::adapters16::fun_14004a970",
+      "category": "adapters16",
+      "source_line": 68607,
+      "source_lines": 56,
+      "source_sha256": "2f79b5bbd69224d1b12416ab003caae44222bdf07fe55aa4f58e0143c05fb134"
+    },
+    {
+      "original": "FUN_140051bd0",
+      "rust": "recovered::adapters16::fun_140051bd0",
+      "category": "adapters16",
+      "source_line": 74339,
+      "source_lines": 65,
+      "source_sha256": "ed7777d3e9862464665f166d88b5d76f65e7428155f3adada1c870096a7b744b"
+    },
+    {
+      "original": "FUN_140082e90",
+      "rust": "recovered::adapters16::fun_140082e90",
+      "category": "adapters16",
+      "source_line": 114630,
+      "source_lines": 50,
+      "source_sha256": "1386a69f94c308332755cece78e6d7d5406f151fb79c6b1eaa0b46bd259c201f"
+    },
+    {
+      "original": "FUN_1400a3c50",
+      "rust": "recovered::adapters16::fun_1400a3c50",
+      "category": "adapters16",
+      "source_line": 140477,
+      "source_lines": 55,
+      "source_sha256": "3ea60a2f36e3c2164f3092c5643fac83783f03a2088152d694c3f7201dc7c4b1"
+    },
+    {
+      "original": "FUN_14006e670",
+      "rust": "recovered::adapters16::fun_14006e670",
+      "category": "adapters16",
+      "source_line": 98798,
+      "source_lines": 59,
+      "source_sha256": "209f34675ec421c5b78d634e171703f0e10377552722eb4844757b3f4d38da64"
+    },
+    {
+      "original": "FUN_140019280",
+      "rust": "recovered::adapters16::fun_140019280",
+      "category": "adapters16",
+      "source_line": 26483,
+      "source_lines": 55,
+      "source_sha256": "967cd1e7eeaa0d4c961e902cc489719dcf656a517514892b20a7bacfc8530195"
+    },
+    {
+      "original": "FUN_140096f00",
+      "rust": "recovered::adapters16::fun_140096f00",
+      "category": "adapters16",
+      "source_line": 130511,
+      "source_lines": 61,
+      "source_sha256": "8397a7a026bc44c1bff98a05bce7555e78254d3497ca577bb74ab2340b6dc282"
+    },
+    {
+      "original": "FUN_1400512b0",
+      "rust": "recovered::adapters16::fun_1400512b0",
+      "category": "adapters16",
+      "source_line": 73873,
+      "source_lines": 60,
+      "source_sha256": "bf3ac399761cc3e3c39da84773b623cb6fd07a203657198134ac17cc23fa5a95"
+    },
+    {
+      "original": "FUN_140078070",
+      "rust": "recovered::adapters16::fun_140078070",
+      "category": "adapters16",
+      "source_line": 105615,
+      "source_lines": 63,
+      "source_sha256": "73723018e78ef475bd99b5ba46c436941267072bbfca6ad7383e0d816ce0ee4c"
+    },
+    {
+      "original": "FUN_140084970",
+      "rust": "recovered::adapters16::fun_140084970",
+      "category": "adapters16",
+      "source_line": 115931,
+      "source_lines": 60,
+      "source_sha256": "e609d21b44549b9752ee2c29beb51de3cfa7f955e3c4ec240fd8caec08ba9103"
+    },
+    {
+      "original": "FUN_1400535d0",
+      "rust": "recovered::adapters16::fun_1400535d0",
+      "category": "adapters16",
+      "source_line": 75780,
+      "source_lines": 60,
+      "source_sha256": "6d585cbe8bbfb62eedd729adba2ffad0155cf9f7b235845a6913b354d1171c90"
+    },
+    {
+      "original": "FUN_1400643b0",
+      "rust": "recovered::adapters16::fun_1400643b0",
+      "category": "adapters16",
+      "source_line": 90418,
+      "source_lines": 63,
+      "source_sha256": "77e14ba34e8ca72859e4332e4d52b31c4e3c5a96ff04c9571a9d893f48e9ab17"
+    },
+    {
+      "original": "FUN_140064730",
+      "rust": "recovered::adapters16::fun_140064730",
+      "category": "adapters16",
+      "source_line": 90656,
+      "source_lines": 63,
+      "source_sha256": "543f7450c2b33fdaf8ef6402eaa9cc4ec53dea9d7fce8c2f95c4c70410d294f8"
+    },
+    {
+      "original": "FUN_140078c00",
+      "rust": "recovered::adapters16::fun_140078c00",
+      "category": "adapters16",
+      "source_line": 106264,
+      "source_lines": 61,
+      "source_sha256": "79ab9172804b62ef28cfb97d79c59445ec9821aa356c501013d0418bd42b25a3"
+    },
+    {
+      "original": "FUN_140079180",
+      "rust": "recovered::adapters16::fun_140079180",
+      "category": "adapters16",
+      "source_line": 106642,
+      "source_lines": 61,
+      "source_sha256": "8a0f9f7caeb1a905ff9a99c1b5c9f1eeea420dddaa3b12f6a4aaa7ffc0ee8fa2"
+    },
+    {
+      "original": "FUN_14009e7a0",
+      "rust": "recovered::adapters16::fun_14009e7a0",
+      "category": "adapters16",
+      "source_line": 136657,
+      "source_lines": 72,
+      "source_sha256": "ec46aa710513d0410329e818bb82a33b890046ad0c362f1d1df0b16c9970c526"
+    },
+    {
+      "original": "FUN_1400559a0",
+      "rust": "recovered::adapters16::fun_1400559a0",
+      "category": "adapters16",
+      "source_line": 77670,
+      "source_lines": 62,
+      "source_sha256": "dbfd91c5bb08149cb029cf5f8292e181edce6876c7336af804814eb67965727a"
+    },
+    {
+      "original": "FUN_140051600",
+      "rust": "recovered::adapters16::fun_140051600",
+      "category": "adapters16",
+      "source_line": 74046,
+      "source_lines": 61,
+      "source_sha256": "eab81562ea03b589579dc9e27e31f4726fbd26e0d9c82af4ad24494e527e556d"
+    },
+    {
+      "original": "FUN_140095190",
+      "rust": "recovered::adapters16::fun_140095190",
+      "category": "adapters16",
+      "source_line": 128651,
+      "source_lines": 61,
+      "source_sha256": "0ef78dc587e314c7627c8f28398027ebfcb76515dd6b45f58e31628d5756b919"
+    },
+    {
+      "original": "FUN_140059490",
+      "rust": "recovered::adapters16::fun_140059490",
+      "category": "adapters16",
+      "source_line": 81459,
+      "source_lines": 54,
+      "source_sha256": "fc71682a5d44699bc3866a1fdee54399b902d073482cb981b822714e92bae469"
+    },
+    {
+      "original": "FUN_1400a9450",
+      "rust": "recovered::adapters16::fun_1400a9450",
+      "category": "adapters16",
+      "source_line": 145537,
+      "source_lines": 54,
+      "source_sha256": "52e4125245b670732de4d162f6dca4967c320fbeb315956032da5efdf0bbb4b5"
+    },
+    {
+      "original": "FUN_14007f860",
+      "rust": "recovered::adapters16::fun_14007f860",
+      "category": "adapters16",
+      "source_line": 112211,
+      "source_lines": 57,
+      "source_sha256": "4320ab45080694dd394ed8841a38fc1350dff6ddf1706a2fc1d5ffe0315b5419"
+    },
+    {
+      "original": "FUN_140025290",
+      "rust": "recovered::adapters16::fun_140025290",
+      "category": "adapters16",
+      "source_line": 36504,
+      "source_lines": 55,
+      "source_sha256": "1026136afd8d2b225e6fbd16e538f33c2a4841266ba93fba7a1c47d9841c58f6"
+    },
+    {
+      "original": "FUN_140033220",
+      "rust": "recovered::adapters16::fun_140033220",
+      "category": "adapters16",
+      "source_line": 47479,
+      "source_lines": 62,
+      "source_sha256": "6c912c2b67a6384d929f89f5799f7cbf9340e00302b51c6373ad897010ce1dba"
+    },
+    {
+      "original": "FUN_140066730",
+      "rust": "recovered::adapters16::fun_140066730",
+      "category": "adapters16",
+      "source_line": 92666,
+      "source_lines": 62,
+      "source_sha256": "b4ec25fd18c31e899ef127d64027164d54396cd1d8a3a063f9cbc6fd4fa331f5"
+    },
+    {
+      "original": "FUN_14009e2c0",
+      "rust": "recovered::adapters16::fun_14009e2c0",
+      "category": "adapters16",
+      "source_line": 136435,
+      "source_lines": 65,
+      "source_sha256": "76680b3ba43c91474fb54c0a4299e4b6b7eb84a361451daf6fad9902163df5ae"
+    },
+    {
+      "original": "FUN_140050e30",
+      "rust": "recovered::adapters16::fun_140050e30",
+      "category": "adapters16",
+      "source_line": 73621,
+      "source_lines": 65,
+      "source_sha256": "13935f12f22dbcc299bd774f4ca4885d341118f4ff16004dafab5b618defa135"
+    },
+    {
+      "original": "FUN_1400a3770",
+      "rust": "recovered::adapters16::fun_1400a3770",
+      "category": "adapters16",
+      "source_line": 140222,
+      "source_lines": 58,
+      "source_sha256": "8f3a2d5dc0f47d14f9b1af715acc4c3ba6e2f09b7990c8991eea28549f45c057"
+    },
+    {
+      "original": "FUN_140021f20",
+      "rust": "recovered::adapters16::fun_140021f20",
+      "category": "adapters16",
+      "source_line": 33616,
+      "source_lines": 56,
+      "source_sha256": "8d80454ede363ceeb873f1d9634430a2b21b612549d4080ff028909553060072"
+    },
+    {
+      "original": "FUN_1400701c0",
+      "rust": "recovered::adapters16::fun_1400701c0",
+      "category": "adapters16",
+      "source_line": 100187,
+      "source_lines": 51,
+      "source_sha256": "0700e02f8ebbf0e41db56f7c3f9bbbc392952ce9c5c019e2bbcd74fd9b75d571"
+    },
+    {
+      "original": "FUN_1400243c0",
+      "rust": "recovered::adapters16::fun_1400243c0",
+      "category": "adapters16",
+      "source_line": 35615,
+      "source_lines": 75,
+      "source_sha256": "aa9192ee28e132b212d9763704d67c55d41197b8c5eb3e8f64404b0b47ded9ef"
+    },
+    {
+      "original": "FUN_140034100",
+      "rust": "recovered::adapters16::fun_140034100",
+      "category": "adapters16",
+      "source_line": 48447,
+      "source_lines": 71,
+      "source_sha256": "1e7a97113c618bb959db9b9486952bd05da11636c812a08d5a2a85a9f04b965d"
+    },
+    {
+      "original": "FUN_14001d960",
+      "rust": "recovered::adapters16::fun_14001d960",
+      "category": "adapters16",
+      "source_line": 30475,
+      "source_lines": 72,
+      "source_sha256": "2afba500a538ecb02b71a68bdad6c22bc3d2b90db11643b62c3e4f4529e78a74"
+    },
+    {
+      "original": "FUN_14004ee40",
+      "rust": "recovered::adapters16::fun_14004ee40",
+      "category": "adapters16",
+      "source_line": 72330,
+      "source_lines": 71,
+      "source_sha256": "77bf5f71af2c86e25a3a5103f2d54148671a8114858aea8543a1141884f1c5da"
+    },
+    {
+      "original": "FUN_1400153f0",
+      "rust": "recovered::adapters16::fun_1400153f0",
+      "category": "adapters16",
+      "source_line": 23176,
+      "source_lines": 73,
+      "source_sha256": "53bc07721f7d69cb0f8ef2a8f97e25ef55c523a71c42ff5ebf392ee060be76ae"
+    },
+    {
+      "original": "FUN_14002e980",
+      "rust": "recovered::adapters16::fun_14002e980",
+      "category": "adapters16",
+      "source_line": 43973,
+      "source_lines": 65,
+      "source_sha256": "a7742df4a82315eeef668bca4cc4be75cda8f09f7d3b04416c2c15fb0ec5b282"
+    },
+    {
+      "original": "FUN_14001fab0",
+      "rust": "recovered::adapters16::fun_14001fab0",
+      "category": "adapters16",
+      "source_line": 32327,
+      "source_lines": 74,
+      "source_sha256": "e86d1ffbad57488bfbae764da39a557e8772f6234fb537bd5c2b0eb8f37c57eb"
+    },
+    {
+      "original": "FUN_1400ab200",
+      "rust": "recovered::adapters16::fun_1400ab200",
+      "category": "adapters16",
+      "source_line": 147265,
+      "source_lines": 68,
+      "source_sha256": "c6a7b3aaf8be5e06b6228b5a31622e86bf426751cc1db6e6c2237ef8851fe98d"
+    },
+    {
+      "original": "FUN_1400acd40",
+      "rust": "recovered::adapters16::fun_1400acd40",
+      "category": "adapters16",
+      "source_line": 148637,
+      "source_lines": 67,
+      "source_sha256": "e29d0b33620055293bea758efc83ad219a8924c047b698058af6815ba2432407"
+    },
+    {
+      "original": "FUN_14007c880",
+      "rust": "recovered::adapters16::fun_14007c880",
+      "category": "adapters16",
+      "source_line": 109741,
+      "source_lines": 67,
+      "source_sha256": "517cdef4c44bcaad72edf082017ceac0e4b7150026b8f74bb5f9bd67af1e3128"
+    },
+    {
+      "original": "FUN_140085d00",
+      "rust": "recovered::adapters16::fun_140085d00",
+      "category": "adapters16",
+      "source_line": 117024,
+      "source_lines": 67,
+      "source_sha256": "a1d299bb5f10c23129ae8dcd1f43556b4423f014904bc16aea89fced1617ac0d"
+    },
+    {
+      "original": "FUN_14005c1c0",
+      "rust": "recovered::adapters16::fun_14005c1c0",
+      "category": "adapters16",
+      "source_line": 83951,
+      "source_lines": 67,
+      "source_sha256": "ac0f7bfaa4228fc67e1fa44df22e5c76f41093d5c2ce767312186bab38689b7d"
+    },
+    {
+      "original": "FUN_140093820",
+      "rust": "recovered::adapters16::fun_140093820",
+      "category": "adapters16",
+      "source_line": 127393,
+      "source_lines": 67,
+      "source_sha256": "e31bfffb687582399c4bed842307c8add83d93f0262c9ba329141015c76b014e"
+    },
+    {
+      "original": "FUN_14001fd90",
+      "rust": "recovered::adapters16::fun_14001fd90",
+      "category": "adapters16",
+      "source_line": 32470,
+      "source_lines": 67,
+      "source_sha256": "35ed34badaa3aee4ed33511cec4ec74e6e931c8cdd16267adfd2e64c30a965cc"
+    },
+    {
+      "original": "FUN_1400ada60",
+      "rust": "recovered::adapters16::fun_1400ada60",
+      "category": "adapters16",
+      "source_line": 149277,
+      "source_lines": 67,
+      "source_sha256": "79a9e989db66ff0f1fa28273b3cc5d033762a5f258fea6561fbdd3f63049f616"
+    },
+    {
+      "original": "FUN_140085580",
+      "rust": "recovered::adapters16::fun_140085580",
+      "category": "adapters16",
+      "source_line": 116649,
+      "source_lines": 67,
+      "source_sha256": "6d120c113c16d599ba60c3e370e548ec3903e6ab2558c67ca3c3368342ceb1a9"
+    },
+    {
+      "original": "FUN_1400ad5b0",
+      "rust": "recovered::adapters16::fun_1400ad5b0",
+      "category": "adapters16",
+      "source_line": 149048,
+      "source_lines": 67,
+      "source_sha256": "3700ab5983da0a9fdd78bf04e8d1e27bb24981ff38c586caf2c34ed5fa5e0538"
+    },
+    {
+      "original": "FUN_140085a80",
+      "rust": "recovered::adapters16::fun_140085a80",
+      "category": "adapters16",
+      "source_line": 116899,
+      "source_lines": 67,
+      "source_sha256": "3f01d39c9e6c0a4d3bd9393269c1181bd2817eb27437d39ec93956383855ac02"
+    },
+    {
+      "original": "FUN_140085ee0",
+      "rust": "recovered::adapters16::fun_140085ee0",
+      "category": "adapters16",
+      "source_line": 117122,
+      "source_lines": 67,
+      "source_sha256": "144d8ff2051b541e0b5a454ad8bc44845e0d7270f290eeb53b2356937aebb82f"
+    },
+    {
+      "original": "FUN_1400ad2b0",
+      "rust": "recovered::adapters16::fun_1400ad2b0",
+      "category": "adapters16",
+      "source_line": 148893,
+      "source_lines": 67,
+      "source_sha256": "54852771e6b07c0e7623121186048560e0255bbf99b95878693c4c890ea02b2f"
+    },
+    {
+      "original": "FUN_140018760",
+      "rust": "recovered::adapters16::fun_140018760",
+      "category": "adapters16",
+      "source_line": 25894,
+      "source_lines": 67,
+      "source_sha256": "fe39d8d2164e4f1ce7e72fab7de4b040ba01c1793ecb4b93b01f7a36f71ea46c"
+    },
+    {
+      "original": "FUN_1400205a0",
+      "rust": "recovered::adapters16::fun_1400205a0",
+      "category": "adapters16",
+      "source_line": 32888,
+      "source_lines": 67,
+      "source_sha256": "01a12df0a7e2eac0452e1faee184e413dde165edffbf31af4d86ff69b90d304a"
+    },
+    {
+      "original": "FUN_140085800",
+      "rust": "recovered::adapters16::fun_140085800",
+      "category": "adapters16",
+      "source_line": 116774,
+      "source_lines": 67,
+      "source_sha256": "82f7e8c6b0db78b31b59b7e0965dd1a705ac1cc07e707b084a81548f512f0118"
+    },
+    {
+      "original": "FUN_14007c670",
+      "rust": "recovered::adapters16::fun_14007c670",
+      "category": "adapters16",
+      "source_line": 109635,
+      "source_lines": 67,
+      "source_sha256": "1ceaca9b4280e08961eb12bf1af09fd842202015faf0e220173f56534ca03102"
+    },
+    {
+      "original": "FUN_14008c7e0",
+      "rust": "recovered::adapters16::fun_14008c7e0",
+      "category": "adapters16",
+      "source_line": 121652,
+      "source_lines": 68,
+      "source_sha256": "0e78db6b301906987d9bf9765af9c79a6d643591df1e406ff164d17783a3a606"
+    },
+    {
+      "original": "FUN_14000bd30",
+      "rust": "recovered::adapters16::fun_14000bd30",
+      "category": "adapters16",
+      "source_line": 15309,
+      "source_lines": 67,
+      "source_sha256": "43fcce0c60cf3377a629d0435b2d77b10e43a7d6bfcccf5d7a9e04f92516c69d"
+    },
+    {
+      "original": "FUN_14003b8b0",
+      "rust": "recovered::adapters16::fun_14003b8b0",
+      "category": "adapters16",
+      "source_line": 55493,
+      "source_lines": 67,
+      "source_sha256": "d18f9f8184b78adfd575453f12006ac98d333a8180b040aec942fabdfeff99b2"
+    },
+    {
+      "original": "FUN_1400337f0",
+      "rust": "recovered::adapters16::fun_1400337f0",
+      "category": "adapters16",
+      "source_line": 47894,
+      "source_lines": 67,
+      "source_sha256": "8fa224d558d9147c4da9c6967701e4ef0bc91f964193e640ea0c4e4117bf92ef"
+    },
+    {
+      "original": "FUN_14005b9f0",
+      "rust": "recovered::adapters16::fun_14005b9f0",
+      "category": "adapters16",
+      "source_line": 83544,
+      "source_lines": 67,
+      "source_sha256": "21a01f4a50c0af8ca1d87acfa14477261ee967cdb655b5f56e09b7bce80eef50"
+    },
+    {
+      "original": "FUN_140066c00",
+      "rust": "recovered::adapters16::fun_140066c00",
+      "category": "adapters16",
+      "source_line": 92920,
+      "source_lines": 67,
+      "source_sha256": "b62941d03b8590dc151a113e4105352861161f366ed8c4392c87072d921ec0ef"
+    },
+    {
+      "original": "FUN_14005c000",
+      "rust": "recovered::adapters16::fun_14005c000",
+      "category": "adapters16",
+      "source_line": 83851,
+      "source_lines": 70,
+      "source_sha256": "172a18b25d1606d962a8a0004c56e332a192fbc4187ddb26a554e4a92df9bacc"
+    },
+    {
+      "original": "FUN_140005d50",
+      "rust": "recovered::adapters16::fun_140005d50",
+      "category": "adapters16",
+      "source_line": 9906,
+      "source_lines": 70,
+      "source_sha256": "fe09db62b5bbc6ce5064b261cff414ddbf9ee0401925d895b711fbe872662613"
+    },
+    {
+      "original": "FUN_1400a9630",
+      "rust": "recovered::adapters16::fun_1400a9630",
+      "category": "adapters16",
+      "source_line": 145641,
+      "source_lines": 71,
+      "source_sha256": "ee59f8c69a81c68786b74fdc78431110fa80abc6be76847f57316a8317be2cbc"
+    },
+    {
+      "original": "FUN_1400381b0",
+      "rust": "recovered::adapters16::fun_1400381b0",
+      "category": "adapters16",
+      "source_line": 52156,
+      "source_lines": 61,
+      "source_sha256": "125b29a1b65dc10198d59c5419f8cfbbb38bbe3fc69483df2a5e52ca780e2894"
+    },
+    {
+      "original": "FUN_14004c570",
+      "rust": "recovered::adapters16::fun_14004c570",
+      "category": "adapters16",
+      "source_line": 70154,
+      "source_lines": 61,
+      "source_sha256": "c1e948f18c26d6292e27ab7d9c9a3b65de541c15014f11c21c5aeddd32a9a72a"
+    },
+    {
+      "original": "FUN_140059e70",
+      "rust": "recovered::adapters16::fun_140059e70",
+      "category": "adapters16",
+      "source_line": 82034,
+      "source_lines": 61,
+      "source_sha256": "dcefbfd682d49e8abb6d685c24f29aab93bd358868e0670678e379dac7586377"
+    },
+    {
+      "original": "FUN_14005a110",
+      "rust": "recovered::adapters16::fun_14005a110",
+      "category": "adapters16",
+      "source_line": 82173,
+      "source_lines": 61,
+      "source_sha256": "8b170c09eb94b3c6ca84e1a51c339bd38e857ee759857cf48bcf48500b252cd0"
+    },
+    {
+      "original": "FUN_14006a030",
+      "rust": "recovered::adapters16::fun_14006a030",
+      "category": "adapters16",
+      "source_line": 95510,
+      "source_lines": 70,
+      "source_sha256": "bcddb3ae29143dad7f9c9ed83c57ca99db41c33fee584a24cac1863b81ff7c2d"
+    },
+    {
+      "original": "FUN_1400798c0",
+      "rust": "recovered::adapters16::fun_1400798c0",
+      "category": "adapters16",
+      "source_line": 107024,
+      "source_lines": 72,
+      "source_sha256": "48c018bb04b887bdf27d067e5d9a7edb12a4e20906cd72c977f89f9d9735793d"
+    },
+    {
+      "original": "FUN_1400abcb0",
+      "rust": "recovered::adapters16::fun_1400abcb0",
+      "category": "adapters16",
+      "source_line": 147865,
+      "source_lines": 70,
+      "source_sha256": "6cb8d93e0d775f04826aea48ea144cf877feab948d46c08e7ddd768c825b0043"
+    },
+    {
+      "original": "FUN_1400ac210",
+      "rust": "recovered::adapters16::fun_1400ac210",
+      "category": "adapters16",
+      "source_line": 148111,
+      "source_lines": 70,
+      "source_sha256": "887d6fa99139226a6e5625271f4ebab74f45e616f4070ba6d6242f5303e74bd4"
+    },
+    {
+      "original": "FUN_1400ac760",
+      "rust": "recovered::adapters16::fun_1400ac760",
+      "category": "adapters16",
+      "source_line": 148357,
+      "source_lines": 70,
+      "source_sha256": "c7199e3fa554f5352f375a6a5ec13e776f84d0804eff53c4dccf5db89e6a0291"
+    },
+    {
+      "original": "FUN_1400ad120",
+      "rust": "recovered::adapters16::fun_1400ad120",
+      "category": "adapters16",
+      "source_line": 148816,
+      "source_lines": 70,
+      "source_sha256": "6525aed2cabcabcac22827fcf3a8188295d88738e56d69f0235c1af6b0f7d316"
+    },
+    {
+      "original": "FUN_1400abf60",
+      "rust": "recovered::adapters16::fun_1400abf60",
+      "category": "adapters16",
+      "source_line": 147988,
+      "source_lines": 70,
+      "source_sha256": "a0e612e2dbfaee919c03a9082639b43d7ca3c17b722f4ace59465777c0a003ae"
+    },
+    {
+      "original": "FUN_1400ac4b0",
+      "rust": "recovered::adapters16::fun_1400ac4b0",
+      "category": "adapters16",
+      "source_line": 148232,
+      "source_lines": 70,
+      "source_sha256": "ba826cc58456781ea232db7cdd13aa0540103938e859a34dd2de2e9427fb2afd"
+    },
+    {
+      "original": "FUN_140051ca0",
+      "rust": "recovered::adapters16::fun_140051ca0",
+      "category": "adapters16",
+      "source_line": 74418,
+      "source_lines": 77,
+      "source_sha256": "3d0dd5742085e34f731e4474fd81b6a837616d8ccc0dd55a94056ee0845bbd36"
+    },
+    {
+      "original": "FUN_140063730",
+      "rust": "recovered::adapters16::fun_140063730",
+      "category": "adapters16",
+      "source_line": 89639,
+      "source_lines": 76,
+      "source_sha256": "2095667701259b7224f34054ed76481e33a9a24b0ebfa473debcd642d189b20b"
+    },
+    {
+      "original": "FUN_1400796c0",
+      "rust": "recovered::adapters16::fun_1400796c0",
+      "category": "adapters16",
+      "source_line": 106946,
+      "source_lines": 75,
+      "source_sha256": "eb90145aa032c0a15da00c14f0925cf621ce5658288ac1ca6f17ea7422836dd8"
+    },
+    {
+      "original": "FUN_14006a600",
+      "rust": "recovered::adapters16::fun_14006a600",
+      "category": "adapters16",
+      "source_line": 95842,
+      "source_lines": 86,
+      "source_sha256": "a8870ad9b7afa1f7795cafb8f939f1de3c287399af5e1db0f460e48c1e2c801d"
+    },
+    {
+      "original": "FUN_14007e990",
+      "rust": "recovered::adapters16::fun_14007e990",
+      "category": "adapters16",
+      "source_line": 111414,
+      "source_lines": 69,
+      "source_sha256": "466bb8c8ef0d6aa2efff07d94cac70c572523325d73ef48b6bae043786ecefd5"
+    },
+    {
+      "original": "FUN_14008dab0",
+      "rust": "recovered::adapters16::fun_14008dab0",
+      "category": "adapters16",
+      "source_line": 122753,
+      "source_lines": 81,
+      "source_sha256": "d8a53caf1022195fed92c6f1fcf3b86029388f91c9c758b8d433f3e8034ccc26"
+    },
+    {
+      "original": "FUN_140067030",
+      "rust": "recovered::adapters16::fun_140067030",
+      "category": "adapters16",
+      "source_line": 93167,
+      "source_lines": 89,
+      "source_sha256": "f3ead5aeed016ae391fb71a2038f0f5fe7dff4025959a914ea0902b286713552"
+    },
+    {
+      "original": "FUN_1400861e0",
+      "rust": "recovered::adapters16::fun_1400861e0",
+      "category": "adapters16",
+      "source_line": 117277,
+      "source_lines": 80,
+      "source_sha256": "ea128d41e0364fe62a75f3b3b7714c87518088ef160f583818206e112ac7c8e7"
+    },
+    {
+      "original": "FUN_14007bb40",
+      "rust": "recovered::adapters16::fun_14007bb40",
+      "category": "adapters16",
+      "source_line": 108935,
+      "source_lines": 83,
+      "source_sha256": "ce5c00e55f14a72b627081f9b267eb5abf86912364719e500afa6d49681f0151"
+    },
+    {
+      "original": "FUN_1400add70",
+      "rust": "recovered::adapters16::fun_1400add70",
+      "category": "adapters16",
+      "source_line": 149433,
+      "source_lines": 79,
+      "source_sha256": "ec0f8220d5855bf82fe3483267ca4cdd67b6f7866aea1e5da3a0cf573f99cdb5"
+    },
+    {
+      "original": "FUN_14007cd90",
+      "rust": "recovered::adapters16::fun_14007cd90",
+      "category": "adapters16",
+      "source_line": 109999,
+      "source_lines": 82,
+      "source_sha256": "7c9e8f5e08d5b6330006affcd68e90fb05f997f3001e68c6237827b8d63ebdbb"
+    },
+    {
+      "original": "FUN_1400a2a00",
+      "rust": "recovered::adapters16::fun_1400a2a00",
+      "category": "adapters16",
+      "source_line": 139549,
+      "source_lines": 81,
+      "source_sha256": "c8aa91158785b635b36bf548b4b8ebbc07dcc3df14ccbd547e2811c7176ddacf"
+    },
+    {
+      "original": "FUN_14003cb90",
+      "rust": "recovered::adapters16::fun_14003cb90",
+      "category": "adapters16",
+      "source_line": 56671,
+      "source_lines": 82,
+      "source_sha256": "509a1d53a9da0c6e7057de3bd7bc567d467158faf064d7ca489f381b925fe538"
+    },
+    {
+      "original": "FUN_1400927a0",
+      "rust": "recovered::adapters16::fun_1400927a0",
+      "category": "adapters16",
+      "source_line": 126528,
+      "source_lines": 83,
+      "source_sha256": "34b880b69d1105ac4770d864c8d463180b28ef6410bd9a658f6c51018c2d3150"
+    },
+    {
+      "original": "FUN_140092a00",
+      "rust": "recovered::adapters16::fun_140092a00",
+      "category": "adapters16",
+      "source_line": 126649,
+      "source_lines": 83,
+      "source_sha256": "34ef8f8a5cae525f80f6d78524839570fa49646a6b249739ead467a9c304b7f7"
+    },
+    {
+      "original": "FUN_140092bd0",
+      "rust": "recovered::adapters16::fun_140092bd0",
+      "category": "adapters16",
+      "source_line": 126738,
+      "source_lines": 83,
+      "source_sha256": "f7cbd47653d93c3037b05e3ded4b8c156150965b02e8d6150fdc8238bf9ff625"
+    },
+    {
+      "original": "FUN_1400a0aa0",
+      "rust": "recovered::adapters16::fun_1400a0aa0",
+      "category": "adapters16",
+      "source_line": 138169,
+      "source_lines": 83,
+      "source_sha256": "6a9e5839058dabf40c7fa46a5d2e4fe7d31ebe045cb336a1217f9badb519926b"
+    },
+    {
+      "original": "FUN_14003cd30",
+      "rust": "recovered::adapters16::fun_14003cd30",
+      "category": "adapters16",
+      "source_line": 56759,
+      "source_lines": 85,
+      "source_sha256": "71e6991dc3fd37a5eb4f84ebd71a8024de009da2dc5a5410d2f7714e33f2e157"
+    },
+    {
+      "original": "FUN_1400557d0",
+      "rust": "recovered::adapters16::fun_1400557d0",
+      "category": "adapters16",
+      "source_line": 77569,
+      "source_lines": 95,
+      "source_sha256": "358514b32cc01dd9c5371916087fa1e1472aeecdf1a0c949ee488dc2a652881a"
+    },
+    {
+      "original": "FUN_14002ba80",
+      "rust": "recovered::adapters16::fun_14002ba80",
+      "category": "adapters16",
+      "source_line": 41529,
+      "source_lines": 96,
+      "source_sha256": "cd0110e254a7cae79dcdb3905c4bc15be9a0071cea42e6d317c22ca62c1a60c4"
+    },
+    {
+      "original": "FUN_14002b700",
+      "rust": "recovered::adapters16::fun_14002b700",
+      "category": "adapters16",
+      "source_line": 41325,
+      "source_lines": 95,
+      "source_sha256": "764a78c22d346154038342eac2dcde3a6e9702252d86276a4bb35f948241692a"
+    },
+    {
+      "original": "FUN_14002b8c0",
+      "rust": "recovered::adapters16::fun_14002b8c0",
+      "category": "adapters16",
+      "source_line": 41427,
+      "source_lines": 95,
+      "source_sha256": "e76fc3c9930a827eeed15f8905a289f5551d803d609ccfc094adbc792271ab3b"
+    },
+    {
+      "original": "FUN_14002bc50",
+      "rust": "recovered::adapters16::fun_14002bc50",
+      "category": "adapters16",
+      "source_line": 41632,
+      "source_lines": 95,
+      "source_sha256": "6e0931e52b0f4d647add85014997b113dc8687e6c9d17e78583f44c60abd073b"
+    },
+    {
+      "original": "FUN_14002be10",
+      "rust": "recovered::adapters16::fun_14002be10",
+      "category": "adapters16",
+      "source_line": 41734,
+      "source_lines": 95,
+      "source_sha256": "71233490b7f68696db60e54e3197403151c8179e4f9fc0e18319ef07113ca063"
+    },
+    {
+      "original": "FUN_14002bfd0",
+      "rust": "recovered::adapters16::fun_14002bfd0",
+      "category": "adapters16",
+      "source_line": 41836,
+      "source_lines": 95,
+      "source_sha256": "5d66a81de1b2a9d45ecae5a6764a01619174cee51add91ef1cc7822ded5228fe"
+    },
+    {
+      "original": "FUN_140079c30",
+      "rust": "recovered::adapters16::fun_140079c30",
+      "category": "adapters16",
+      "source_line": 107171,
+      "source_lines": 94,
+      "source_sha256": "1f85262f6254e5ad7f23a0e4f58ca720812f9d0ec854d551dc74438b83c39bbc"
+    },
+    {
+      "original": "FUN_1400a47a0",
+      "rust": "recovered::adapters16::fun_1400a47a0",
+      "category": "adapters16",
+      "source_line": 141037,
+      "source_lines": 86,
+      "source_sha256": "266d0d2e59c51d5388942e5ff8e26888025749c0d59b8c84f7a11e616b9e3003"
+    },
+    {
+      "original": "FUN_140065fb0",
+      "rust": "recovered::adapters16::fun_140065fb0",
+      "category": "adapters16",
+      "source_line": 92199,
+      "source_lines": 95,
+      "source_sha256": "22d61d32c24e01acbfd3b7f457146712fb489a74ab05479482264fa371facc14"
+    },
+    {
+      "original": "FUN_14004b670",
+      "rust": "recovered::adapters16::fun_14004b670",
+      "category": "adapters16",
+      "source_line": 69336,
+      "source_lines": 99,
+      "source_sha256": "3c3724a20e5973fa51f5aa2791275c01157199bdd87848faffe273a36daa1207"
+    },
+    {
+      "original": "FUN_140047bc0",
+      "rust": "recovered::adapters16::fun_140047bc0",
+      "category": "adapters16",
+      "source_line": 66307,
+      "source_lines": 66,
+      "source_sha256": "28a65248a8f077d9874ca619abbd92b8e1275822947272ca936a2eb84074d389"
+    },
+    {
+      "original": "FUN_14005c570",
+      "rust": "recovered::adapters16::fun_14005c570",
+      "category": "adapters16",
+      "source_line": 84154,
+      "source_lines": 87,
+      "source_sha256": "7a99dd789a9b0d2b1a6316423bb3070fc70435a8899e91d609171df386dd4b2f"
+    },
+    {
+      "original": "FUN_14001ea90",
+      "rust": "recovered::adapters16::fun_14001ea90",
+      "category": "adapters16",
+      "source_line": 31466,
+      "source_lines": 96,
+      "source_sha256": "fb0b66d3bc232ad1747a1ce94a2c06f79c1c2baed4a921ccb22074d44288cd18"
+    },
+    {
+      "original": "FUN_140043df0",
+      "rust": "recovered::adapters16::fun_140043df0",
+      "category": "adapters16",
+      "source_line": 63168,
+      "source_lines": 96,
+      "source_sha256": "4dde46e41b417cecb37fd81d45be0af21a700712c82bc8ce6e4395c375fc6e72"
+    },
+    {
+      "original": "FUN_140093d90",
+      "rust": "recovered::adapters16::fun_140093d90",
+      "category": "adapters16",
+      "source_line": 127663,
+      "source_lines": 93,
+      "source_sha256": "44410d08a86da521ed53608cd395cb3f7fc26c57b85f0096534c5aa16b014973"
+    },
+    {
+      "original": "FUN_140038bc0",
+      "rust": "recovered::adapters16::fun_140038bc0",
+      "category": "adapters16",
+      "source_line": 52734,
+      "source_lines": 93,
+      "source_sha256": "bec3d42a11f1a21c8b16f0b0f1129b0a9199d3a40d417f04ffac4076ffc24062"
+    },
+    {
+      "original": "FUN_140058450",
+      "rust": "recovered::adapters16::fun_140058450",
+      "category": "adapters16",
+      "source_line": 80569,
+      "source_lines": 94,
+      "source_sha256": "cedb7d4e03762fdece40343231ea6a08db2a5daa35a0b786f048e97a5fad4b7c"
+    },
+    {
+      "original": "FUN_140004fd0",
+      "rust": "recovered::adapters16::fun_140004fd0",
+      "category": "adapters16",
+      "source_line": 9144,
+      "source_lines": 97,
+      "source_sha256": "26fce426a70a949182f9a4736030c54bff0bf7d848e70f4b8f2de2b6971e8238"
+    },
+    {
+      "original": "FUN_140020010",
+      "rust": "recovered::adapters16::fun_140020010",
+      "category": "adapters16",
+      "source_line": 32595,
+      "source_lines": 91,
+      "source_sha256": "79e6e62cb1b40252515fd3d83400f099cc4efe75c674410a89023c19aeb61ee5"
+    },
+    {
+      "original": "FUN_140045680",
+      "rust": "recovered::adapters16::fun_140045680",
+      "category": "adapters16",
+      "source_line": 64494,
+      "source_lines": 91,
+      "source_sha256": "cd4d8f632d140382a0dc2cb291d71f150ff93a1b8e45344bdac76c62e9c5435a"
+    },
+    {
+      "original": "FUN_1400325e0",
+      "rust": "recovered::adapters16::fun_1400325e0",
+      "category": "adapters16",
+      "source_line": 46867,
+      "source_lines": 91,
+      "source_sha256": "d3783c9732f35485bbfe2703b52ebd1116b719a514b6a3ae5b40dd9c6a3f8651"
+    },
+    {
+      "original": "FUN_140035970",
+      "rust": "recovered::adapters16::fun_140035970",
+      "category": "adapters16",
+      "source_line": 49709,
+      "source_lines": 110,
+      "source_sha256": "3fda578d122a9904b05b67afa9137db159540ff39b6af6d46280a9c4a22a460b"
+    },
+    {
+      "original": "FUN_140035c00",
+      "rust": "recovered::adapters16::fun_140035c00",
+      "category": "adapters16",
+      "source_line": 49861,
+      "source_lines": 110,
+      "source_sha256": "91222b9801cb3a90a311fe6e43c5a94ebf5a4eab69b9727ff0b6b80258469616"
+    },
+    {
+      "original": "FUN_1400a3fb0",
+      "rust": "recovered::adapters16::fun_1400a3fb0",
+      "category": "adapters16",
+      "source_line": 140664,
+      "source_lines": 114,
+      "source_sha256": "a21b40503f62855dd9d9311579416a7ad403fdbc184c346396849cdb73bb43e8"
+    },
+    {
+      "original": "FUN_14005b7e0",
+      "rust": "recovered::adapters16::fun_14005b7e0",
+      "category": "adapters16",
+      "source_line": 83445,
+      "source_lines": 92,
+      "source_sha256": "6d0ff1619ea8688660ad8e609fb629a69186deba891fe1f98595698f553f055d"
+    },
+    {
+      "original": "FUN_140045460",
+      "rust": "recovered::adapters16::fun_140045460",
+      "category": "adapters16",
+      "source_line": 64380,
+      "source_lines": 107,
+      "source_sha256": "a0bd3247cb506570c032fbe5e10a5d6fd5cc0d107bf58c0abdcf4f89f9b14bae"
+    },
+    {
+      "original": "FUN_14005b570",
+      "rust": "recovered::adapters16::fun_14005b570",
+      "category": "adapters16",
+      "source_line": 83319,
+      "source_lines": 93,
+      "source_sha256": "4d9095e83d588462626bb6c5b1ea672fca7403ed2928af079d2dcd9534cf5d96"
+    },
+    {
+      "original": "FUN_140015b10",
+      "rust": "recovered::adapters16::fun_140015b10",
+      "category": "adapters16",
+      "source_line": 23542,
+      "source_lines": 111,
+      "source_sha256": "ef09d4e601ea744d49cc6efac5cfdd2d6a2f17b649fc7efb23b1a52c33090e0f"
+    },
+    {
+      "original": "FUN_14006a220",
+      "rust": "recovered::adapters16::fun_14006a220",
+      "category": "adapters16",
+      "source_line": 95616,
+      "source_lines": 103,
+      "source_sha256": "0245fd62dba0a56f3d5eca930968d844fbaea8eaab99e890a1637c8d6e4ca499"
+    },
+    {
+      "original": "FUN_14007cb00",
+      "rust": "recovered::adapters16::fun_14007cb00",
+      "category": "adapters16",
+      "source_line": 109866,
+      "source_lines": 94,
+      "source_sha256": "baf30bc5403c8f05662d1cbadd3aca0f965cca9b9ceedd2791e9b535e8fa0b0b"
+    },
+    {
+      "original": "FUN_140008440",
+      "rust": "recovered::adapters16::fun_140008440",
+      "category": "adapters16",
+      "source_line": 11985,
+      "source_lines": 97,
+      "source_sha256": "77d98f19db846fe50ac30fb84d4dc76b2b015097ebd72532b4df4fa80f90be20"
+    },
+    {
+      "original": "FUN_1400ab760",
+      "rust": "recovered::adapters16::fun_1400ab760",
+      "category": "adapters16",
+      "source_line": 147616,
+      "source_lines": 94,
+      "source_sha256": "752a6daa5b0e8fd9c509b06260f2f02d1666dde4e5deec0d2273b0214da84d0b"
+    },
+    {
+      "original": "FUN_14005b080",
+      "rust": "recovered::adapters16::fun_14005b080",
+      "category": "adapters16",
+      "source_line": 83042,
+      "source_lines": 103,
+      "source_sha256": "720571306b1cc5d4edf48556f6901d43195575e2d91bfdfebe4e43f5a4fa930c"
+    },
+    {
+      "original": "FUN_140066890",
+      "rust": "recovered::adapters16::fun_140066890",
+      "category": "adapters16",
+      "source_line": 92735,
+      "source_lines": 94,
+      "source_sha256": "dcf2fe65a1d16f5f405f1a2dab8e4b0c5365067a86e202eb56737462fa3f3282"
+    },
+    {
+      "original": "FUN_140093aa0",
+      "rust": "recovered::adapters16::fun_140093aa0",
+      "category": "adapters16",
+      "source_line": 127518,
+      "source_lines": 92,
+      "source_sha256": "260c4871f3cc1d25abc6a670bf886e4716e0f7ce0cde89e6633350f8e09d6e4f"
+    },
+    {
+      "original": "FUN_140093540",
+      "rust": "recovered::adapters16::fun_140093540",
+      "category": "adapters16",
+      "source_line": 127240,
+      "source_lines": 94,
+      "source_sha256": "0ec3c6697d5f4690dda3f7005f40035826c3df552420882d8a134ab2710c03e0"
+    },
+    {
+      "original": "FUN_1400ac8f0",
+      "rust": "recovered::adapters16::fun_1400ac8f0",
+      "category": "adapters16",
+      "source_line": 148434,
+      "source_lines": 92,
+      "source_sha256": "acd622eff2950a0fdab2561c447f5cfeece58e870c5d613b303b9b9bf9aeb152"
+    },
+    {
+      "original": "FUN_140038640",
+      "rust": "recovered::adapters16::fun_140038640",
+      "category": "adapters16",
+      "source_line": 52439,
+      "source_lines": 99,
+      "source_sha256": "834e6a14cd94dc72d6d08e9f8ff26d30a79a1babbbb4e10049d36988c06c4290"
+    },
+    {
+      "original": "FUN_14004c820",
+      "rust": "recovered::adapters16::fun_14004c820",
+      "category": "adapters16",
+      "source_line": 70305,
+      "source_lines": 99,
+      "source_sha256": "a7a41896e022a8198a6b4f0cbc00a09d152aa4998f7ca7add19956149891ed43"
+    },
+    {
+      "original": "FUN_14005abf0",
+      "rust": "recovered::adapters16::fun_14005abf0",
+      "category": "adapters16",
+      "source_line": 82824,
+      "source_lines": 99,
+      "source_sha256": "ce9e2b9fb0b2299c466185247757f479b5032a8311ced150f5375b7b663375b0"
+    },
+    {
+      "original": "FUN_14005ae20",
+      "rust": "recovered::adapters16::fun_14005ae20",
+      "category": "adapters16",
+      "source_line": 82928,
+      "source_lines": 99,
+      "source_sha256": "7f3ac14a52a8c108edd671b12406ff299650e586f12fef276e2ae363b8e52d1d"
+    },
+    {
+      "original": "FUN_140040540",
+      "rust": "recovered::adapters16::fun_140040540",
+      "category": "adapters16",
+      "source_line": 59849,
+      "source_lines": 99,
+      "source_sha256": "23963c009d4592dabde67f3f2f107b9e125d03237049fbb3811d4a8f2fbda16e"
+    },
+    {
+      "original": "FUN_140066510",
+      "rust": "recovered::adapters16::fun_140066510",
+      "category": "adapters16",
+      "source_line": 92567,
+      "source_lines": 95,
+      "source_sha256": "b80238843932110da9d63897b567770f7187dcf74f0437abb9bb55debc0d08bf"
+    },
+    {
+      "original": "FUN_14003be90",
+      "rust": "recovered::adapters16::fun_14003be90",
+      "category": "adapters16",
+      "source_line": 55873,
+      "source_lines": 112,
+      "source_sha256": "3c88af17310faa6c149acdc253d469bbf6f5d9acf96087d9632244ebec7ba2c4"
+    },
+    {
+      "original": "FUN_140023300",
+      "rust": "recovered::adapters16::fun_140023300",
+      "category": "adapters16",
+      "source_line": 34725,
+      "source_lines": 93,
+      "source_sha256": "729b7a23968d7a0c402ee4b2886787fa8ea4ae40046d839353ae90dda470f2b2"
+    },
+    {
+      "original": "FUN_1400ad830",
+      "rust": "recovered::adapters16::fun_1400ad830",
+      "category": "adapters16",
+      "source_line": 149173,
+      "source_lines": 97,
+      "source_sha256": "55e3d8a4daeb97e8e8c07016531d0037d26f1f12ab4782918defb41b3c3c0eb1"
+    },
+    {
+      "original": "FUN_1400acb10",
+      "rust": "recovered::adapters16::fun_1400acb10",
+      "category": "adapters16",
+      "source_line": 148533,
+      "source_lines": 97,
+      "source_sha256": "16dcc1ffc7b7d4c570d95f1f7bb126687551c3472bddd32e6cea4e030acf59cf"
+    },
+    {
+      "original": "FUN_1400ab970",
+      "rust": "recovered::adapters16::fun_1400ab970",
+      "category": "adapters16",
+      "source_line": 147717,
+      "source_lines": 97,
+      "source_sha256": "3ad0ec49950fee9bb18f0699cfd38edec3651192d29da9cef5acea1b8d42e96b"
+    },
+    {
+      "original": "FUN_14009d3e0",
+      "rust": "recovered::adapters16::fun_14009d3e0",
+      "category": "adapters16",
+      "source_line": 135622,
+      "source_lines": 105,
+      "source_sha256": "f2504e0bbf9c6143df1fd5ed0d72b4d90c6c42b6904f7d713eb9773dcef9f34d"
+    },
+    {
+      "original": "FUN_140091240",
+      "rust": "recovered::adapters16::fun_140091240",
+      "category": "adapters16",
+      "source_line": 125547,
+      "source_lines": 111,
+      "source_sha256": "dfeadcef27cd1ed0fbecf45fdcd36bcf329dfca68a8931b8ce2d1f9222dff4dd"
+    },
+    {
+      "original": "FUN_1400752f0",
+      "rust": "recovered::adapters16::fun_1400752f0",
+      "category": "adapters16",
+      "source_line": 103226,
+      "source_lines": 110,
+      "source_sha256": "7af2bf58ec26cb564546d69831deae248bab2171b9ed9d02620b33f2b576cb33"
+    },
+    {
+      "original": "FUN_14005d3a0",
+      "rust": "recovered::adapters16::fun_14005d3a0",
+      "category": "adapters16",
+      "source_line": 84936,
+      "source_lines": 121,
+      "source_sha256": "12ff6b9b383ea9cd6984dcdc320d1599c3a3f27171b1dcb2e95336f6d9004791"
+    },
+    {
+      "original": "FUN_1400a8680",
+      "rust": "recovered::adapters16::fun_1400a8680",
+      "category": "adapters16",
+      "source_line": 144743,
+      "source_lines": 112,
+      "source_sha256": "b33456146f750e4c4791014fd624d5e6f1ea4eedac851c6075097d1ce46bd209"
+    },
+    {
+      "original": "FUN_140001440",
+      "rust": "recovered::adapters16::fun_140001440",
+      "category": "adapters16",
+      "source_line": 5347,
+      "source_lines": 114,
+      "source_sha256": "5727b4bf8efae649b452ec0e17239fa16d92b89e0ebde04ed8273981dd0f0601"
+    },
+    {
+      "original": "FUN_14006b4f0",
+      "rust": "recovered::adapters16::fun_14006b4f0",
+      "category": "adapters16",
+      "source_line": 96524,
+      "source_lines": 113,
+      "source_sha256": "6be087056dc840a156ebb30b57078ccd955bd74ded57954737819f55c3a4a6dc"
+    },
+    {
+      "original": "FUN_140044e90",
+      "rust": "recovered::adapters16::fun_140044e90",
+      "category": "adapters16",
+      "source_line": 64054,
+      "source_lines": 129,
+      "source_sha256": "5e3ad6c8cb7a1d815decce12f422d1caf44f53744d6dc0f8a36089b377c93f26"
+    },
+    {
+      "original": "FUN_14005bce0",
+      "rust": "recovered::adapters16::fun_14005bce0",
+      "category": "adapters16",
+      "source_line": 83693,
+      "source_lines": 110,
+      "source_sha256": "b0f57397cc3b756e184029b705554df000bf37331af2abf7e90d591c7a49a311"
+    },
+    {
+      "original": "FUN_14006a7f0",
+      "rust": "recovered::adapters16::fun_14006a7f0",
+      "category": "adapters16",
+      "source_line": 95968,
+      "source_lines": 117,
+      "source_sha256": "eee2ab1440e6bbc0e403a3d62fef557916efb0d931ea54284d47a4def150d149"
+    },
+    {
+      "original": "FUN_14008dc30",
+      "rust": "recovered::adapters16::fun_14008dc30",
+      "category": "adapters16",
+      "source_line": 122840,
+      "source_lines": 113,
+      "source_sha256": "26dabe06fa8b928efefc797af5ce4ffc9d2dea295bd16a191840538d92ebecb3"
+    },
+    {
+      "original": "FUN_140062af0",
+      "rust": "recovered::adapters16::fun_140062af0",
+      "category": "adapters16",
+      "source_line": 89055,
+      "source_lines": 122,
+      "source_sha256": "b2e7d8d32bc104c34f2d84f8f735e7cf36e569b68d3c0bf334cfecdf8cbb31cf"
+    },
+    {
+      "original": "FUN_14004eb60",
+      "rust": "recovered::adapters16::fun_14004eb60",
+      "category": "adapters16",
+      "source_line": 72180,
+      "source_lines": 144,
+      "source_sha256": "4b26eecc8a5d9761ce36a466e6595e99d3bfe61048586179852d974e8e6e2991"
+    },
+    {
+      "original": "FUN_14002d340",
+      "rust": "recovered::adapters16::fun_14002d340",
+      "category": "adapters16",
+      "source_line": 42892,
+      "source_lines": 153,
+      "source_sha256": "cc0ac19652f9e2d7c7c45efc38a6230f81dd0bcd563097422fca592ea5e04ef8"
+    },
+    {
+      "original": "FUN_140040280",
+      "rust": "recovered::adapters16::fun_140040280",
+      "category": "adapters16",
+      "source_line": 59684,
+      "source_lines": 159,
+      "source_sha256": "f682777b5a16386880a733ec52dc51f4e970f7156f86afe291266a9588f6ecc8"
+    },
+    {
+      "original": "FUN_140048e50",
+      "rust": "recovered::adapters16::fun_140048e50",
+      "category": "adapters16",
+      "source_line": 67285,
+      "source_lines": 153,
+      "source_sha256": "627808a1898e829b6c6c9fa6ea5393461f5333e22b7cd3374f46a0f8ab3d09c7"
+    },
+    {
+      "original": "FUN_140045100",
+      "rust": "recovered::adapters16::fun_140045100",
+      "category": "adapters16",
+      "source_line": 64190,
+      "source_lines": 182,
+      "source_sha256": "b7196e82bdd67d6ad61bea1d443d080695bf62642b6c19ad22585efe06dc51a1"
+    },
+    {
+      "original": "FUN_140025ae0",
+      "rust": "recovered::adapters16::fun_140025ae0",
+      "category": "adapters16",
+      "source_line": 36945,
+      "source_lines": 166,
+      "source_sha256": "7cd2e0fa30bf377211c739924d94aa48285f07c23e5c6252cd88e885e7812cf7"
+    },
+    {
+      "original": "FUN_14005dfb0",
+      "rust": "recovered::adapters16::fun_14005dfb0",
+      "category": "adapters16",
+      "source_line": 85552,
+      "source_lines": 179,
+      "source_sha256": "eb095981a30014cb163685bb110a96bbd6fcefce0651b7159c6f3f50fb1dc19e"
+    },
+    {
+      "original": "FUN_14001a510",
+      "rust": "recovered::adapters16::fun_14001a510",
+      "category": "adapters16",
+      "source_line": 27316,
+      "source_lines": 164,
+      "source_sha256": "5e45c556d9ff17880975333731b78d6225abe3bde7843954dd7def3fb2ca8325"
+    },
+    {
+      "original": "FUN_140044b20",
+      "rust": "recovered::adapters16::fun_140044b20",
+      "category": "adapters16",
+      "source_line": 63853,
+      "source_lines": 194,
+      "source_sha256": "2fd0f4fad932e2fa1cf001faa8c1934fb3ac69c710175e43f19e41508dade85b"
+    },
+    {
+      "original": "FUN_14003c7e0",
+      "rust": "recovered::adapters16::fun_14003c7e0",
+      "category": "adapters16",
+      "source_line": 56494,
+      "source_lines": 172,
+      "source_sha256": "411a688e45f49a6b5104c7732aaa8ec5acd7ed5281479808c1dfc8804a13c686"
+    },
+    {
+      "original": "FUN_140044770",
+      "rust": "recovered::adapters16::fun_140044770",
+      "category": "adapters16",
+      "source_line": 63643,
+      "source_lines": 203,
+      "source_sha256": "dbbd68352b46d68f333c0d3d573706c12925ce7ce3a4691fb742ed17d7a20532"
+    },
+    {
+      "original": "FUN_140063280",
+      "rust": "recovered::adapters16::fun_140063280",
+      "category": "adapters16",
+      "source_line": 89429,
+      "source_lines": 203,
+      "source_sha256": "706184cee22797dffb11540b9e21bc091185d619b8263a677f4a7a0abc9377f5"
+    },
+    {
+      "original": "FUN_140089130",
+      "rust": "recovered::adapters16::fun_140089130",
+      "category": "adapters16",
+      "source_line": 119376,
+      "source_lines": 189,
+      "source_sha256": "7575efa558ffde3c2c5c6b6f8230a3478ad3dda9e77900abddf9db4e86b9d473"
+    }
+  ]
+}

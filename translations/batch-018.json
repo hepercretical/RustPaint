@@ -1,0 +1,254 @@
+{
+  "reference_sha256": "01ca7b8866b6918f7e24c65fe02893aea444f2cbde9867981e78160b7a49719d",
+  "expected_count": 30,
+  "functions": [
+    {
+      "original": "FUN_14000b550",
+      "rust": "recovered::adapters18::fun_14000b550",
+      "category": "adapters18",
+      "source_line": 14837,
+      "source_lines": 14,
+      "source_sha256": "9193249370b5f39d54e4f2de576bc9403cde63e7578c6e2b7974ee60388400de"
+    },
+    {
+      "original": "FUN_1400165d0",
+      "rust": "recovered::adapters18::fun_1400165d0",
+      "category": "adapters18",
+      "source_line": 24117,
+      "source_lines": 107,
+      "source_sha256": "2f666ae5f71b4d3d0b2a414b0353487b287df95518cfcee768bb1efa1b97265d"
+    },
+    {
+      "original": "FUN_140016ec0",
+      "rust": "recovered::adapters18::fun_140016ec0",
+      "category": "adapters18",
+      "source_line": 24511,
+      "source_lines": 78,
+      "source_sha256": "f4205302dd9e67a326b6e0695fa549194caab0ecf1b477cd8cbcc390d1d83fc2"
+    },
+    {
+      "original": "FUN_1400170c0",
+      "rust": "recovered::adapters18::fun_1400170c0",
+      "category": "adapters18",
+      "source_line": 24595,
+      "source_lines": 74,
+      "source_sha256": "d6dc1f5ad2fdb70843bd51127db1d31e3ec34f7112189c3488df3b1d18767638"
+    },
+    {
+      "original": "FUN_140017a60",
+      "rust": "recovered::adapters18::fun_140017a60",
+      "category": "adapters18",
+      "source_line": 25085,
+      "source_lines": 48,
+      "source_sha256": "393a6988a1b977480dfa003ab97715c3e0072fb3f13df91d299ef7a219c7f9cc"
+    },
+    {
+      "original": "FUN_1400349f0",
+      "rust": "recovered::adapters18::fun_1400349f0",
+      "category": "adapters18",
+      "source_line": 48990,
+      "source_lines": 55,
+      "source_sha256": "7f03c4f9528afa465bfa0e07c00f69d8f3a78e61f88174220cd7f618be0667dc"
+    },
+    {
+      "original": "FUN_14003d1f0",
+      "rust": "recovered::adapters18::fun_14003d1f0",
+      "category": "adapters18",
+      "source_line": 57012,
+      "source_lines": 110,
+      "source_sha256": "b6596af37e8e7cc4c84c946f72f41e7ccb5279743a0ed0598ad3ab52818d69f9"
+    },
+    {
+      "original": "FUN_140040ed0",
+      "rust": "recovered::adapters18::fun_140040ed0",
+      "category": "adapters18",
+      "source_line": 60355,
+      "source_lines": 77,
+      "source_sha256": "c5e58b2ce5e40a7c35d8e3f90321be642502c2466bdbf66eb2f70a41fe498656"
+    },
+    {
+      "original": "FUN_140041c90",
+      "rust": "recovered::adapters18::fun_140041c90",
+      "category": "adapters18",
+      "source_line": 61177,
+      "source_lines": 107,
+      "source_sha256": "60ba707f2fa0551adc7b50a2551d6dcba24c718a1283507120b54bda0d67e04e"
+    },
+    {
+      "original": "FUN_140051e90",
+      "rust": "recovered::adapters18::fun_140051e90",
+      "category": "adapters18",
+      "source_line": 74546,
+      "source_lines": 21,
+      "source_sha256": "62817fd162107a3a5a8796f20e2f970b9efe8c90a8292c28f2597e082b582e79"
+    },
+    {
+      "original": "FUN_140052570",
+      "rust": "recovered::adapters18::fun_140052570",
+      "category": "adapters18",
+      "source_line": 74942,
+      "source_lines": 90,
+      "source_sha256": "b7d299f60863dfd3dfdbcc345bb1729b501a0e2c912796e957e4690d1a78980e"
+    },
+    {
+      "original": "FUN_140052790",
+      "rust": "recovered::adapters18::fun_140052790",
+      "category": "adapters18",
+      "source_line": 75037,
+      "source_lines": 55,
+      "source_sha256": "3e3a0c961ce41b97561c3d9899a89b4271d6db32d7e3b28f0314d6e3ac60d77c"
+    },
+    {
+      "original": "FUN_140053f20",
+      "rust": "recovered::adapters18::fun_140053f20",
+      "category": "adapters18",
+      "source_line": 76274,
+      "source_lines": 41,
+      "source_sha256": "fe1ec8763b751dc83e7e690b333dc4ce836f88cc390b2f47954b54b6b4130c76"
+    },
+    {
+      "original": "FUN_1400884c0",
+      "rust": "recovered::adapters18::fun_1400884c0",
+      "category": "adapters18",
+      "source_line": 118947,
+      "source_lines": 121,
+      "source_sha256": "bc14000c07df36fae45ceb27eb791e33d42dc0680a51ee480a7e7a7f127af384"
+    },
+    {
+      "original": "FUN_1400888e0",
+      "rust": "recovered::adapters18::fun_1400888e0",
+      "category": "adapters18",
+      "source_line": 119071,
+      "source_lines": 49,
+      "source_sha256": "1a5c5a0f08df47ef3caae9090f53c286f98b14d84aa8fab36a9202c0c2d57303"
+    },
+    {
+      "original": "FUN_140088cd0",
+      "rust": "recovered::adapters18::fun_140088cd0",
+      "category": "adapters18",
+      "source_line": 119232,
+      "source_lines": 138,
+      "source_sha256": "6a219c150387ce9ee971350875f8e150c074d42a47eb7d93efe2b76021afcdb3"
+    },
+    {
+      "original": "FUN_1400966e0",
+      "rust": "recovered::adapters18::fun_1400966e0",
+      "category": "adapters18",
+      "source_line": 129937,
+      "source_lines": 48,
+      "source_sha256": "3184a80c263e35d614fbcdc42a710ed35dbe9e8bc2954ea35684c9772261de6d"
+    },
+    {
+      "original": "FUN_140097710",
+      "rust": "recovered::adapters18::fun_140097710",
+      "category": "adapters18",
+      "source_line": 131005,
+      "source_lines": 166,
+      "source_sha256": "629eb37816a06be8d28fe9d88c8f5abf435bf374e8a026eabe4ffece945f4edd"
+    },
+    {
+      "original": "FUN_140098760",
+      "rust": "recovered::adapters18::fun_140098760",
+      "category": "adapters18",
+      "source_line": 131895,
+      "source_lines": 56,
+      "source_sha256": "74c0056fdfb2e0537e2c4366f89e9bf9fddbe0ea4c01407199f7e2e1f1593dbc"
+    },
+    {
+      "original": "FUN_140099920",
+      "rust": "recovered::adapters18::fun_140099920",
+      "category": "adapters18",
+      "source_line": 132730,
+      "source_lines": 28,
+      "source_sha256": "ffcca5a44c8e808c7d4bdd3f6a7468f0078fd4c17d591060a60b94654b3bef75"
+    },
+    {
+      "original": "FUN_140099e50",
+      "rust": "recovered::adapters18::fun_140099e50",
+      "category": "adapters18",
+      "source_line": 133061,
+      "source_lines": 118,
+      "source_sha256": "901fea7d4c4f2a69da916718730b2e28530bc9688b9b7d081a4c6d7d9420a276"
+    },
+    {
+      "original": "FUN_1400a6030",
+      "rust": "recovered::adapters18::fun_1400a6030",
+      "category": "adapters18",
+      "source_line": 142453,
+      "source_lines": 69,
+      "source_sha256": "4c24cf6b529f1327f3597ae1de54a4699f8de6390acc35f45a96792a7a602085"
+    },
+    {
+      "original": "FUN_1400a62c0",
+      "rust": "recovered::adapters18::fun_1400a62c0",
+      "category": "adapters18",
+      "source_line": 142588,
+      "source_lines": 69,
+      "source_sha256": "f6870c757cedc257f4415d8ca5e41941a7b189a4d2f9a6bc1d58bcf229b1b09c"
+    },
+    {
+      "original": "FUN_1400a6590",
+      "rust": "recovered::adapters18::fun_1400a6590",
+      "category": "adapters18",
+      "source_line": 142736,
+      "source_lines": 73,
+      "source_sha256": "5519e9e67287b8ea183c42c79f78f6746810fd01cd4f0bebf322f58852ee3e53"
+    },
+    {
+      "original": "FUN_1400a6700",
+      "rust": "recovered::adapters18::fun_1400a6700",
+      "category": "adapters18",
+      "source_line": 142815,
+      "source_lines": 73,
+      "source_sha256": "01a99f1408304e354976507bf8dc9623fa2daff47935ce08851cf8a8a950e144"
+    },
+    {
+      "original": "FUN_1400c9d50",
+      "rust": "recovered::adapters18::fun_1400c9d50",
+      "category": "adapters18",
+      "source_line": 174860,
+      "source_lines": 286,
+      "source_sha256": "9ba23324ffd48272fb5d8009fb18a070f0a3c1d371f969d3f3f43c4c7bb85c64"
+    },
+    {
+      "original": "NAMED_L176423",
+      "rust": "recovered::adapters18::named_l176423",
+      "category": "adapters18",
+      "source_line": 176423,
+      "source_lines": 10,
+      "source_sha256": "797a9bfa8ffe310aee6c3398b4570e86b79dfd2f2cb8190218af9744f2a1e955",
+      "original_signature": "float __cdecl ceilf(float _X)",
+      "original_symbol": "ceilf"
+    },
+    {
+      "original": "NAMED_L176436",
+      "rust": "recovered::adapters18::named_l176436",
+      "category": "adapters18",
+      "source_line": 176436,
+      "source_lines": 10,
+      "source_sha256": "d22af9bf7b2b913dc9bd4b3a11946596c5775ac4ef849f156c260e9d09843045",
+      "original_signature": "double __cdecl floor(double _X)",
+      "original_symbol": "floor"
+    },
+    {
+      "original": "NAMED_L176449",
+      "rust": "recovered::adapters18::named_l176449",
+      "category": "adapters18",
+      "source_line": 176449,
+      "source_lines": 10,
+      "source_sha256": "aa71f66d1291563e9497f19160f86ba6ce152ed38048ea7fb7dc31e568f39f84",
+      "original_signature": "float __cdecl floorf(float _X)",
+      "original_symbol": "floorf"
+    },
+    {
+      "original": "NAMED_L176462",
+      "rust": "recovered::adapters18::named_l176462",
+      "category": "adapters18",
+      "source_line": 176462,
+      "source_lines": 10,
+      "source_sha256": "50bba8fbb33f23fd27e7e8d2f09aecd5434c6af7ac25474858fef4089205553c",
+      "original_signature": "double __cdecl fmod(double _X,double _Y)",
+      "original_symbol": "fmod"
+    }
+  ]
+}

@@ -1,0 +1,560 @@
+{
+  "reference_sha256": "01ca7b8866b6918f7e24c65fe02893aea444f2cbde9867981e78160b7a49719d",
+  "binary_reference_sha256": "d94d89377a2a78a73b95cff70fc7706df9ae2ae53175bd6d26abb8301e36ecd9",
+  "binary_evidence": [
+    "binary-recovery/global-width-evidence.json",
+    "binary-recovery/register-repairs.json",
+    "binary-recovery/size-records22.json",
+    "binary-recovery/constant-lanes23.json",
+    "binary-recovery/constant-lanes24.json"
+  ],
+  "expected_count": 44,
+  "functions": [
+    {
+      "original": "FUN_140001310",
+      "rust": "recovered::adapters24::fun_140001310",
+      "category": "adapters24",
+      "native_reference": "normalized-source-c",
+      "source_line": 5281,
+      "source_lines": 29,
+      "source_sha256": "75bd8ee71ea52513d716b2a29f7a8331e35377923d06b7096bc0f6a9d3457182",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_140004c10",
+      "rust": "recovered::adapters24::fun_140004c10",
+      "category": "adapters24",
+      "native_reference": "parsed-c-ir",
+      "source_line": 8958,
+      "source_lines": 53,
+      "source_sha256": "e8d2489fb67962ce9be8bb8debe662f13a06c5756c53973b7591cd121f2200a0",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_1400086f0",
+      "rust": "recovered::adapters24::fun_1400086f0",
+      "category": "adapters24",
+      "native_reference": "parsed-c-ir",
+      "source_line": 12090,
+      "source_lines": 188,
+      "source_sha256": "352eb1c3543499b68378394653235acf20d5121ffd40c961456b69af500d77c9",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_1400113f0",
+      "rust": "recovered::adapters24::fun_1400113f0",
+      "category": "adapters24",
+      "native_reference": "parsed-c-ir",
+      "source_line": 19734,
+      "source_lines": 58,
+      "source_sha256": "1b9c00b027039104073c1a78b0d4e263e1b3f833b8320d1705afadaef1e87108",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_140011570",
+      "rust": "recovered::adapters24::fun_140011570",
+      "category": "adapters24",
+      "native_reference": "parsed-c-ir",
+      "source_line": 19797,
+      "source_lines": 58,
+      "source_sha256": "072b240efa8c9b51b716d40ec31c4e897e3ec57ab2d5fc06661b8fbdbb215849",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_140012300",
+      "rust": "recovered::adapters24::fun_140012300",
+      "category": "adapters24",
+      "native_reference": "parsed-c-ir",
+      "source_line": 20672,
+      "source_lines": 49,
+      "source_sha256": "344db52c52c55686a27c8b3837eb069e209dce2986dca4b9383ff530d941c653",
+      "incoming_register_words": [],
+      "incoming_stack_words": [
+        {
+          "symbol": "STACK_in_stack_00000028",
+          "offset": 40,
+          "size": 8
+        },
+        {
+          "symbol": "STACK_in_stack_00000030",
+          "offset": 48,
+          "size": 8
+        },
+        {
+          "symbol": "STACK_in_stack_00000038",
+          "offset": 56,
+          "size": 8
+        },
+        {
+          "symbol": "STACK_in_stack_00000040",
+          "offset": 64,
+          "size": 8
+        },
+        {
+          "symbol": "STACK_in_stack_00000050",
+          "offset": 80,
+          "size": 4
+        }
+      ]
+    },
+    {
+      "original": "FUN_1400134c0",
+      "rust": "recovered::adapters24::fun_1400134c0",
+      "category": "adapters24",
+      "native_reference": "normalized-source-c",
+      "source_line": 21511,
+      "source_lines": 17,
+      "source_sha256": "4b7e88f455329b77268d2b05bdc5b89dbd08c799a569cf3d33491689e737b615",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_140013530",
+      "rust": "recovered::adapters24::fun_140013530",
+      "category": "adapters24",
+      "native_reference": "normalized-source-c",
+      "source_line": 21533,
+      "source_lines": 17,
+      "source_sha256": "75a5af74d68cfe6b535e38627ee4c3a17bb89b7b6dc411995d4b2fe3ba5863a7",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_1400135a0",
+      "rust": "recovered::adapters24::fun_1400135a0",
+      "category": "adapters24",
+      "native_reference": "normalized-source-c",
+      "source_line": 21555,
+      "source_lines": 17,
+      "source_sha256": "fd5d370fa7bac80dbdd61941b9b5df20722132a14a3a52116a8b4fbe724c21bc",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_140013610",
+      "rust": "recovered::adapters24::fun_140013610",
+      "category": "adapters24",
+      "native_reference": "normalized-source-c",
+      "source_line": 21577,
+      "source_lines": 17,
+      "source_sha256": "253e80e99b590accc76d410197f9b527588b5e88a44bd653f2dcb13eb7a8b4ae",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_140013680",
+      "rust": "recovered::adapters24::fun_140013680",
+      "category": "adapters24",
+      "native_reference": "normalized-source-c",
+      "source_line": 21599,
+      "source_lines": 17,
+      "source_sha256": "5965e5cfed8f4772a47c4ec618aef386910fefe2037cc059e699479c7a5d22a5",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_1400139a0",
+      "rust": "recovered::adapters24::fun_1400139a0",
+      "category": "adapters24",
+      "native_reference": "normalized-source-c",
+      "source_line": 21745,
+      "source_lines": 172,
+      "source_sha256": "02d480aa753891b8ed6d128fd502b29eb81b61a8b5ec9271daec6c0f8f4c89b1",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_1400163a0",
+      "rust": "recovered::adapters24::fun_1400163a0",
+      "category": "adapters24",
+      "native_reference": "parsed-c-ir",
+      "source_line": 24027,
+      "source_lines": 84,
+      "source_sha256": "2c206cd43de2528e47404440d813bd67ce038fab596f56d25df63543c35b971c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [
+        {
+          "symbol": "STACK_in_stack_ffffffffffffff6c",
+          "offset": -148,
+          "size": 4
+        }
+      ]
+    },
+    {
+      "original": "FUN_14001aa10",
+      "rust": "recovered::adapters24::fun_14001aa10",
+      "category": "adapters24",
+      "native_reference": "parsed-c-ir",
+      "source_line": 27558,
+      "source_lines": 87,
+      "source_sha256": "a5f77744b253fe2c631a0481739cb1593bcdf1e9130f7486fcf353ef993fe50e",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_140028d90",
+      "rust": "recovered::adapters24::fun_140028d90",
+      "category": "adapters24",
+      "native_reference": "parsed-c-ir",
+      "source_line": 39305,
+      "source_lines": 104,
+      "source_sha256": "1c190e1547b62e8bef5094bc207362758b34645a0a579f0504f22ae648623e1f",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_14002c850",
+      "rust": "recovered::adapters24::fun_14002c850",
+      "category": "adapters24",
+      "native_reference": "normalized-source-c",
+      "source_line": 42346,
+      "source_lines": 101,
+      "source_sha256": "fd51d636417a3ada35111789dfbc559e39a85a5b91e2e00bf2db5cdd8b74f5b8",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_14002ca70",
+      "rust": "recovered::adapters24::fun_14002ca70",
+      "category": "adapters24",
+      "native_reference": "normalized-source-c",
+      "source_line": 42453,
+      "source_lines": 102,
+      "source_sha256": "7775e92379feca261523ed1e18dfbfb1ed52f5f71924aa4c010586747aabafc1",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_14002cc90",
+      "rust": "recovered::adapters24::fun_14002cc90",
+      "category": "adapters24",
+      "native_reference": "normalized-source-c",
+      "source_line": 42561,
+      "source_lines": 110,
+      "source_sha256": "25ad9379499f4c4af8bb43f6fe7d81ec2fc92a1afc365001d532fb678461711b",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_14002cef0",
+      "rust": "recovered::adapters24::fun_14002cef0",
+      "category": "adapters24",
+      "native_reference": "normalized-source-c",
+      "source_line": 42677,
+      "source_lines": 106,
+      "source_sha256": "9c8193c79dfcf5fbb2614ad6cfd3e2ae6fff68aa5be1e6a3ab356054b4334fe7",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_14002d120",
+      "rust": "recovered::adapters24::fun_14002d120",
+      "category": "adapters24",
+      "native_reference": "normalized-source-c",
+      "source_line": 42789,
+      "source_lines": 97,
+      "source_sha256": "dfc0b5bb98ea77712a0b03cbdbcdf645c590d03a44c530acd90174f564a74202",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_14002ec80",
+      "rust": "recovered::adapters24::fun_14002ec80",
+      "category": "adapters24",
+      "native_reference": "normalized-source-c",
+      "source_line": 44098,
+      "source_lines": 225,
+      "source_sha256": "7925d9336870adb2b71928a188f0d8a968046b1b881d4d3a836723972e031270",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_140030210",
+      "rust": "recovered::adapters24::fun_140030210",
+      "category": "adapters24",
+      "native_reference": "normalized-source-c",
+      "source_line": 45091,
+      "source_lines": 99,
+      "source_sha256": "6239e97c79347c4282df33436dd37e450445647d4e1ebb4d91c3ac662b2f0dad",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_140030420",
+      "rust": "recovered::adapters24::fun_140030420",
+      "category": "adapters24",
+      "native_reference": "parsed-c-ir",
+      "source_line": 45193,
+      "source_lines": 102,
+      "source_sha256": "fa94db2079c4fb7418c09879720bf16c466ebcec778b61ed02c4083a86ee2c13",
+      "incoming_register_words": [
+        "CONTEXT_in_R9"
+      ],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_1400324c0",
+      "rust": "recovered::adapters24::fun_1400324c0",
+      "category": "adapters24",
+      "native_reference": "parsed-c-ir",
+      "source_line": 46794,
+      "source_lines": 15,
+      "source_sha256": "82384b39be73c47a60676d6471f29fd1477ca6fe2e24c39433b4830c9203c409",
+      "incoming_register_words": [],
+      "incoming_stack_words": [
+        {
+          "symbol": "STACK_in_stack_00000038",
+          "offset": 56,
+          "size": 4
+        }
+      ]
+    },
+    {
+      "original": "FUN_14003e7b0",
+      "rust": "recovered::adapters24::fun_14003e7b0",
+      "category": "adapters24",
+      "native_reference": "parsed-c-ir",
+      "source_line": 58223,
+      "source_lines": 122,
+      "source_sha256": "b2a98655b384eff286f8bd8f2b3b545a50132e67808e0d9003a7f3dfb76d80eb",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_14004d580",
+      "rust": "recovered::adapters24::fun_14004d580",
+      "category": "adapters24",
+      "native_reference": "parsed-c-ir",
+      "source_line": 71033,
+      "source_lines": 11,
+      "source_sha256": "4d963a1d47f6a84f299986deab5be18e5f75ca6ffdfe4b40affd9516fd8c04da",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_1400511d0",
+      "rust": "recovered::adapters24::fun_1400511d0",
+      "category": "adapters24",
+      "native_reference": "normalized-source-c",
+      "source_line": 73826,
+      "source_lines": 41,
+      "source_sha256": "bd111a7190999291722eec24f384b8e4f3d531b333cec615e0b55f475e5a6ba5",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_14005a2a0",
+      "rust": "recovered::adapters24::fun_14005a2a0",
+      "category": "adapters24",
+      "native_reference": "parsed-c-ir",
+      "source_line": 82251,
+      "source_lines": 94,
+      "source_sha256": "a0ab764348a30cec0f3bbfaeee30d2e21325adedd6916d20c929294bcb05679f",
+      "incoming_register_words": [
+        "CONTEXT_in_RAX"
+      ],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_140075530",
+      "rust": "recovered::adapters24::fun_140075530",
+      "category": "adapters24",
+      "native_reference": "normalized-source-c",
+      "source_line": 103342,
+      "source_lines": 92,
+      "source_sha256": "3149034b754e18e928ad8d12f5829ae422259a22d05bfbb6c363e6a9c64dd48a",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_14007c4b0",
+      "rust": "recovered::adapters24::fun_14007c4b0",
+      "category": "adapters24",
+      "native_reference": "parsed-c-ir",
+      "source_line": 109544,
+      "source_lines": 57,
+      "source_sha256": "f48d1db5a67943eccda75728aafc46bfae14a07a41f566fd5270ab0e05154676",
+      "incoming_register_words": [],
+      "incoming_stack_words": [
+        {
+          "symbol": "STACK_in_stack_00000030",
+          "offset": 48,
+          "size": 8
+        }
+      ]
+    },
+    {
+      "original": "FUN_14007d400",
+      "rust": "recovered::adapters24::fun_14007d400",
+      "category": "adapters24",
+      "native_reference": "normalized-source-c",
+      "source_line": 110353,
+      "source_lines": 32,
+      "source_sha256": "37e02d480c3011d2012383b48980b7085a1519e19f598d50ecd0958bc49e1a09",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_14008ec90",
+      "rust": "recovered::adapters24::fun_14008ec90",
+      "category": "adapters24",
+      "native_reference": "normalized-source-c",
+      "source_line": 123431,
+      "source_lines": 102,
+      "source_sha256": "60f126b7317d6d2ae00db7ccee6a75edd1ddfa10fa85ec464a4d4da31b6cbd2c",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_1400aa8a0",
+      "rust": "recovered::adapters24::fun_1400aa8a0",
+      "category": "adapters24",
+      "native_reference": "parsed-c-ir",
+      "source_line": 146775,
+      "source_lines": 94,
+      "source_sha256": "11b29270816df2d76ba9aaffbcfa2ea312aa4198fff503824a135dd925be81c3",
+      "incoming_register_words": [
+        "CONTEXT_in_RAX"
+      ],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_1400ae624",
+      "rust": "recovered::adapters24::fun_1400ae624",
+      "category": "adapters24",
+      "native_reference": "parsed-c-ir",
+      "source_line": 150304,
+      "source_lines": 20,
+      "source_sha256": "bb02a3cce8542181876ad8f1c3c1d2bdac723f54b09af729a1e18cf300ccfe19",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_1400ae870",
+      "rust": "recovered::adapters24::fun_1400ae870",
+      "category": "adapters24",
+      "native_reference": "parsed-c-ir",
+      "source_line": 150428,
+      "source_lines": 103,
+      "source_sha256": "12b1439874686e10adddd5c47598666e61154fa21a11baaedad847a3f5394456",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_1400b003c",
+      "rust": "recovered::adapters24::fun_1400b003c",
+      "category": "adapters24",
+      "native_reference": "parsed-c-ir",
+      "source_line": 154606,
+      "source_lines": 63,
+      "source_sha256": "9f42f9ee09dbcf56649c83e6db1e41ca275b27714dcf6c33bcd5a817518df7a0",
+      "incoming_register_words": [
+        "CONTEXT_unaff_RBX"
+      ],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_1400b07f8",
+      "rust": "recovered::adapters24::fun_1400b07f8",
+      "category": "adapters24",
+      "native_reference": "parsed-c-ir",
+      "source_line": 155139,
+      "source_lines": 29,
+      "source_sha256": "0b55ca47c01d7232ab66189abad0707a28efb89a20f32da5f41271799516b886",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_1400b090c",
+      "rust": "recovered::adapters24::fun_1400b090c",
+      "category": "adapters24",
+      "native_reference": "normalized-source-c",
+      "source_line": 155247,
+      "source_lines": 63,
+      "source_sha256": "a56587e955c15f2c3310ccb0f92a53db7f570f28eecd79b1fa97cef7266083fb",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "FUN_1400b0a9c",
+      "rust": "recovered::adapters24::fun_1400b0a9c",
+      "category": "adapters24",
+      "native_reference": "parsed-c-ir",
+      "source_line": 155343,
+      "source_lines": 19,
+      "source_sha256": "b84ef94ea1cfc0fa9d21dca22e342f3f631ab014e01fa379c9ec4dbf8465e095",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "NAMED_L155017",
+      "rust": "recovered::adapters24::named_l155017",
+      "category": "adapters24",
+      "native_reference": "normalized-source-c",
+      "source_line": 155017,
+      "source_lines": 18,
+      "source_sha256": "b030b49cb729f228f02e27a8e62ff8d31940e3c96d376e9f19269f3ef35262da",
+      "original_signature": "_onexit_t __cdecl _onexit(_onexit_t _Func)",
+      "original_symbol": "_onexit",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "NAMED_L155043",
+      "rust": "recovered::adapters24::named_l155043",
+      "category": "adapters24",
+      "native_reference": "normalized-source-c",
+      "source_line": 155043,
+      "source_lines": 8,
+      "source_sha256": "3a319d968b579d45d4129e3ca49cc46c3979e587842078c3e02941fe31dce607",
+      "original_signature": "int __cdecl atexit(_func_5014 *param_1)",
+      "original_symbol": "atexit",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "NAMED_L155059",
+      "rust": "recovered::adapters24::named_l155059",
+      "category": "adapters24",
+      "native_reference": "normalized-source-c",
+      "source_line": 155059,
+      "source_lines": 13,
+      "source_sha256": "30b192f65964bca1b030f84319f41fdcf9c17f8be406dd1335f44c787f94d7a9",
+      "original_signature": "void __raise_securityfailure(_EXCEPTION_POINTERS *param_1)",
+      "original_symbol": "__raise_securityfailure",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "NAMED_L157707",
+      "rust": "recovered::adapters24::named_l157707",
+      "category": "adapters24",
+      "native_reference": "normalized-source-c",
+      "source_line": 157707,
+      "source_lines": 11,
+      "source_sha256": "5389b1d7ae736d987efe044fb089ad10d2f00a8ed8772edee07551e6b0b866d7",
+      "original_signature": "PSLIST_ENTRY_conflict __stdcall\r\nInterlockedPushEntrySList(PSLIST_HEADER ListHead,PSLIST_ENTRY ListEntry)",
+      "original_symbol": "InterlockedPushEntrySList",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    },
+    {
+      "original": "NAMED_L157808",
+      "rust": "recovered::adapters24::named_l157808",
+      "category": "adapters24",
+      "native_reference": "normalized-source-c",
+      "source_line": 157808,
+      "source_lines": 11,
+      "source_sha256": "27956700b6939afce14332a335eb6cd41a3d2fc4f22b21eab2473972a27f1f96",
+      "original_signature": "BOOL __stdcall\r\nTrySubmitThreadpoolCallback(PTP_SIMPLE_CALLBACK pfns,PVOID pv,PTP_CALLBACK_ENVIRON pcbe)",
+      "original_symbol": "TrySubmitThreadpoolCallback",
+      "incoming_register_words": [],
+      "incoming_stack_words": []
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "reference_sha256": "01ca7b8866b6918f7e24c65fe02893aea444f2cbde9867981e78160b7a49719d",
+  "binary_reference_sha256": "d94d89377a2a78a73b95cff70fc7706df9ae2ae53175bd6d26abb8301e36ecd9",
+  "binary_evidence": [
+    "binary-recovery/global-width-evidence.json",
+    "binary-recovery/register-repairs.json",
+    "binary-recovery/size-records22.json",
+    "binary-recovery/constant-lanes23.json",
+    "binary-recovery/constant-lanes24.json",
+    "binary-recovery/repairs25.json"
+  ],
+  "expected_count": 22,
+  "functions": [
+    {
+      "original": "FUN_1400034e0",
+      "rust": "recovered::adapters25::fun_1400034e0",
+      "category": "adapters25",
+      "native_reference": "parsed-c-ir",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "source_line": 7436,
+      "source_lines": 97,
+      "source_sha256": "33e2d307a6cc403c84c51a45dc27bb6a756fda6a1aa400451d509c3110c9e830"
+    },
+    {
+      "original": "FUN_1400045e0",
+      "rust": "recovered::adapters25::fun_1400045e0",
+      "category": "adapters25",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "source_line": 8516,
+      "source_lines": 170,
+      "source_sha256": "0a5e4d27dc7ed98aa96a4f54009fefed591e75d5dbe206e8c9a087ddcbc4b218"
+    },
+    {
+      "original": "FUN_14000a6c0",
+      "rust": "recovered::adapters25::fun_14000a6c0",
+      "category": "adapters25",
+      "native_reference": "parsed-c-ir",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "source_line": 13976,
+      "source_lines": 93,
+      "source_sha256": "4e4fea271c00294c12989b9bbbc9d59245c2a5bb781194f4419b343fa0f4dd22"
+    },
+    {
+      "original": "FUN_1400136f0",
+      "rust": "recovered::adapters25::fun_1400136f0",
+      "category": "adapters25",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "source_line": 21621,
+      "source_lines": 100,
+      "source_sha256": "a7882bfa8304857ecdefa589f04d45abbb9967edd0e26108089554dc8c49769f"
+    },
+    {
+      "original": "FUN_140022030",
+      "rust": "recovered::adapters25::fun_140022030",
+      "category": "adapters25",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "source_line": 33675,
+      "source_lines": 161,
+      "source_sha256": "14b5c782386cfaf160bb845dac687eca511e7c645ef3bd8c24dd6e80bc2f2f7d"
+    },
+    {
+      "original": "FUN_140025500",
+      "rust": "recovered::adapters25::fun_140025500",
+      "category": "adapters25",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "source_line": 36613,
+      "source_lines": 140,
+      "source_sha256": "19efea6c3c00cffa16ad2156f49e08e82c43d1370ba1ecc7e11da3bc421f5955"
+    },
+    {
+      "original": "FUN_140027140",
+      "rust": "recovered::adapters25::fun_140027140",
+      "category": "adapters25",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "source_line": 37913,
+      "source_lines": 83,
+      "source_sha256": "dc0cce661807c5ff711f57ec85d0ff5ac566190e0bf6885742e2f5096997d251"
+    },
+    {
+      "original": "FUN_14002fba0",
+      "rust": "recovered::adapters25::fun_14002fba0",
+      "category": "adapters25",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "source_line": 44769,
+      "source_lines": 138,
+      "source_sha256": "39f4e1b33c5129e646e0cc93cc45865fb9b993ac890b7822ac67ebdf507a71f0"
+    },
+    {
+      "original": "FUN_140042b30",
+      "rust": "recovered::adapters25::fun_140042b30",
+      "category": "adapters25",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "source_line": 62021,
+      "source_lines": 74,
+      "source_sha256": "67c3843a88879d5c832dc371c2ff7f67364daaef850cd9bc2554aa447705f823"
+    },
+    {
+      "original": "FUN_140048ab0",
+      "rust": "recovered::adapters25::fun_140048ab0",
+      "category": "adapters25",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "source_line": 67108,
+      "source_lines": 170,
+      "source_sha256": "49d9736799f895967b7eda6205a11a82b111c25f897586c24514d31ab358c7af"
+    },
+    {
+      "original": "FUN_140058810",
+      "rust": "recovered::adapters25::fun_140058810",
+      "category": "adapters25",
+      "native_reference": "parsed-c-ir",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "source_line": 80752,
+      "source_lines": 123,
+      "source_sha256": "492993299d0e24e82ab7e43a677ca936ad78c4c7f5f8ff4000f49a20acf725d2"
+    },
+    {
+      "original": "FUN_14005a920",
+      "rust": "recovered::adapters25::fun_14005a920",
+      "category": "adapters25",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "source_line": 82640,
+      "source_lines": 170,
+      "source_sha256": "c1207c7753c76289a53ae36846e3ad6d7dafd882bdd7dc34230a75d81656718c"
+    },
+    {
+      "original": "FUN_14005c890",
+      "rust": "recovered::adapters25::fun_14005c890",
+      "category": "adapters25",
+      "native_reference": "parsed-c-ir",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "source_line": 84317,
+      "source_lines": 443,
+      "source_sha256": "dc29f8b306cd3b8581a50cb9fe8e5b44aa94468e8262dcb102984b050988ba91"
+    },
+    {
+      "original": "FUN_140065c80",
+      "rust": "recovered::adapters25::fun_140065c80",
+      "category": "adapters25",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "source_line": 91993,
+      "source_lines": 174,
+      "source_sha256": "fe6465b1c5de04a934db3042f1d24fd1578ec93701ccf410503ee9481fc81145"
+    },
+    {
+      "original": "FUN_140067520",
+      "rust": "recovered::adapters25::fun_140067520",
+      "category": "adapters25",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "source_line": 93448,
+      "source_lines": 60,
+      "source_sha256": "b5eed453c9f352aaddcd9deb8713f35e6e0ee3474d2eaaae9969e5b567565fcb"
+    },
+    {
+      "original": "FUN_14006a430",
+      "rust": "recovered::adapters25::fun_14006a430",
+      "category": "adapters25",
+      "native_reference": "parsed-c-ir",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "source_line": 95725,
+      "source_lines": 75,
+      "source_sha256": "381c731f909ad71eee0c8d6a3426aa265ac2d2492bb40eb8c4d24a0d7f554d15"
+    },
+    {
+      "original": "FUN_14006d6e0",
+      "rust": "recovered::adapters25::fun_14006d6e0",
+      "category": "adapters25",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "source_line": 98085,
+      "source_lines": 551,
+      "source_sha256": "dd60971f916cb7c023deb99713e044eb58f3f610011321617347ec3c8e300aed"
+    },
+    {
+      "original": "FUN_140070390",
+      "rust": "recovered::adapters25::fun_140070390",
+      "category": "adapters25",
+      "native_reference": "parsed-c-ir",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "source_line": 100278,
+      "source_lines": 893,
+      "source_sha256": "868ee4160d4598d8003f15e66e09837cf13cc72b3bd72e8ca5dd4fc105516811"
+    },
+    {
+      "original": "FUN_140097aa0",
+      "rust": "recovered::adapters25::fun_140097aa0",
+      "category": "adapters25",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "source_line": 131178,
+      "source_lines": 105,
+      "source_sha256": "3fab975c2efc16b4e4375cd497e057961f2ed3e36e7005aa5470d4c8d97927d6"
+    },
+    {
+      "original": "FUN_14009dc50",
+      "rust": "recovered::adapters25::fun_14009dc50",
+      "category": "adapters25",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "source_line": 136056,
+      "source_lines": 111,
+      "source_sha256": "649be24f3aaa3d90f0f27088608f48c781e4923bf9d8fcf83c1683c866d51700"
+    },
+    {
+      "original": "FUN_1400b2750",
+      "rust": "recovered::adapters25::fun_1400b2750",
+      "category": "adapters25",
+      "native_reference": "parsed-c-ir",
+      "incoming_register_words": [],
+      "incoming_stack_words": [
+        {
+          "symbol": "STACK_in_stack_ffffffffffffff1c",
+          "offset": -228,
+          "size": 4
+        }
+      ],
+      "source_line": 158319,
+      "source_lines": 193,
+      "source_sha256": "831991901a0c78e0877df6d921c4e9408bed4b4582d7e53d47a61c79e1b6b4cf"
+    },
+    {
+      "original": "FUN_1400c85c0",
+      "rust": "recovered::adapters25::fun_1400c85c0",
+      "category": "adapters25",
+      "native_reference": "parsed-c-ir",
+      "incoming_register_words": [],
+      "incoming_stack_words": [
+        {
+          "symbol": "STACK_in_stack_fffffffffffffedc",
+          "offset": -292,
+          "size": 4
+        }
+      ],
+      "source_line": 173833,
+      "source_lines": 222,
+      "source_sha256": "ba8aa76f3099717e73a0818ab4b52e88fe85f994e31e5ba1310cbefb7b7f308a"
+    }
+  ]
+}

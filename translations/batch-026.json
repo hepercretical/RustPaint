@@ -1,0 +1,355 @@
+{
+  "reference_sha256": "01ca7b8866b6918f7e24c65fe02893aea444f2cbde9867981e78160b7a49719d",
+  "binary_reference_sha256": "d94d89377a2a78a73b95cff70fc7706df9ae2ae53175bd6d26abb8301e36ecd9",
+  "binary_evidence": [
+    "binary-recovery/global-width-evidence.json",
+    "binary-recovery/register-repairs.json",
+    "binary-recovery/size-records22.json",
+    "binary-recovery/constant-lanes23.json",
+    "binary-recovery/constant-lanes24.json",
+    "binary-recovery/repairs25.json",
+    "binary-recovery/repairs26.json"
+  ],
+  "expected_count": 22,
+  "functions": [
+    {
+      "original": "FUN_140019650",
+      "rust": "recovered::adapters26::fun_140019650",
+      "category": "adapters26",
+      "native_reference": "parsed-c-ir",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 26657,
+      "source_lines": 82,
+      "source_sha256": "1a4cc4ab8abf2f8f2b6caf1b91649fcf4eede183b299fdc4d942e7adbcff46df"
+    },
+    {
+      "original": "FUN_14002da40",
+      "rust": "recovered::adapters26::fun_14002da40",
+      "category": "adapters26",
+      "native_reference": "parsed-c-ir",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [
+        {
+          "symbol": "REGISTER_in_XMM3",
+          "size": 16
+        }
+      ],
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 43232,
+      "source_lines": 113,
+      "source_sha256": "2ac0f667bfa9ff4aab19169f8bf4e2adc2346423aa0d36057665434ff22ba268"
+    },
+    {
+      "original": "FUN_140030050",
+      "rust": "recovered::adapters26::fun_140030050",
+      "category": "adapters26",
+      "native_reference": "parsed-c-ir",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [
+        {
+          "symbol": "REGISTER_in_XMM3",
+          "size": 16
+        }
+      ],
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 44998,
+      "source_lines": 87,
+      "source_sha256": "70f87f91872631d63be04d35fb92932e698eee1070af444806454f73b150b5e4"
+    },
+    {
+      "original": "FUN_140031bf0",
+      "rust": "recovered::adapters26::fun_140031bf0",
+      "category": "adapters26",
+      "native_reference": "parsed-c-ir",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 46363,
+      "source_lines": 64,
+      "source_sha256": "cfc2d46ad561ce8c9ba8945af19a058c2707b13abde5503f8d2390ab578d65df"
+    },
+    {
+      "original": "FUN_140036140",
+      "rust": "recovered::adapters26::fun_140036140",
+      "category": "adapters26",
+      "native_reference": "parsed-c-ir",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 1,
+      "source_line": 50162,
+      "source_lines": 268,
+      "source_sha256": "8d02b7544ff5066d13f57b05e55d2f024d6283ae556544663cc16fa022c8def2"
+    },
+    {
+      "original": "FUN_1400375c0",
+      "rust": "recovered::adapters26::fun_1400375c0",
+      "category": "adapters26",
+      "native_reference": "parsed-c-ir",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 51341,
+      "source_lines": 68,
+      "source_sha256": "50eb0218683807980af557f1449b654f6aa60ba89ffcb7659216d0599c556ea2"
+    },
+    {
+      "original": "FUN_14003e0e0",
+      "rust": "recovered::adapters26::fun_14003e0e0",
+      "category": "adapters26",
+      "native_reference": "parsed-c-ir",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_register_arguments": [
+        {
+          "variable": "extraout_XMM0_Da",
+          "callee": "FUN_1400412e0",
+          "callee_source_sha256": "8eea3e8fbdef87193cffa1b89311bb462413f855069025a14f7956df252012e0",
+          "symbol": "CONTEXT_IGNORED_FUN_14003e0e0_extraout_XMM0_Da"
+        }
+      ],
+      "implicit_qword_dereferences": 0,
+      "source_line": 57842,
+      "source_lines": 176,
+      "source_sha256": "3b1383b298b7e2b953937a72eb504c71dd3eac2eb034adba3e175f08655540ef"
+    },
+    {
+      "original": "FUN_140045ed0",
+      "rust": "recovered::adapters26::fun_140045ed0",
+      "category": "adapters26",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 64907,
+      "source_lines": 1148,
+      "source_sha256": "5294a035e55bb92acc519740697705841f22dfc9b20e8603e8547c225a31aae6"
+    },
+    {
+      "original": "FUN_14004a720",
+      "rust": "recovered::adapters26::fun_14004a720",
+      "category": "adapters26",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 68462,
+      "source_lines": 139,
+      "source_sha256": "1a516c084cbe064d02f8bca3c689b939525ed28425885ce4f1959cd1709397bb"
+    },
+    {
+      "original": "FUN_140051f50",
+      "rust": "recovered::adapters26::fun_140051f50",
+      "category": "adapters26",
+      "native_reference": "parsed-c-ir",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_register_arguments": [
+        {
+          "variable": "extraout_XMM0_Qa",
+          "callee": "FUN_14005c000",
+          "callee_source_sha256": "172a18b25d1606d962a8a0004c56e332a192fbc4187ddb26a554e4a92df9bacc",
+          "symbol": "CONTEXT_IGNORED_FUN_140051f50_extraout_XMM0_Qa"
+        }
+      ],
+      "implicit_qword_dereferences": 0,
+      "source_line": 74595,
+      "source_lines": 112,
+      "source_sha256": "687c664f7863f4bd1d27720dbee853077a43a5e2eee0ccd4082456f12f219b69"
+    },
+    {
+      "original": "FUN_140054350",
+      "rust": "recovered::adapters26::fun_140054350",
+      "category": "adapters26",
+      "native_reference": "parsed-c-ir",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 2,
+      "source_line": 76497,
+      "source_lines": 237,
+      "source_sha256": "e038815cbd57f2c1c8ca53dd34dc2d2bd1ac3d99ba2b6f3f946764bf2ffb0a7a"
+    },
+    {
+      "original": "FUN_1400578b0",
+      "rust": "recovered::adapters26::fun_1400578b0",
+      "category": "adapters26",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 79886,
+      "source_lines": 111,
+      "source_sha256": "abc12b6aa8515ec791b7e692ed8fc95726d19f41e3e1c21cb3f54fda4af28116"
+    },
+    {
+      "original": "FUN_140068610",
+      "rust": "recovered::adapters26::fun_140068610",
+      "category": "adapters26",
+      "native_reference": "parsed-c-ir",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 1,
+      "source_line": 94206,
+      "source_lines": 308,
+      "source_sha256": "be8b1458b0fe9aa42818bbca196fab77a537d6b0f8eed0e38ed89d658c9ae9ba"
+    },
+    {
+      "original": "FUN_14006b770",
+      "rust": "recovered::adapters26::fun_14006b770",
+      "category": "adapters26",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 96644,
+      "source_lines": 636,
+      "source_sha256": "ec7d0e40c78c80cca2764c4c3385dc18f37925e418a24597d1353ef7e50dcc36"
+    },
+    {
+      "original": "FUN_14006fa90",
+      "rust": "recovered::adapters26::fun_14006fa90",
+      "category": "adapters26",
+      "native_reference": "parsed-c-ir",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_register_arguments": [
+        {
+          "variable": "extraout_XMM0_Da",
+          "callee": "FUN_1400177a0",
+          "callee_source_sha256": "d0cccbed84b9b1a309016f51d19d67077c8cccf678d4fdf4ae323b96848e9b51",
+          "symbol": "CONTEXT_IGNORED_FUN_14006fa90_extraout_XMM0_Da"
+        }
+      ],
+      "implicit_qword_dereferences": 0,
+      "source_line": 99859,
+      "source_lines": 175,
+      "source_sha256": "a35c81e8c26b39ebb86617aa5e1f48c66b0e202f54eca036e34cfa1480916707"
+    },
+    {
+      "original": "FUN_140071f20",
+      "rust": "recovered::adapters26::fun_140071f20",
+      "category": "adapters26",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 101181,
+      "source_lines": 529,
+      "source_sha256": "573c89260b2fbc235b25b62e9f777222784f8b48d77bba4e8db58cb7728eb5d3"
+    },
+    {
+      "original": "FUN_14007d200",
+      "rust": "recovered::adapters26::fun_14007d200",
+      "category": "adapters26",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 110262,
+      "source_lines": 86,
+      "source_sha256": "90eb5404393d1a319f412bf9c245bb809b6513b55fb9b646aa417b7b4cb20e1a"
+    },
+    {
+      "original": "FUN_140083240",
+      "rust": "recovered::adapters26::fun_140083240",
+      "category": "adapters26",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 114831,
+      "source_lines": 192,
+      "source_sha256": "58f75b5ad82e53ad688d46bd756c5933e279d56eebf3389fcfea5e56917e1812"
+    },
+    {
+      "original": "FUN_14009ab10",
+      "rust": "recovered::adapters26::fun_14009ab10",
+      "category": "adapters26",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 133755,
+      "source_lines": 241,
+      "source_sha256": "d0f59535ac97489608fad89b52ef96401e2cfc0ce93fbf7cb95eee251a57bba5"
+    },
+    {
+      "original": "FUN_1400a7760",
+      "rust": "recovered::adapters26::fun_1400a7760",
+      "category": "adapters26",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 143701,
+      "source_lines": 111,
+      "source_sha256": "a95772e8ef88d0911ce8aad76102e4519eec99cb79175e63fb7dac0a65004258"
+    },
+    {
+      "original": "FUN_1400a7940",
+      "rust": "recovered::adapters26::fun_1400a7940",
+      "category": "adapters26",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 143817,
+      "source_lines": 111,
+      "source_sha256": "05cb87a2792656527e8359015a3d7086d999f2443e7502d03dc63a053b06b8ea"
+    },
+    {
+      "original": "FUN_1400d8374",
+      "rust": "recovered::adapters26::fun_1400d8374",
+      "category": "adapters26",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 181328,
+      "source_lines": 20,
+      "source_sha256": "0fe86f9c1ad00d9644867e0bfb2657c3bf70df2d750c8d1e9b87a0899a16f2ac"
+    }
+  ]
+}

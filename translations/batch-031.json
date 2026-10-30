@@ -1,0 +1,26 @@
+{
+  "reference_sha256": "01ca7b8866b6918f7e24c65fe02893aea444f2cbde9867981e78160b7a49719d",
+  "expected_count": 2,
+  "functions": [
+    {
+      "original": "FUN_14003bc20",
+      "rust": "recovered::primitives31::fun_14003bc20",
+      "category": "checked-primitives",
+      "native_reference": "normalized-original-c",
+      "source_line": 55673,
+      "source_lines": 143,
+      "source_sha256": "d5f20a8fdb3991b877259b0aa42e78be1447f11a25cffee877b9f585733bdc8e"
+    },
+    {
+      "original": "NAMED_L154839",
+      "rust": "recovered::primitives31::named_l154839",
+      "category": "checked-primitives",
+      "native_reference": "normalized-original-c",
+      "source_line": 154839,
+      "source_lines": 32,
+      "source_sha256": "779de4463fdb5a68980bb5a13a5f24abce6da131779a33f02a88d66b65b8cef8",
+      "original_signature": "undefined8 __scrt_acquire_startup_lock(void)",
+      "original_symbol": "__scrt_acquire_startup_lock"
+    }
+  ]
+}

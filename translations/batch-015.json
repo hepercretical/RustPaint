@@ -1,0 +1,4176 @@
+{
+  "reference_sha256": "01ca7b8866b6918f7e24c65fe02893aea444f2cbde9867981e78160b7a49719d",
+  "expected_count": 441,
+  "functions": [
+    {
+      "original": "FUN_140001b30",
+      "rust": "recovered::adapters15::fun_140001b30",
+      "category": "adapters15",
+      "source_line": 5709,
+      "source_lines": 10,
+      "source_sha256": "e4df49be6f18d00f7f9d409e0de88615320f7342402832e6f90ec9c8fae0947d"
+    },
+    {
+      "original": "FUN_140006970",
+      "rust": "recovered::adapters15::fun_140006970",
+      "category": "adapters15",
+      "source_line": 10692,
+      "source_lines": 10,
+      "source_sha256": "dd864f7b3be9907df7905b1e40894f98936e624a2b078ca098f803dea795f679"
+    },
+    {
+      "original": "FUN_140010c90",
+      "rust": "recovered::adapters15::fun_140010c90",
+      "category": "adapters15",
+      "source_line": 19367,
+      "source_lines": 12,
+      "source_sha256": "3242bbf3afd5e06f0c9c226679723b295cd7a3b590be56af2f09dba93916a4b2"
+    },
+    {
+      "original": "FUN_1400017e0",
+      "rust": "recovered::adapters15::fun_1400017e0",
+      "category": "adapters15",
+      "source_line": 5516,
+      "source_lines": 13,
+      "source_sha256": "7bbb3853d0035f8bdd7cef6ccdd9e80ebdb726da40472531789b258e63959493"
+    },
+    {
+      "original": "FUN_140006880",
+      "rust": "recovered::adapters15::fun_140006880",
+      "category": "adapters15",
+      "source_line": 10589,
+      "source_lines": 13,
+      "source_sha256": "cd135ba234a6b2b4f27faaaf897a85b40a2f1726a8a8bffcc196893282f767de"
+    },
+    {
+      "original": "FUN_1400148a0",
+      "rust": "recovered::adapters15::fun_1400148a0",
+      "category": "adapters15",
+      "source_line": 22578,
+      "source_lines": 12,
+      "source_sha256": "43fc8951c9079c4132ccf143c7a9236f35458e5b4d35310c74e619dde27843a9"
+    },
+    {
+      "original": "FUN_140023930",
+      "rust": "recovered::adapters15::fun_140023930",
+      "category": "adapters15",
+      "source_line": 35063,
+      "source_lines": 15,
+      "source_sha256": "413d8cfa5cc614a9e4080349a6ce6aa5a8d8e5a0f58c5d6959d5bef4d036a5b2"
+    },
+    {
+      "original": "FUN_140059640",
+      "rust": "recovered::adapters15::fun_140059640",
+      "category": "adapters15",
+      "source_line": 81556,
+      "source_lines": 13,
+      "source_sha256": "09602974edc50bb2471505e806faf5d0fd6c39a16a43dafc7fe4782181bd4a85"
+    },
+    {
+      "original": "FUN_140004100",
+      "rust": "recovered::adapters15::fun_140004100",
+      "category": "adapters15",
+      "source_line": 8187,
+      "source_lines": 16,
+      "source_sha256": "e125cce2b14e1815fc7f771809feef35bf935a12d665d7788ba98e2b4ddfed08"
+    },
+    {
+      "original": "FUN_1400053b0",
+      "rust": "recovered::adapters15::fun_1400053b0",
+      "category": "adapters15",
+      "source_line": 9361,
+      "source_lines": 14,
+      "source_sha256": "1c3f80d2a78abe5a98fe0c5eec16b0460d6f6a0c0f7a3f6af9647c71e647e3f4"
+    },
+    {
+      "original": "FUN_140011ab0",
+      "rust": "recovered::adapters15::fun_140011ab0",
+      "category": "adapters15",
+      "source_line": 20073,
+      "source_lines": 16,
+      "source_sha256": "e32e7b087bf8885f402c3396468b2670900e73d2a356d33868f04623c82c91dc"
+    },
+    {
+      "original": "FUN_1400694a0",
+      "rust": "recovered::adapters15::fun_1400694a0",
+      "category": "adapters15",
+      "source_line": 94858,
+      "source_lines": 15,
+      "source_sha256": "7ced6510f670b437c80d064d97e9aff23acadad75c67df82121cbaedc7623472"
+    },
+    {
+      "original": "FUN_140024f50",
+      "rust": "recovered::adapters15::fun_140024f50",
+      "category": "adapters15",
+      "source_line": 36317,
+      "source_lines": 20,
+      "source_sha256": "ea5f4df5eb6a8df454b194dbb18554978d067b2b69a3cb647c6f7e620e8a611f"
+    },
+    {
+      "original": "FUN_140010cd0",
+      "rust": "recovered::adapters15::fun_140010cd0",
+      "category": "adapters15",
+      "source_line": 19382,
+      "source_lines": 23,
+      "source_sha256": "42bc25d0d8f8288610ab1502855004fe62d86eb7242d3b033d1f882d1cc13b74"
+    },
+    {
+      "original": "FUN_1400a7580",
+      "rust": "recovered::adapters15::fun_1400a7580",
+      "category": "adapters15",
+      "source_line": 143591,
+      "source_lines": 22,
+      "source_sha256": "760479cb4de1c764aed52eba3d6fea5840882b46174a8c9f1058b0b5bcb9e2c8"
+    },
+    {
+      "original": "FUN_14000a0f0",
+      "rust": "recovered::adapters15::fun_14000a0f0",
+      "category": "adapters15",
+      "source_line": 13619,
+      "source_lines": 25,
+      "source_sha256": "dc01f99bf25b7a8260c6e9a5d9696d006978b8ae2f40fa763832abdccbda1b32"
+    },
+    {
+      "original": "FUN_140004880",
+      "rust": "recovered::adapters15::fun_140004880",
+      "category": "adapters15",
+      "source_line": 8689,
+      "source_lines": 28,
+      "source_sha256": "a8a22141f1a3d493d61b3969958dd787a2416aa8675532fed4a4c7b87cca73a3"
+    },
+    {
+      "original": "FUN_1400191f0",
+      "rust": "recovered::adapters15::fun_1400191f0",
+      "category": "adapters15",
+      "source_line": 26458,
+      "source_lines": 22,
+      "source_sha256": "0ad6e1031ea5c75ec44fa5bb254b7c3a15ec1935194e1854e1a1a1cdecb3145d"
+    },
+    {
+      "original": "FUN_140094b70",
+      "rust": "recovered::adapters15::fun_140094b70",
+      "category": "adapters15",
+      "source_line": 128331,
+      "source_lines": 22,
+      "source_sha256": "7cb0729e291ebda9b6955d8c65d0b4f99ab16341fe7e473fbaff57c677eb6204"
+    },
+    {
+      "original": "FUN_1400041f0",
+      "rust": "recovered::adapters15::fun_1400041f0",
+      "category": "adapters15",
+      "source_line": 8256,
+      "source_lines": 30,
+      "source_sha256": "7cfcd70c483fe537364197fa31e2e7fb9267cacb43789a776d877d7737d381a5"
+    },
+    {
+      "original": "FUN_1400147f0",
+      "rust": "recovered::adapters15::fun_1400147f0",
+      "category": "adapters15",
+      "source_line": 22549,
+      "source_lines": 26,
+      "source_sha256": "bde260aaaf05be275f7fff7cc4bd2f9ae321b4df18fc2f303dd01296c579503d"
+    },
+    {
+      "original": "FUN_140011a00",
+      "rust": "recovered::adapters15::fun_140011a00",
+      "category": "adapters15",
+      "source_line": 20031,
+      "source_lines": 25,
+      "source_sha256": "911224c1cd0e17de5ce9ac7c1f88ef7f786360ddc8e22dbcd628863b7fa7669e"
+    },
+    {
+      "original": "FUN_1400948a0",
+      "rust": "recovered::adapters15::fun_1400948a0",
+      "category": "adapters15",
+      "source_line": 128183,
+      "source_lines": 23,
+      "source_sha256": "ad5f88f8aff7a3759c643fb2a9262a141b84bd8ac16c31af549b0bda5013d4c3"
+    },
+    {
+      "original": "FUN_140002810",
+      "rust": "recovered::adapters15::fun_140002810",
+      "category": "adapters15",
+      "source_line": 6442,
+      "source_lines": 33,
+      "source_sha256": "ade6096edeeb7aefe3d85e86f76c8539d46a33fffbcfac9fda2fd2991162e11b"
+    },
+    {
+      "original": "FUN_140051130",
+      "rust": "recovered::adapters15::fun_140051130",
+      "category": "adapters15",
+      "source_line": 73797,
+      "source_lines": 23,
+      "source_sha256": "d194108606fd60e7d2722b8a17faa1fa07456fe3d3d436c9fdceb17de4c8a1a3"
+    },
+    {
+      "original": "FUN_140024ce0",
+      "rust": "recovered::adapters15::fun_140024ce0",
+      "category": "adapters15",
+      "source_line": 36154,
+      "source_lines": 33,
+      "source_sha256": "205c820bb8c34b3c704e08fc405145c455aede31818b997e989643fb6d7e280e"
+    },
+    {
+      "original": "FUN_140003c00",
+      "rust": "recovered::adapters15::fun_140003c00",
+      "category": "adapters15",
+      "source_line": 7863,
+      "source_lines": 36,
+      "source_sha256": "a6f2e6551cd8c8a38833d211edb71e9b372bd9c2d1f4d6d4db262522d366f104"
+    },
+    {
+      "original": "FUN_14000b750",
+      "rust": "recovered::adapters15::fun_14000b750",
+      "category": "adapters15",
+      "source_line": 14953,
+      "source_lines": 36,
+      "source_sha256": "c4182f501a3e3f720acbf7877b2c40a4cc94b3416a0aa724cb7324928cbd8403"
+    },
+    {
+      "original": "FUN_140045e20",
+      "rust": "recovered::adapters15::fun_140045e20",
+      "category": "adapters15",
+      "source_line": 64864,
+      "source_lines": 26,
+      "source_sha256": "5fa42a4fbc0fc34342130bf4de3aca0813d192a63a8908364f3da17f2b3c3f5c"
+    },
+    {
+      "original": "FUN_140028fa0",
+      "rust": "recovered::adapters15::fun_140028fa0",
+      "category": "adapters15",
+      "source_line": 39415,
+      "source_lines": 29,
+      "source_sha256": "fbbe7b82d4be608ab0e9cf8a25c6c35619415d923eab0f638099b13e8001b5e3"
+    },
+    {
+      "original": "FUN_1400032f0",
+      "rust": "recovered::adapters15::fun_1400032f0",
+      "category": "adapters15",
+      "source_line": 7275,
+      "source_lines": 38,
+      "source_sha256": "101ffc2a5d70a9fb492925c2a56f5b35413ffc012117118cc8a646e1e9b8efd9"
+    },
+    {
+      "original": "FUN_140096dd0",
+      "rust": "recovered::adapters15::fun_140096dd0",
+      "category": "adapters15",
+      "source_line": 130386,
+      "source_lines": 38,
+      "source_sha256": "42aa697965a5f2183f79d1ac4527a2c009e4fb68f3d05b7dab1b264d30b77f82"
+    },
+    {
+      "original": "FUN_140002f20",
+      "rust": "recovered::adapters15::fun_140002f20",
+      "category": "adapters15",
+      "source_line": 6925,
+      "source_lines": 38,
+      "source_sha256": "c5f3e2891e2f1bb5eeba8c05d7875ab81d9ca600a9bab020b73b502e3b89ff0b"
+    },
+    {
+      "original": "FUN_1400030f0",
+      "rust": "recovered::adapters15::fun_1400030f0",
+      "category": "adapters15",
+      "source_line": 7087,
+      "source_lines": 38,
+      "source_sha256": "48665a341dfe703edb23bbebf954142249f0c8d0d504b15035595a9e1461e3ba"
+    },
+    {
+      "original": "FUN_14001bf80",
+      "rust": "recovered::adapters15::fun_14001bf80",
+      "category": "adapters15",
+      "source_line": 28694,
+      "source_lines": 38,
+      "source_sha256": "74bef750f8d8024f00abe9c68d81465643ca86c316065e2e189228fb46ea24c4"
+    },
+    {
+      "original": "FUN_14001c980",
+      "rust": "recovered::adapters15::fun_14001c980",
+      "category": "adapters15",
+      "source_line": 29402,
+      "source_lines": 38,
+      "source_sha256": "3a5ebd843b36d6df7fc940fb7694d14695da920928b1f6a7d14cd778e8904853"
+    },
+    {
+      "original": "FUN_1400960d0",
+      "rust": "recovered::adapters15::fun_1400960d0",
+      "category": "adapters15",
+      "source_line": 129506,
+      "source_lines": 38,
+      "source_sha256": "020512d23cb35906e3fd9c108b0c3b8f89849fe55f6a8f0bef33df954d7d0193"
+    },
+    {
+      "original": "FUN_1400964a0",
+      "rust": "recovered::adapters15::fun_1400964a0",
+      "category": "adapters15",
+      "source_line": 129788,
+      "source_lines": 38,
+      "source_sha256": "8456666bcaecd37c175b5b8fd5fc52e03a28d2cc1972dbe4fd539622bbdba26b"
+    },
+    {
+      "original": "FUN_14001bac0",
+      "rust": "recovered::adapters15::fun_14001bac0",
+      "category": "adapters15",
+      "source_line": 28333,
+      "source_lines": 30,
+      "source_sha256": "4fa716a33a0efe693afd1585c92dd95878e7fc51c2e2a3a12d1189e5b3ab0f53"
+    },
+    {
+      "original": "FUN_140090f70",
+      "rust": "recovered::adapters15::fun_140090f70",
+      "category": "adapters15",
+      "source_line": 125380,
+      "source_lines": 31,
+      "source_sha256": "f3c898b1e521bb1c93cb097472863ce143d0ab46c3799e932e9187f09f0b1b55"
+    },
+    {
+      "original": "FUN_14002b3e0",
+      "rust": "recovered::adapters15::fun_14002b3e0",
+      "category": "adapters15",
+      "source_line": 41183,
+      "source_lines": 29,
+      "source_sha256": "0ff846f6587ffb6acadfe4efb9a6a0a0dce5116694a377c206fef69e9a70f616"
+    },
+    {
+      "original": "FUN_140036b30",
+      "rust": "recovered::adapters15::fun_140036b30",
+      "category": "adapters15",
+      "source_line": 50719,
+      "source_lines": 39,
+      "source_sha256": "911bff255fc5d47302376d12dd7f8c05a70daf501a6fd0e75e9dff7f1f277007"
+    },
+    {
+      "original": "FUN_14008b8e0",
+      "rust": "recovered::adapters15::fun_14008b8e0",
+      "category": "adapters15",
+      "source_line": 121044,
+      "source_lines": 27,
+      "source_sha256": "2234d35394fd6f54b6d6283c39f55d5c50759cffdaa776a6f8001382eccee4bb"
+    },
+    {
+      "original": "FUN_140078590",
+      "rust": "recovered::adapters15::fun_140078590",
+      "category": "adapters15",
+      "source_line": 105893,
+      "source_lines": 32,
+      "source_sha256": "20e1d0f1faa4bf52f04eacf59f9f1cb955dca9048814d0d84f0e9d5ba6d45303"
+    },
+    {
+      "original": "FUN_14001f2e0",
+      "rust": "recovered::adapters15::fun_14001f2e0",
+      "category": "adapters15",
+      "source_line": 31906,
+      "source_lines": 30,
+      "source_sha256": "078c0f45c76e6e9fe15dbd5ffaed8ac496c39267c1d3c4d59414930eb7c616ff"
+    },
+    {
+      "original": "FUN_140039ca0",
+      "rust": "recovered::adapters15::fun_140039ca0",
+      "category": "adapters15",
+      "source_line": 53741,
+      "source_lines": 41,
+      "source_sha256": "26a41e172064a8431cb6782d857de6f281c4d6ed9d5a0fe47cef1e516b9e2bac"
+    },
+    {
+      "original": "FUN_140024d20",
+      "rust": "recovered::adapters15::fun_140024d20",
+      "category": "adapters15",
+      "source_line": 36192,
+      "source_lines": 42,
+      "source_sha256": "d693825dfd429ef77d7d1223b1a14c2eefa16dcf4a0d5846d7ebd08fc42cab96"
+    },
+    {
+      "original": "FUN_14008ffb0",
+      "rust": "recovered::adapters15::fun_14008ffb0",
+      "category": "adapters15",
+      "source_line": 124575,
+      "source_lines": 34,
+      "source_sha256": "048ec2025fe32176e7634dc0867be94197caba4b682db87a1f137e9b481af9bb"
+    },
+    {
+      "original": "FUN_14001dbb0",
+      "rust": "recovered::adapters15::fun_14001dbb0",
+      "category": "adapters15",
+      "source_line": 30604,
+      "source_lines": 43,
+      "source_sha256": "d9e1a4845b1692e74ff44b56ef22069abed50214213cc895f22db8f9a569f788"
+    },
+    {
+      "original": "FUN_140022b00",
+      "rust": "recovered::adapters15::fun_140022b00",
+      "category": "adapters15",
+      "source_line": 34259,
+      "source_lines": 38,
+      "source_sha256": "526447e07d03b49fd19c1ef64f9ffd95ea8bde12258ff7d1c6658676710d6ee1"
+    },
+    {
+      "original": "FUN_1400124b0",
+      "rust": "recovered::adapters15::fun_1400124b0",
+      "category": "adapters15",
+      "source_line": 20803,
+      "source_lines": 38,
+      "source_sha256": "551790afdb16ed7eb93c718135778175c59f65c525ca4be90562f9d1180e5a40"
+    },
+    {
+      "original": "FUN_140096120",
+      "rust": "recovered::adapters15::fun_140096120",
+      "category": "adapters15",
+      "source_line": 129549,
+      "source_lines": 47,
+      "source_sha256": "fff656bdfec5be01c71ddee995c5d29374a885be6ce3677ad21829c90d380a4c"
+    },
+    {
+      "original": "FUN_1400964f0",
+      "rust": "recovered::adapters15::fun_1400964f0",
+      "category": "adapters15",
+      "source_line": 129831,
+      "source_lines": 47,
+      "source_sha256": "fe55ee60bac770b8dc02ec882d9fcbba45abd44ea646519eb7b739c263eda9bc"
+    },
+    {
+      "original": "FUN_140096e20",
+      "rust": "recovered::adapters15::fun_140096e20",
+      "category": "adapters15",
+      "source_line": 130429,
+      "source_lines": 47,
+      "source_sha256": "78d4ff987923fa0e3ef05163be9c7f4349302de8ca066969f03551dd4f10f27e"
+    },
+    {
+      "original": "FUN_14008d550",
+      "rust": "recovered::adapters15::fun_14008d550",
+      "category": "adapters15",
+      "source_line": 122454,
+      "source_lines": 33,
+      "source_sha256": "bc8dcc5c478fd6b3557efbeada98d8479363d0af2c9f358f239ae01dd1b9213d"
+    },
+    {
+      "original": "FUN_140041af0",
+      "rust": "recovered::adapters15::fun_140041af0",
+      "category": "adapters15",
+      "source_line": 61091,
+      "source_lines": 50,
+      "source_sha256": "7b64b8cad4d8756392b48518431495515d065cb44da05147f82109dbd7068a14"
+    },
+    {
+      "original": "FUN_1400a7250",
+      "rust": "recovered::adapters15::fun_1400a7250",
+      "category": "adapters15",
+      "source_line": 143423,
+      "source_lines": 50,
+      "source_sha256": "d0a8cd610eb98217bdc81432edcb9cdd76485907e8e6614caa06a6b07e6c0630"
+    },
+    {
+      "original": "FUN_1400a7360",
+      "rust": "recovered::adapters15::fun_1400a7360",
+      "category": "adapters15",
+      "source_line": 143479,
+      "source_lines": 50,
+      "source_sha256": "df2ebdea7f938a11a6b1e6340fc40cdcd2819f992ab245297794a9c69edf1eb9"
+    },
+    {
+      "original": "FUN_1400a7470",
+      "rust": "recovered::adapters15::fun_1400a7470",
+      "category": "adapters15",
+      "source_line": 143535,
+      "source_lines": 50,
+      "source_sha256": "2fc91b438d4546e04e0b2d0f08fca2488a95723846921e7c8f03d6def9e020b3"
+    },
+    {
+      "original": "FUN_140028c70",
+      "rust": "recovered::adapters15::fun_140028c70",
+      "category": "adapters15",
+      "source_line": 39262,
+      "source_lines": 38,
+      "source_sha256": "5a3b7cb15566c69e0903d046e1e5d0bc42ab32b7a1a0b554ccdb67740742621e"
+    },
+    {
+      "original": "FUN_140017ba0",
+      "rust": "recovered::adapters15::fun_140017ba0",
+      "category": "adapters15",
+      "source_line": 25138,
+      "source_lines": 52,
+      "source_sha256": "365f32d859b921506ad62ebc456797fe8786a0c66d579a885b959655702a1646"
+    },
+    {
+      "original": "FUN_14007ed60",
+      "rust": "recovered::adapters15::fun_14007ed60",
+      "category": "adapters15",
+      "source_line": 111592,
+      "source_lines": 46,
+      "source_sha256": "9831cb517d28ac63f99c041b5aad49418d3669290e32e6c3aea739ac00d952aa"
+    },
+    {
+      "original": "FUN_1400605b0",
+      "rust": "recovered::adapters15::fun_1400605b0",
+      "category": "adapters15",
+      "source_line": 87197,
+      "source_lines": 49,
+      "source_sha256": "954e66c720565e7bea8d851ed4bf62132cd9dd3ceeb24b82225d6583a040af18"
+    },
+    {
+      "original": "FUN_140094940",
+      "rust": "recovered::adapters15::fun_140094940",
+      "category": "adapters15",
+      "source_line": 128225,
+      "source_lines": 49,
+      "source_sha256": "cf67b61d966c14b2296c855200edafcfb560027a412b41c46c16611811781d4d"
+    },
+    {
+      "original": "FUN_140003ae0",
+      "rust": "recovered::adapters15::fun_140003ae0",
+      "category": "adapters15",
+      "source_line": 7772,
+      "source_lines": 54,
+      "source_sha256": "1b4c478ba0a850a96c683513937f8a717f760ef67b83b9035cd8bf63c5d03c2d"
+    },
+    {
+      "original": "FUN_140058bc0",
+      "rust": "recovered::adapters15::fun_140058bc0",
+      "category": "adapters15",
+      "source_line": 80967,
+      "source_lines": 54,
+      "source_sha256": "343f5a951e6112a01e5da8ddc9d9f3cdbb455cbf7456e8ff0e72960bba530981"
+    },
+    {
+      "original": "FUN_140037920",
+      "rust": "recovered::adapters15::fun_140037920",
+      "category": "adapters15",
+      "source_line": 51575,
+      "source_lines": 50,
+      "source_sha256": "3cc9914f3910f16f079c8349ef519680df1aec62b86f6072f18f6da245f2b8cd"
+    },
+    {
+      "original": "FUN_14001ec90",
+      "rust": "recovered::adapters15::fun_14001ec90",
+      "category": "adapters15",
+      "source_line": 31567,
+      "source_lines": 51,
+      "source_sha256": "2f066203e07b8edd7b18c7f445e6312bc44127bc9d3de96a76674bf364854ffa"
+    },
+    {
+      "original": "FUN_140094a60",
+      "rust": "recovered::adapters15::fun_140094a60",
+      "category": "adapters15",
+      "source_line": 128279,
+      "source_lines": 47,
+      "source_sha256": "3902faeb8f0c86aa82eaa84423ec5e7ed8976c7bc004ed79c90c72ff58f42267"
+    },
+    {
+      "original": "FUN_14000b8a0",
+      "rust": "recovered::adapters15::fun_14000b8a0",
+      "category": "adapters15",
+      "source_line": 15035,
+      "source_lines": 59,
+      "source_sha256": "a7df3d7eb07c61d27f78565df81144dad7d5a35b1b8d834c099d3ca882e20aec"
+    },
+    {
+      "original": "FUN_1400642d0",
+      "rust": "recovered::adapters15::fun_1400642d0",
+      "category": "adapters15",
+      "source_line": 90347,
+      "source_lines": 65,
+      "source_sha256": "8196c2424b41989524e3cc8480f2a3b816af08cbf8f0a505c5b16288e359e8b8"
+    },
+    {
+      "original": "FUN_140078a90",
+      "rust": "recovered::adapters15::fun_140078a90",
+      "category": "adapters15",
+      "source_line": 106168,
+      "source_lines": 65,
+      "source_sha256": "dff53004bb2295d200d3aad18260eb2d2a9011afe71bd839fcd937055b2665a5"
+    },
+    {
+      "original": "FUN_1400a7b30",
+      "rust": "recovered::adapters15::fun_1400a7b30",
+      "category": "adapters15",
+      "source_line": 143940,
+      "source_lines": 65,
+      "source_sha256": "b24da58973cfcc3e862669f8e0cc0c73da60611df59c0d47c04cc9e5856ca4df"
+    },
+    {
+      "original": "FUN_140040770",
+      "rust": "recovered::adapters15::fun_140040770",
+      "category": "adapters15",
+      "source_line": 59951,
+      "source_lines": 54,
+      "source_sha256": "00b3879a91020fc1e72b45d2b88d912f49f3546aafe5d4789ad5c72686f0391f"
+    },
+    {
+      "original": "FUN_140094200",
+      "rust": "recovered::adapters15::fun_140094200",
+      "category": "adapters15",
+      "source_line": 127895,
+      "source_lines": 56,
+      "source_sha256": "d5f097f44a8a206d41d4b2dd9f633dc12b7069d38a1e1778328b4a0d169ccac6"
+    },
+    {
+      "original": "FUN_14007ae50",
+      "rust": "recovered::adapters15::fun_14007ae50",
+      "category": "adapters15",
+      "source_line": 108208,
+      "source_lines": 64,
+      "source_sha256": "e31a56b4ea938b22919c1a80b09cbb5c0ef1f896010e7dbf93b95cd66562a4fb"
+    },
+    {
+      "original": "FUN_1400377a0",
+      "rust": "recovered::adapters15::fun_1400377a0",
+      "category": "adapters15",
+      "source_line": 51468,
+      "source_lines": 61,
+      "source_sha256": "3d63f13accd3a5fe420673a89ec2bdbd5246604d98fa27a908771acc5fe60f50"
+    },
+    {
+      "original": "FUN_1400aae00",
+      "rust": "recovered::adapters15::fun_1400aae00",
+      "category": "adapters15",
+      "source_line": 147053,
+      "source_lines": 72,
+      "source_sha256": "953120111517ffa0c40e466a99fe40c7297affde9f4ca526e63821eac2fca72a"
+    },
+    {
+      "original": "FUN_14001e640",
+      "rust": "recovered::adapters15::fun_14001e640",
+      "category": "adapters15",
+      "source_line": 31243,
+      "source_lines": 71,
+      "source_sha256": "bfc2af2ffafd761b85425befe236258452c297ee66cad7aa58fa350defdf6cf7"
+    },
+    {
+      "original": "FUN_1400439a0",
+      "rust": "recovered::adapters15::fun_1400439a0",
+      "category": "adapters15",
+      "source_line": 62945,
+      "source_lines": 71,
+      "source_sha256": "90b124e7c1ea416ca2d4004c1f77fede3ef3ac7b4622b51d81e21f7a39d526aa"
+    },
+    {
+      "original": "FUN_140038900",
+      "rust": "recovered::adapters15::fun_140038900",
+      "category": "adapters15",
+      "source_line": 52572,
+      "source_lines": 74,
+      "source_sha256": "f3c05e9bbd07ef776507851f8321a26e33f22be99ce7e5f297f86589c25ab187"
+    },
+    {
+      "original": "FUN_140064aa0",
+      "rust": "recovered::adapters15::fun_140064aa0",
+      "category": "adapters15",
+      "source_line": 90880,
+      "source_lines": 81,
+      "source_sha256": "bfd421865ed8c5eeb0718e56a64e4466c93ecf171719bbc79ce6a813206207ef"
+    },
+    {
+      "original": "FUN_14002fe90",
+      "rust": "recovered::adapters15::fun_14002fe90",
+      "category": "adapters15",
+      "source_line": 44910,
+      "source_lines": 84,
+      "source_sha256": "6bd4263111093e020a73386da300caa061c3ef95ed1b70b5fda14ef3f3961a5e"
+    },
+    {
+      "original": "FUN_140010850",
+      "rust": "recovered::adapters15::fun_140010850",
+      "category": "adapters15",
+      "source_line": 19172,
+      "source_lines": 74,
+      "source_sha256": "7f72935c0fa222d9b88716582a019494639beff3cebf42a919a30d4d4cb0aef1"
+    },
+    {
+      "original": "FUN_14007b320",
+      "rust": "recovered::adapters15::fun_14007b320",
+      "category": "adapters15",
+      "source_line": 108503,
+      "source_lines": 78,
+      "source_sha256": "0616d16086b31932165b1652397fa8e3675771326c40afd4da726f337fc8b776"
+    },
+    {
+      "original": "FUN_1400101e0",
+      "rust": "recovered::adapters15::fun_1400101e0",
+      "category": "adapters15",
+      "source_line": 18874,
+      "source_lines": 80,
+      "source_sha256": "138646936e2c8c6a1b71c069bcd11eeab8ee1ae61b6ac2f10e830ccb6993e43a"
+    },
+    {
+      "original": "FUN_14007b5b0",
+      "rust": "recovered::adapters15::fun_14007b5b0",
+      "category": "adapters15",
+      "source_line": 108639,
+      "source_lines": 79,
+      "source_sha256": "8c5790efba100dbd83a9fe0d2948ee0060eee63eddc38e95c4305b89b920252d"
+    },
+    {
+      "original": "FUN_14002d670",
+      "rust": "recovered::adapters15::fun_14002d670",
+      "category": "adapters15",
+      "source_line": 43049,
+      "source_lines": 90,
+      "source_sha256": "e8ba8a0c37bfcfd11a5e9d850f97e1a326eb402ef09ecb3489b11407d86ff587"
+    },
+    {
+      "original": "FUN_140095d50",
+      "rust": "recovered::adapters15::fun_140095d50",
+      "category": "adapters15",
+      "source_line": 129218,
+      "source_lines": 80,
+      "source_sha256": "c7f987c536abe6911b02c9aa4b599deda3171ca636bf870138a565880bf84a40"
+    },
+    {
+      "original": "FUN_140001850",
+      "rust": "recovered::adapters15::fun_140001850",
+      "category": "adapters15",
+      "source_line": 5564,
+      "source_lines": 82,
+      "source_sha256": "502c215a3c0c9ba78550ed19dfdfda45843048696b2902f92abebc1972827bb2"
+    },
+    {
+      "original": "FUN_14009df20",
+      "rust": "recovered::adapters15::fun_14009df20",
+      "category": "adapters15",
+      "source_line": 136214,
+      "source_lines": 86,
+      "source_sha256": "126522968eec8a6556e612cd2ab21683a30cf75c60d370f4091fa42e8884baa1"
+    },
+    {
+      "original": "FUN_14003f260",
+      "rust": "recovered::adapters15::fun_14003f260",
+      "category": "adapters15",
+      "source_line": 58828,
+      "source_lines": 95,
+      "source_sha256": "2c3bddea1a6c2377f4ee63637be7d95f3f6c3a267a1373bfa36a270bf8e57e54"
+    },
+    {
+      "original": "FUN_14001f000",
+      "rust": "recovered::adapters15::fun_14001f000",
+      "category": "adapters15",
+      "source_line": 31746,
+      "source_lines": 84,
+      "source_sha256": "bd32f4eccc287f5225e44f1d987cd49cf8154f0382fcdabe7d60a5a88e321e2c"
+    },
+    {
+      "original": "FUN_1400659d0",
+      "rust": "recovered::adapters15::fun_1400659d0",
+      "category": "adapters15",
+      "source_line": 91848,
+      "source_lines": 84,
+      "source_sha256": "9b8d688ace6fac2487fd4deec86286d5fb5af993af28304a1f507b13c41b9661"
+    },
+    {
+      "original": "FUN_14003f6d0",
+      "rust": "recovered::adapters15::fun_14003f6d0",
+      "category": "adapters15",
+      "source_line": 59096,
+      "source_lines": 98,
+      "source_sha256": "57088c7965a060ded9fe1fcdbf8c35d49a36f50fb4ed28f39a07ce9e06cd93bf"
+    },
+    {
+      "original": "FUN_140012570",
+      "rust": "recovered::adapters15::fun_140012570",
+      "category": "adapters15",
+      "source_line": 20847,
+      "source_lines": 79,
+      "source_sha256": "bd30af47a71e01568af9a392af3f5f5ad927ac5fdccdd8e0ff7c51507eaa0ffd"
+    },
+    {
+      "original": "FUN_140075d90",
+      "rust": "recovered::adapters15::fun_140075d90",
+      "category": "adapters15",
+      "source_line": 103729,
+      "source_lines": 91,
+      "source_sha256": "757a0e03743526b12d1d286d7304889a7a7d553d6116810d7eb29fe147641639"
+    },
+    {
+      "original": "FUN_140010d50",
+      "rust": "recovered::adapters15::fun_140010d50",
+      "category": "adapters15",
+      "source_line": 19411,
+      "source_lines": 85,
+      "source_sha256": "b72b55477535d6649776217d25e8c58e4e0b3472519e5de5434755812a38af16"
+    },
+    {
+      "original": "FUN_140010fa0",
+      "rust": "recovered::adapters15::fun_140010fa0",
+      "category": "adapters15",
+      "source_line": 19519,
+      "source_lines": 85,
+      "source_sha256": "8f36d18f770efb2e7cdd09270d75aca23e52d5500bea69cc2066a8694e21750c"
+    },
+    {
+      "original": "FUN_140024910",
+      "rust": "recovered::adapters15::fun_140024910",
+      "category": "adapters15",
+      "source_line": 35888,
+      "source_lines": 105,
+      "source_sha256": "38ed1956753d138d61336121ad65f356f370cac0ef7cce96f98dee6dc20c0087"
+    },
+    {
+      "original": "FUN_14000f870",
+      "rust": "recovered::adapters15::fun_14000f870",
+      "category": "adapters15",
+      "source_line": 18431,
+      "source_lines": 96,
+      "source_sha256": "e7e85828a0af8bdc2f0003871650cb0fec4588aa9ca0bfd18ff58d83699d0580"
+    },
+    {
+      "original": "FUN_140031980",
+      "rust": "recovered::adapters15::fun_140031980",
+      "category": "adapters15",
+      "source_line": 46233,
+      "source_lines": 88,
+      "source_sha256": "95c886c5b63cb402e2d6fb31e27533a760214d62b0fbdc74f1ee94146447587b"
+    },
+    {
+      "original": "FUN_1400193c0",
+      "rust": "recovered::adapters15::fun_1400193c0",
+      "category": "adapters15",
+      "source_line": 26544,
+      "source_lines": 106,
+      "source_sha256": "6f4c23ff74a673d4735328da43d22a12c3e912545838cb8ff19ba1e3e8bb4d47"
+    },
+    {
+      "original": "FUN_14003f510",
+      "rust": "recovered::adapters15::fun_14003f510",
+      "category": "adapters15",
+      "source_line": 58978,
+      "source_lines": 112,
+      "source_sha256": "52aafa5e565e1931119044ec47d63f46ef27274e7d80de017e000ad1424c710b"
+    },
+    {
+      "original": "FUN_14004df50",
+      "rust": "recovered::adapters15::fun_14004df50",
+      "category": "adapters15",
+      "source_line": 71592,
+      "source_lines": 83,
+      "source_sha256": "d09fa5dee5ecec3ea5bbcb573102f3327f15f74966564facb6ee0e070a8e00c8"
+    },
+    {
+      "original": "FUN_140014420",
+      "rust": "recovered::adapters15::fun_140014420",
+      "category": "adapters15",
+      "source_line": 22377,
+      "source_lines": 98,
+      "source_sha256": "8f6e1944c7d3ddc55064b8d938ac482aeac14d244e816ee56e8392b5a8c5acea"
+    },
+    {
+      "original": "FUN_14007b110",
+      "rust": "recovered::adapters15::fun_14007b110",
+      "category": "adapters15",
+      "source_line": 108375,
+      "source_lines": 117,
+      "source_sha256": "02d369f2969d80270cea6537cac7b77518fde65d74c664bcf1b8515033d5ad4f"
+    },
+    {
+      "original": "FUN_140010610",
+      "rust": "recovered::adapters15::fun_140010610",
+      "category": "adapters15",
+      "source_line": 19068,
+      "source_lines": 98,
+      "source_sha256": "19f3bec8b5bf696e6e4ab8fe494b182f369dc1dcc9c48671ee095c0717316781"
+    },
+    {
+      "original": "FUN_140039800",
+      "rust": "recovered::adapters15::fun_140039800",
+      "category": "adapters15",
+      "source_line": 53432,
+      "source_lines": 124,
+      "source_sha256": "48d3d8b3a85bb50d9f4c6093245ab3f69f9278d7b11e5fc7b8cb30ae7bda9b2d"
+    },
+    {
+      "original": "FUN_140059ad0",
+      "rust": "recovered::adapters15::fun_140059ad0",
+      "category": "adapters15",
+      "source_line": 81808,
+      "source_lines": 124,
+      "source_sha256": "c3b01b6d1af1fa05abd7be62343947fbfbf689f90059584cb061706ad23a01c2"
+    },
+    {
+      "original": "FUN_1400aa120",
+      "rust": "recovered::adapters15::fun_1400aa120",
+      "category": "adapters15",
+      "source_line": 146306,
+      "source_lines": 124,
+      "source_sha256": "991677219f0450d4007e005d0402e880d6bc9181d0a08e2bf56ba909dc5a9a49"
+    },
+    {
+      "original": "FUN_1400aa300",
+      "rust": "recovered::adapters15::fun_1400aa300",
+      "category": "adapters15",
+      "source_line": 146435,
+      "source_lines": 124,
+      "source_sha256": "5b6c20213f3ac072782e97b876aed1fea68d2af8977a89613fb357cf14335ae9"
+    },
+    {
+      "original": "FUN_1400904f0",
+      "rust": "recovered::adapters15::fun_1400904f0",
+      "category": "adapters15",
+      "source_line": 124844,
+      "source_lines": 130,
+      "source_sha256": "0f9bbec25b0ca5bfa8a807933a9dc4953e4f9f1dea8acad4fd5ee4bd67180741"
+    },
+    {
+      "original": "FUN_14008e340",
+      "rust": "recovered::adapters15::fun_14008e340",
+      "category": "adapters15",
+      "source_line": 123174,
+      "source_lines": 85,
+      "source_sha256": "b501bde1aca244d8b01df3e375fb035200b2f2935e61171c8bd994efd7cdbc88"
+    },
+    {
+      "original": "FUN_140090980",
+      "rust": "recovered::adapters15::fun_140090980",
+      "category": "adapters15",
+      "source_line": 125052,
+      "source_lines": 146,
+      "source_sha256": "f1d63f59e3ceedcb16cd3e0bd15f1eba7ccf7a5ef269afa8d151bc68a7b59048"
+    },
+    {
+      "original": "FUN_1400a8870",
+      "rust": "recovered::adapters15::fun_1400a8870",
+      "category": "adapters15",
+      "source_line": 144861,
+      "source_lines": 165,
+      "source_sha256": "db420eefb7a3fd20c1f29c40f248112914ea4e915285fc60e668cf19886c73d5"
+    },
+    {
+      "original": "FUN_14008d1a0",
+      "rust": "recovered::adapters15::fun_14008d1a0",
+      "category": "adapters15",
+      "source_line": 122274,
+      "source_lines": 174,
+      "source_sha256": "a4de79948d4a0c5a736846078a5ed4f26d32473df609ef56010ca0753f07c95a"
+    },
+    {
+      "original": "FUN_140075740",
+      "rust": "recovered::adapters15::fun_140075740",
+      "category": "adapters15",
+      "source_line": 103440,
+      "source_lines": 170,
+      "source_sha256": "5e4d7754d77221867cb92196c762d3c4c39440005c7f685801f5247a82b85e9d"
+    },
+    {
+      "original": "FUN_140026000",
+      "rust": "recovered::adapters15::fun_140026000",
+      "category": "adapters15",
+      "source_line": 37167,
+      "source_lines": 282,
+      "source_sha256": "0eae7154a0899df605f138f4cebce27a7efef51f964088053dda876e269a1e9e"
+    },
+    {
+      "original": "FUN_14008a5e0",
+      "rust": "recovered::adapters15::fun_14008a5e0",
+      "category": "adapters15",
+      "source_line": 120194,
+      "source_lines": 309,
+      "source_sha256": "bb3c5de3474eee6b9663d75a4d8b16e603d147c4b49fcf58986b871a3b676354"
+    },
+    {
+      "original": "NAMED_L5649",
+      "rust": "recovered::adapters15::named_l5649",
+      "category": "adapters15",
+      "source_line": 5649,
+      "source_lines": 5,
+      "source_sha256": "4ea47d01236f736da0cf29d21d8da3886b51287fd6ab534ebd3cdd6f1cfc9f26",
+      "original_signature": "void _guard_check_icall(void)",
+      "original_symbol": "_guard_check_icall"
+    },
+    {
+      "original": "NAMED_L155335",
+      "rust": "recovered::adapters15::named_l155335",
+      "category": "adapters15",
+      "source_line": 155335,
+      "source_lines": 5,
+      "source_sha256": "e45c47289fec5d0ffcb4fde84e70320511d1bd2c6fbb96b191b580bbd37e3172",
+      "original_signature": "undefined8 thunk_FUN_140002e40(void)",
+      "original_symbol": "thunk_FUN_140002e40"
+    },
+    {
+      "original": "NAMED_L149630",
+      "rust": "recovered::adapters15::named_l149630",
+      "category": "adapters15",
+      "source_line": 149630,
+      "source_lines": 6,
+      "source_sha256": "a0ba651961722e64d491b08d75d298be614f8b7d562d1eb0938abaf987468d8c",
+      "original_signature": "void DelayLoad_GdipFree(void)",
+      "original_symbol": "DelayLoad_GdipFree"
+    },
+    {
+      "original": "NAMED_L149639",
+      "rust": "recovered::adapters15::named_l149639",
+      "category": "adapters15",
+      "source_line": 149639,
+      "source_lines": 6,
+      "source_sha256": "0d976a014b4607507e9590fac80a658cb2e08fc5536f1a009471b964bf34c536",
+      "original_signature": "void DelayLoad_GdipAlloc(void)",
+      "original_symbol": "DelayLoad_GdipAlloc"
+    },
+    {
+      "original": "NAMED_L113134",
+      "rust": "recovered::adapters15::named_l113134",
+      "category": "adapters15",
+      "source_line": 113134,
+      "source_lines": 6,
+      "source_sha256": "f268084a7212c46ac2566dee9361336fce61b183e97c738c4981a430e552a08d",
+      "original_signature": "void thunk_FUN_14007d200(void)",
+      "original_symbol": "thunk_FUN_14007d200"
+    },
+    {
+      "original": "NAMED_L149648",
+      "rust": "recovered::adapters15::named_l149648",
+      "category": "adapters15",
+      "source_line": 149648,
+      "source_lines": 6,
+      "source_sha256": "73be54c47021ddb2ddd351772652255890274737a21cb528de430c122758d888",
+      "original_signature": "void DelayLoad_GdipCloneImage(void)",
+      "original_symbol": "DelayLoad_GdipCloneImage"
+    },
+    {
+      "original": "NAMED_L149837",
+      "rust": "recovered::adapters15::named_l149837",
+      "category": "adapters15",
+      "source_line": 149837,
+      "source_lines": 6,
+      "source_sha256": "ba548e094a518c4f6b5895831ee35b89e951066bcc976fc4549a9ac65807b4f4",
+      "original_signature": "void DelayLoad_GdipDrawImageI(void)",
+      "original_symbol": "DelayLoad_GdipDrawImageI"
+    },
+    {
+      "original": "NAMED_L149945",
+      "rust": "recovered::adapters15::named_l149945",
+      "category": "adapters15",
+      "source_line": 149945,
+      "source_lines": 6,
+      "source_sha256": "98f11094ce5677f4dc9ece391caa1519f99e48ce5283daa9606e1a22929e771c",
+      "original_signature": "void DelayLoad_GdipDeletePath(void)",
+      "original_symbol": "DelayLoad_GdipDeletePath"
+    },
+    {
+      "original": "NAMED_L155547",
+      "rust": "recovered::adapters15::named_l155547",
+      "category": "adapters15",
+      "source_line": 155547,
+      "source_lines": 5,
+      "source_sha256": "2a68f772aef889ab6176bbea180fd146e5345ae464051b14fce96770b880d4c3",
+      "original_signature": "bool __scrt_is_ucrt_dll_in_use(void)",
+      "original_symbol": "__scrt_is_ucrt_dll_in_use"
+    },
+    {
+      "original": "NAMED_L149918",
+      "rust": "recovered::adapters15::named_l149918",
+      "category": "adapters15",
+      "source_line": 149918,
+      "source_lines": 6,
+      "source_sha256": "01d32ee17b034521d4bfa00851d65d577b4899195e7484e39040a373995def5a",
+      "original_signature": "void DelayLoad_GdipScaleMatrix(void)",
+      "original_symbol": "DelayLoad_GdipScaleMatrix"
+    },
+    {
+      "original": "NAMED_L154672",
+      "rust": "recovered::adapters15::named_l154672",
+      "category": "adapters15",
+      "source_line": 154672,
+      "source_lines": 7,
+      "source_sha256": "30ba1f8a1c86d264a6c1c52f209ba255739404565c7efb0529a6a72658095d58",
+      "original_signature": "void entry(void)",
+      "original_symbol": "entry"
+    },
+    {
+      "original": "NAMED_L149657",
+      "rust": "recovered::adapters15::named_l149657",
+      "category": "adapters15",
+      "source_line": 149657,
+      "source_lines": 6,
+      "source_sha256": "ade139c045f92d8e764b96eb4d100e811d8cd207c4b917a42d4ac492bfaf46b6",
+      "original_signature": "void DelayLoad_GdipDisposeImage(void)",
+      "original_symbol": "DelayLoad_GdipDisposeImage"
+    },
+    {
+      "original": "NAMED_L149882",
+      "rust": "recovered::adapters15::named_l149882",
+      "category": "adapters15",
+      "source_line": 149882,
+      "source_lines": 6,
+      "source_sha256": "953480bc90f9802bc147b9f25d0a1435ebc412afec8b0b37868890d10a50b56b",
+      "original_signature": "void DelayLoad_GdipDeleteMatrix(void)",
+      "original_symbol": "DelayLoad_GdipDeleteMatrix"
+    },
+    {
+      "original": "NAMED_L149891",
+      "rust": "recovered::adapters15::named_l149891",
+      "category": "adapters15",
+      "source_line": 149891,
+      "source_lines": 6,
+      "source_sha256": "72bf06ddebc5b076b2dca66d1dcb5ef472818407ee7b6d87246eadbc32a87458",
+      "original_signature": "void DelayLoad_GdipCreateMatrix(void)",
+      "original_symbol": "DelayLoad_GdipCreateMatrix"
+    },
+    {
+      "original": "NAMED_L149936",
+      "rust": "recovered::adapters15::named_l149936",
+      "category": "adapters15",
+      "source_line": 149936,
+      "source_lines": 6,
+      "source_sha256": "a5f5c11e5fe6f0e8c1e494caddb7bef121e16979c7e07788920ac130688b2618",
+      "original_signature": "void DelayLoad_GdipDeleteRegion(void)",
+      "original_symbol": "DelayLoad_GdipDeleteRegion"
+    },
+    {
+      "original": "NAMED_L149684",
+      "rust": "recovered::adapters15::named_l149684",
+      "category": "adapters15",
+      "source_line": 149684,
+      "source_lines": 6,
+      "source_sha256": "f7499323537fb84884d6f0c9c00b4273c663246e9a263ea342d91477bf1f2654",
+      "original_signature": "void DelayLoad_GdipGetImageWidth(void)",
+      "original_symbol": "DelayLoad_GdipGetImageWidth"
+    },
+    {
+      "original": "NAMED_L149846",
+      "rust": "recovered::adapters15::named_l149846",
+      "category": "adapters15",
+      "source_line": 149846,
+      "source_lines": 6,
+      "source_sha256": "a169159680ddf25bae81ccd99aa85b8547e8df046c8ae3cdad177898d8a16c8c",
+      "original_signature": "void DelayLoad_GdipSetClipRegion(void)",
+      "original_symbol": "DelayLoad_GdipSetClipRegion"
+    },
+    {
+      "original": "NAMED_L149855",
+      "rust": "recovered::adapters15::named_l149855",
+      "category": "adapters15",
+      "source_line": 149855,
+      "source_lines": 6,
+      "source_sha256": "645a2b0de086795d2753729ab20fb0782da110e1f19ee705a67a89893304f2f1",
+      "original_signature": "void DelayLoad_GdipGraphicsClear(void)",
+      "original_symbol": "DelayLoad_GdipGraphicsClear"
+    },
+    {
+      "original": "NAMED_L149873",
+      "rust": "recovered::adapters15::named_l149873",
+      "category": "adapters15",
+      "source_line": 149873,
+      "source_lines": 6,
+      "source_sha256": "a6d91efa44f7988c336853c5fe0c43ecb86a88aadaf10b9b644080bcdfb186c3",
+      "original_signature": "void DelayLoad_GdipCreateMatrix2(void)",
+      "original_symbol": "DelayLoad_GdipCreateMatrix2"
+    },
+    {
+      "original": "NAMED_L149999",
+      "rust": "recovered::adapters15::named_l149999",
+      "category": "adapters15",
+      "source_line": 149999,
+      "source_lines": 6,
+      "source_sha256": "2418bd1b288ce5f24bfd73174f078f82032ab6e9abb56ad0a2dbc7e642fb7d17",
+      "original_signature": "void DelayLoad_GdipCreateFromHDC(void)",
+      "original_symbol": "DelayLoad_GdipCreateFromHDC"
+    },
+    {
+      "original": "NAMED_L149675",
+      "rust": "recovered::adapters15::named_l149675",
+      "category": "adapters15",
+      "source_line": 149675,
+      "source_lines": 6,
+      "source_sha256": "e455282286b50fe0e8f44015735ea87b164cb6824965ebcefbf76b452f80a6ea",
+      "original_signature": "void DelayLoad_GdipGetImageHeight(void)",
+      "original_symbol": "DelayLoad_GdipGetImageHeight"
+    },
+    {
+      "original": "NAMED_L149693",
+      "rust": "recovered::adapters15::named_l149693",
+      "category": "adapters15",
+      "source_line": 149693,
+      "source_lines": 6,
+      "source_sha256": "21f698c9abd83c37bb149c11428deca151dd34e0a6fcb0b9773472c65a9756ae",
+      "original_signature": "void DelayLoad_GdipBitmapLockBits(void)",
+      "original_symbol": "DelayLoad_GdipBitmapLockBits"
+    },
+    {
+      "original": "NAMED_L149774",
+      "rust": "recovered::adapters15::named_l149774",
+      "category": "adapters15",
+      "source_line": 149774,
+      "source_lines": 6,
+      "source_sha256": "d2c0fe0b916229adf64d35a2a84bbd74fbdf5a173b68a73ff004bef3421cf6b2",
+      "original_signature": "void DelayLoad_GdipDeleteGraphics(void)",
+      "original_symbol": "DelayLoad_GdipDeleteGraphics"
+    },
+    {
+      "original": "NAMED_L149819",
+      "rust": "recovered::adapters15::named_l149819",
+      "category": "adapters15",
+      "source_line": 149819,
+      "source_lines": 6,
+      "source_sha256": "c584f6e409577df39de93b14c1ceaa220eeabd6129522505635d99167d47af40",
+      "original_signature": "void DelayLoad_GdipDrawImageRectI(void)",
+      "original_symbol": "DelayLoad_GdipDrawImageRectI"
+    },
+    {
+      "original": "NAMED_L149864",
+      "rust": "recovered::adapters15::named_l149864",
+      "category": "adapters15",
+      "source_line": 149864,
+      "source_lines": 6,
+      "source_sha256": "699b490c6e35110271582642292b06790c0b718597646bf94f0ff612394d532e",
+      "original_signature": "void DelayLoad_GdipBitmapGetPixel(void)",
+      "original_symbol": "DelayLoad_GdipBitmapGetPixel"
+    },
+    {
+      "original": "NAMED_L149909",
+      "rust": "recovered::adapters15::named_l149909",
+      "category": "adapters15",
+      "source_line": 149909,
+      "source_lines": 6,
+      "source_sha256": "86b9a099414cfe04d817aa5daa55d66f562f7754718079b19cc8d8b924acaadb",
+      "original_signature": "void DelayLoad_GdipMultiplyMatrix(void)",
+      "original_symbol": "DelayLoad_GdipMultiplyMatrix"
+    },
+    {
+      "original": "NAMED_L149900",
+      "rust": "recovered::adapters15::named_l149900",
+      "category": "adapters15",
+      "source_line": 149900,
+      "source_lines": 6,
+      "source_sha256": "51dc83cc06024a256d9661bade8d1404500b9abc8ccb30a6e121e939605cf82c",
+      "original_signature": "void DelayLoad_GdipTranslateMatrix(void)",
+      "original_symbol": "DelayLoad_GdipTranslateMatrix"
+    },
+    {
+      "original": "NAMED_L149972",
+      "rust": "recovered::adapters15::named_l149972",
+      "category": "adapters15",
+      "source_line": 149972,
+      "source_lines": 6,
+      "source_sha256": "148efdef880bfbfa17be1b9007e15ee915db336e32b76ae18f90f42316ce64b9",
+      "original_signature": "void DelayLoad_GdipSetPropertyItem(void)",
+      "original_symbol": "DelayLoad_GdipSetPropertyItem"
+    },
+    {
+      "original": "NAMED_L149981",
+      "rust": "recovered::adapters15::named_l149981",
+      "category": "adapters15",
+      "source_line": 149981,
+      "source_lines": 6,
+      "source_sha256": "702766968146ddaaf88342a5b1225a66b1b86efe1aa8a06b9db51be342e54da0",
+      "original_signature": "void DelayLoad_GdipSaveImageToFile(void)",
+      "original_symbol": "DelayLoad_GdipSaveImageToFile"
+    },
+    {
+      "original": "NAMED_L149666",
+      "rust": "recovered::adapters15::named_l149666",
+      "category": "adapters15",
+      "source_line": 149666,
+      "source_lines": 6,
+      "source_sha256": "f090702160782707e016e8314304a4c7d7c526fd9a9c6d9e2b142b79eb8ca862",
+      "original_signature": "void DelayLoad_GdipBitmapUnlockBits(void)",
+      "original_symbol": "DelayLoad_GdipBitmapUnlockBits"
+    },
+    {
+      "original": "NAMED_L149927",
+      "rust": "recovered::adapters15::named_l149927",
+      "category": "adapters15",
+      "source_line": 149927,
+      "source_lines": 6,
+      "source_sha256": "c2543d2c5d69da31958f56e404870dcbd505c349d4d50b667507fb113932af66",
+      "original_signature": "void DelayLoad_GdipTranslateRegionI(void)",
+      "original_symbol": "DelayLoad_GdipTranslateRegionI"
+    },
+    {
+      "original": "NAMED_L149720",
+      "rust": "recovered::adapters15::named_l149720",
+      "category": "adapters15",
+      "source_line": 149720,
+      "source_lines": 6,
+      "source_sha256": "0ed5cd356abb205340664497916213ae896b952ca724826d8f97619a2ec675da",
+      "original_signature": "void DelayLoad_GdipGetImageRawFormat(void)",
+      "original_symbol": "DelayLoad_GdipGetImageRawFormat"
+    },
+    {
+      "original": "NAMED_L149828",
+      "rust": "recovered::adapters15::named_l149828",
+      "category": "adapters15",
+      "source_line": 149828,
+      "source_lines": 6,
+      "source_sha256": "4d6261941e6287b87a47824cee092d2175efd469b7174b5b0f6ffdb71bee08a4",
+      "original_signature": "void DelayLoad_GdipSetWorldTransform(void)",
+      "original_symbol": "DelayLoad_GdipSetWorldTransform"
+    },
+    {
+      "original": "NAMED_L149990",
+      "rust": "recovered::adapters15::named_l149990",
+      "category": "adapters15",
+      "source_line": 149990,
+      "source_lines": 6,
+      "source_sha256": "0031e47d78ec39cd094fabb35e91162e726724ba3b6e84c688c817849779a007",
+      "original_signature": "void DelayLoad_GdipSaveImageToStream(void)",
+      "original_symbol": "DelayLoad_GdipSaveImageToStream"
+    },
+    {
+      "original": "NAMED_L149783",
+      "rust": "recovered::adapters15::named_l149783",
+      "category": "adapters15",
+      "source_line": 149783,
+      "source_lines": 6,
+      "source_sha256": "c6833e223ac8e556368b62e7b07e1db097fcd5e7858f36a0835ca58878dfe0c8",
+      "original_signature": "void DelayLoad_GdipSetCompositingMode(void)",
+      "original_symbol": "DelayLoad_GdipSetCompositingMode"
+    },
+    {
+      "original": "NAMED_L149792",
+      "rust": "recovered::adapters15::named_l149792",
+      "category": "adapters15",
+      "source_line": 149792,
+      "source_lines": 6,
+      "source_sha256": "0bec8a645360df97975a0e09b2c968d25122b24e0a97b11f013a027266f71e1b",
+      "original_signature": "void DelayLoad_GdipSetPixelOffsetMode(void)",
+      "original_symbol": "DelayLoad_GdipSetPixelOffsetMode"
+    },
+    {
+      "original": "NAMED_L149810",
+      "rust": "recovered::adapters15::named_l149810",
+      "category": "adapters15",
+      "source_line": 149810,
+      "source_lines": 6,
+      "source_sha256": "4b0eb67d3e5785b2be16305bdc82888e1fe53aac1151a41b4296ab136a29c6fe",
+      "original_signature": "void DelayLoad_GdipDrawImageRectRectI(void)",
+      "original_symbol": "DelayLoad_GdipDrawImageRectRectI"
+    },
+    {
+      "original": "NAMED_L149702",
+      "rust": "recovered::adapters15::named_l149702",
+      "category": "adapters15",
+      "source_line": 149702,
+      "source_lines": 6,
+      "source_sha256": "ad9f70d718be164969c5eacae65bf0fbb402bf4dc24148859300e6334425b902",
+      "original_signature": "void DelayLoad_GdipGetImagePixelFormat(void)",
+      "original_symbol": "DelayLoad_GdipGetImagePixelFormat"
+    },
+    {
+      "original": "NAMED_L149963",
+      "rust": "recovered::adapters15::named_l149963",
+      "category": "adapters15",
+      "source_line": 149963,
+      "source_lines": 6,
+      "source_sha256": "3714b4b7d582cd85a680cd1ae43d62005b58cc288fa6692186227dc8f32df2e8",
+      "original_signature": "void DelayLoad_GdipBitmapSetResolution(void)",
+      "original_symbol": "DelayLoad_GdipBitmapSetResolution"
+    },
+    {
+      "original": "NAMED_L150008",
+      "rust": "recovered::adapters15::named_l150008",
+      "category": "adapters15",
+      "source_line": 150008,
+      "source_lines": 6,
+      "source_sha256": "3a3d0f1e0cd60b5e7dba0cf873c4810a7bfdede9ac5218acade7aa3e86b8b17a",
+      "original_signature": "void DelayLoad_GdipScaleWorldTransform(void)",
+      "original_symbol": "DelayLoad_GdipScaleWorldTransform"
+    },
+    {
+      "original": "NAMED_L149801",
+      "rust": "recovered::adapters15::named_l149801",
+      "category": "adapters15",
+      "source_line": 149801,
+      "source_lines": 6,
+      "source_sha256": "bba8296a72b66aa132dbcd222df6351e8bec5b2aaeb23c0f1fd9da5dc24441d0",
+      "original_signature": "void DelayLoad_GdipSetInterpolationMode(void)",
+      "original_symbol": "DelayLoad_GdipSetInterpolationMode"
+    },
+    {
+      "original": "NAMED_L149747",
+      "rust": "recovered::adapters15::named_l149747",
+      "category": "adapters15",
+      "source_line": 149747,
+      "source_lines": 6,
+      "source_sha256": "a689161aa11197241eab2b06625cd0280fc1fa157af0e46ce18d198484684356",
+      "original_signature": "void DelayLoad_GdipTransformMatrixPoints(void)",
+      "original_symbol": "DelayLoad_GdipTransformMatrixPoints"
+    },
+    {
+      "original": "NAMED_L149756",
+      "rust": "recovered::adapters15::named_l149756",
+      "category": "adapters15",
+      "source_line": 149756,
+      "source_lines": 6,
+      "source_sha256": "677fc3f8e5e40961735ff88c782bfde676fb4e8d2d52a1a9a505229308ea8af1",
+      "original_signature": "void DelayLoad_GdipCreateBitmapFromScan0(void)",
+      "original_symbol": "DelayLoad_GdipCreateBitmapFromScan0"
+    },
+    {
+      "original": "NAMED_L149621",
+      "rust": "recovered::adapters15::named_l149621",
+      "category": "adapters15",
+      "source_line": 149621,
+      "source_lines": 6,
+      "source_sha256": "f0e615357dc9157c24bcecca68c6ceb2b18e8b6afa67fdfca609ae99bc127eb6",
+      "original_signature": "void DelayLoad_GdipCreateBitmapFromStream(void)",
+      "original_symbol": "DelayLoad_GdipCreateBitmapFromStream"
+    },
+    {
+      "original": "NAMED_L149711",
+      "rust": "recovered::adapters15::named_l149711",
+      "category": "adapters15",
+      "source_line": 149711,
+      "source_lines": 6,
+      "source_sha256": "74b0185480fe7112164c87a4250b7248936d05c170d810f58129bb3c481406f6",
+      "original_signature": "void DelayLoad_GdipCreateBitmapFromHBITMAP(void)",
+      "original_symbol": "DelayLoad_GdipCreateBitmapFromHBITMAP"
+    },
+    {
+      "original": "NAMED_L149765",
+      "rust": "recovered::adapters15::named_l149765",
+      "category": "adapters15",
+      "source_line": 149765,
+      "source_lines": 6,
+      "source_sha256": "70163f1b4c1231c550d521fb5529f551549f77f9d902974e5570dc65e142b183",
+      "original_signature": "void DelayLoad_GdipGetImageGraphicsContext(void)",
+      "original_symbol": "DelayLoad_GdipGetImageGraphicsContext"
+    },
+    {
+      "original": "NAMED_L149954",
+      "rust": "recovered::adapters15::named_l149954",
+      "category": "adapters15",
+      "source_line": 149954,
+      "source_lines": 6,
+      "source_sha256": "e3c62eb4190ccb31b131247473d876685d59a41deeb4625a036bd871b9cd77a5",
+      "original_signature": "void DelayLoad_GdipCreateHBITMAPFromBitmap(void)",
+      "original_symbol": "DelayLoad_GdipCreateHBITMAPFromBitmap"
+    },
+    {
+      "original": "NAMED_L149738",
+      "rust": "recovered::adapters15::named_l149738",
+      "category": "adapters15",
+      "source_line": 149738,
+      "source_lines": 6,
+      "source_sha256": "74c7d9678f64ccc9836d237646cb40cb099629346ce106e5a49f7f293004482e",
+      "original_signature": "void DelayLoad_GdipGetImageVerticalResolution(void)",
+      "original_symbol": "DelayLoad_GdipGetImageVerticalResolution"
+    },
+    {
+      "original": "NAMED_L149729",
+      "rust": "recovered::adapters15::named_l149729",
+      "category": "adapters15",
+      "source_line": 149729,
+      "source_lines": 6,
+      "source_sha256": "082d59ab5daf5e8c27bc8a534d999adbec9977b02498912f63a636036ca68b6c",
+      "original_signature": "void DelayLoad_GdipGetImageHorizontalResolution(void)",
+      "original_symbol": "DelayLoad_GdipGetImageHorizontalResolution"
+    },
+    {
+      "original": "NAMED_L12720",
+      "rust": "recovered::adapters15::named_l12720",
+      "category": "adapters15",
+      "source_line": 12720,
+      "source_lines": 9,
+      "source_sha256": "5ace2b1216ed6646a0d77967fae4cf1c91523da7c3282ebc8f0605182736f9aa",
+      "original_signature": "undefined8 thunk_FUN_14000a0c0(undefined8 param_1,undefined8 *param_2)",
+      "original_symbol": "thunk_FUN_14000a0c0"
+    },
+    {
+      "original": "NAMED_L15807",
+      "rust": "recovered::adapters15::named_l15807",
+      "category": "adapters15",
+      "source_line": 15807,
+      "source_lines": 9,
+      "source_sha256": "9f39052e6ac78a895933c6019c4579bf2565a0e4a7fd191d1697a416d7f790b3",
+      "original_signature": "undefined8 thunk_FUN_14000ce50(undefined8 param_1,undefined8 *param_2)",
+      "original_symbol": "thunk_FUN_14000ce50"
+    },
+    {
+      "original": "NAMED_L78667",
+      "rust": "recovered::adapters15::named_l78667",
+      "category": "adapters15",
+      "source_line": 78667,
+      "source_lines": 9,
+      "source_sha256": "7fbf2745bb3bf887b1014a50b5fce9a8f9ad73e2e7466300cd398467b56201fa",
+      "original_signature": "undefined8 thunk_FUN_140059a70(undefined8 param_1,undefined8 *param_2)",
+      "original_symbol": "thunk_FUN_140059a70"
+    },
+    {
+      "original": "NAMED_L79153",
+      "rust": "recovered::adapters15::named_l79153",
+      "category": "adapters15",
+      "source_line": 79153,
+      "source_lines": 9,
+      "source_sha256": "8607f31b6d6a703caf2a4e8501dfe401b11d874478a2588452427ec530a1e24e",
+      "original_signature": "undefined8 thunk_FUN_140059aa0(undefined8 param_1,undefined8 *param_2)",
+      "original_symbol": "thunk_FUN_140059aa0"
+    },
+    {
+      "original": "NAMED_L80287",
+      "rust": "recovered::adapters15::named_l80287",
+      "category": "adapters15",
+      "source_line": 80287,
+      "source_lines": 9,
+      "source_sha256": "8c3d825842dc90b94ec6a02c01d6914fa77e435239404a1c1f6021f6fb75801d",
+      "original_signature": "undefined8 thunk_FUN_14005a270(undefined8 param_1,undefined8 *param_2)",
+      "original_symbol": "thunk_FUN_14005a270"
+    },
+    {
+      "original": "NAMED_L105011",
+      "rust": "recovered::adapters15::named_l105011",
+      "category": "adapters15",
+      "source_line": 105011,
+      "source_lines": 9,
+      "source_sha256": "987a98246161df13fb9b388b8c072e44c39d67a794fec82f3b2da302fb146931",
+      "original_signature": "undefined8 thunk_FUN_14007b4a0(undefined8 param_1,undefined8 *param_2)",
+      "original_symbol": "thunk_FUN_14007b4a0"
+    },
+    {
+      "original": "NAMED_L105366",
+      "rust": "recovered::adapters15::named_l105366",
+      "category": "adapters15",
+      "source_line": 105366,
+      "source_lines": 9,
+      "source_sha256": "4f701a2b4fc8b5593fa66749ce6764d430cc5002b53930779c924eb96e5e242f",
+      "original_signature": "undefined8 thunk_FUN_14007b4d0(undefined8 param_1,undefined8 *param_2)",
+      "original_symbol": "thunk_FUN_14007b4d0"
+    },
+    {
+      "original": "NAMED_L155000",
+      "rust": "recovered::adapters15::named_l155000",
+      "category": "adapters15",
+      "source_line": 155000,
+      "source_lines": 9,
+      "source_sha256": "8380bfa964b9360861f897c254f04cc70ad823539eaa2cbc5354f9be708fa606",
+      "original_signature": "undefined1 __scrt_uninitialize_crt(undefined1 param_1,char param_2)",
+      "original_symbol": "__scrt_uninitialize_crt"
+    },
+    {
+      "original": "NAMED_L10100",
+      "rust": "recovered::adapters15::named_l10100",
+      "category": "adapters15",
+      "source_line": 10100,
+      "source_lines": 9,
+      "source_sha256": "2cd2ce0aecdb87ecdf6a3f5896420a6c6d2ce2e2670abc4f170c22d7c25c556d",
+      "original_signature": "void * __thiscall MRECmpImpl::_scalar_deleting_destructor_(MRECmpImpl *this,uint param_1)",
+      "original_symbol": "MRECmpImpl::_scalar_deleting_destructor_"
+    },
+    {
+      "original": "NAMED_L10117",
+      "rust": "recovered::adapters15::named_l10117",
+      "category": "adapters15",
+      "source_line": 10117,
+      "source_lines": 9,
+      "source_sha256": "506a224a13ea8b95d2e8d1d2c550c972552fff363b8f799fb31a4bed8dda9c33",
+      "original_signature": "void * __thiscall MRECmpImpl::_scalar_deleting_destructor_(MRECmpImpl *this,uint param_1)",
+      "original_symbol": "MRECmpImpl::_scalar_deleting_destructor_"
+    },
+    {
+      "original": "NAMED_L154684",
+      "rust": "recovered::adapters15::named_l154684",
+      "category": "adapters15",
+      "source_line": 154684,
+      "source_lines": 9,
+      "source_sha256": "cf294ca659a1265ac61171487406b1601f757a153055bc08cef09cf96807da2b",
+      "original_signature": "void __cdecl __security_check_cookie(uintptr_t _StackCookie)",
+      "original_symbol": "__security_check_cookie"
+    },
+    {
+      "original": "NAMED_L176390",
+      "rust": "recovered::adapters15::named_l176390",
+      "category": "adapters15",
+      "source_line": 176390,
+      "source_lines": 8,
+      "source_sha256": "d9e2988d493d548c567fdc712e1f8ec93d77df0f508b9e8a5c3c7f12403d6648",
+      "original_signature": "void _dclass(void)",
+      "original_symbol": "_dclass"
+    },
+    {
+      "original": "NAMED_L176401",
+      "rust": "recovered::adapters15::named_l176401",
+      "category": "adapters15",
+      "source_line": 176401,
+      "source_lines": 8,
+      "source_sha256": "a17983eb2a6b0ece5918be5d2770bb1e00ccf76b399a96f4ec99fc9f7d757900",
+      "original_signature": "void _fdclass(void)",
+      "original_symbol": "_fdclass"
+    },
+    {
+      "original": "NAMED_L176412",
+      "rust": "recovered::adapters15::named_l176412",
+      "category": "adapters15",
+      "source_line": 176412,
+      "source_lines": 8,
+      "source_sha256": "66e2d13d5ff1bda5d4521c762ccfadd4dedda96f366713ebb4299d99085f070f",
+      "original_signature": "void _ldclass(void)",
+      "original_symbol": "_ldclass"
+    },
+    {
+      "original": "NAMED_L157286",
+      "rust": "recovered::adapters15::named_l157286",
+      "category": "adapters15",
+      "source_line": 157286,
+      "source_lines": 8,
+      "source_sha256": "590f7b47403342cda8ff5312fea40e2ecd3af8852cab92f1d11246f7927a8df1",
+      "original_signature": "void _purecall(void)",
+      "original_symbol": "_purecall"
+    },
+    {
+      "original": "NAMED_L157460",
+      "rust": "recovered::adapters15::named_l157460",
+      "category": "adapters15",
+      "source_line": 157460,
+      "source_lines": 8,
+      "source_sha256": "39e6178ffdf08df2c3fab657e9539c926e180c737540fdc1ffa1f0e6c8b01ed8",
+      "original_signature": "void _initterm(void)",
+      "original_symbol": "_initterm"
+    },
+    {
+      "original": "NAMED_L157519",
+      "rust": "recovered::adapters15::named_l157519",
+      "category": "adapters15",
+      "source_line": 157519,
+      "source_lines": 8,
+      "source_sha256": "810f050881be5eaa8a45cb5987d0619200b492549383c9ae6ebecdefcd0b5538",
+      "original_signature": "void __cdecl _cexit(void)",
+      "original_symbol": "_cexit"
+    },
+    {
+      "original": "NAMED_L157471",
+      "rust": "recovered::adapters15::named_l157471",
+      "category": "adapters15",
+      "source_line": 157471,
+      "source_lines": 8,
+      "source_sha256": "bbef9bf6b3b208fa5fa97a6465b2d3761c85c4e61511f8725cec900f1ad8647a",
+      "original_signature": "void _initterm_e(void)",
+      "original_symbol": "_initterm_e"
+    },
+    {
+      "original": "NAMED_L157598",
+      "rust": "recovered::adapters15::named_l157598",
+      "category": "adapters15",
+      "source_line": 157598,
+      "source_lines": 8,
+      "source_sha256": "34d0897427357fd6f1ffcf752a62e84299747d227382f30417fad6ee5c22bdab",
+      "original_signature": "void _crt_atexit(void)",
+      "original_symbol": "_crt_atexit"
+    },
+    {
+      "original": "NAMED_L157565",
+      "rust": "recovered::adapters15::named_l157565",
+      "category": "adapters15",
+      "source_line": 157565,
+      "source_lines": 8,
+      "source_sha256": "2191fb421dc9c97e1207728d262b57677950c97d5d064cbedb16effda97fabbc",
+      "original_signature": "void __p__commode(void)",
+      "original_symbol": "__p__commode"
+    },
+    {
+      "original": "NAMED_L154979",
+      "rust": "recovered::adapters15::named_l154979",
+      "category": "adapters15",
+      "source_line": 154979,
+      "source_lines": 13,
+      "source_sha256": "000a4b2c0e9191da20d9a477240b75d091ac0bc5881468dfd9bd5066d763e22e",
+      "original_signature": "void __scrt_release_startup_lock(char param_1)",
+      "original_symbol": "__scrt_release_startup_lock"
+    },
+    {
+      "original": "NAMED_L157405",
+      "rust": "recovered::adapters15::named_l157405",
+      "category": "adapters15",
+      "source_line": 157405,
+      "source_lines": 8,
+      "source_sha256": "4cfa7bbe5719c3262a972b1f08c671f3487e1a1e8dba91f7a4c8cd3e944fda3f",
+      "original_signature": "void _set_app_type(void)",
+      "original_symbol": "_set_app_type"
+    },
+    {
+      "original": "NAMED_L157554",
+      "rust": "recovered::adapters15::named_l157554",
+      "category": "adapters15",
+      "source_line": 157554,
+      "source_lines": 8,
+      "source_sha256": "19251ec53e3d035124a45a41d2b1a0f3f041eee552ea606b7edd30a444a735df",
+      "original_signature": "void _set_new_mode(void)",
+      "original_symbol": "_set_new_mode"
+    },
+    {
+      "original": "NAMED_L123961",
+      "rust": "recovered::adapters15::named_l123961",
+      "category": "adapters15",
+      "source_line": 123961,
+      "source_lines": 8,
+      "source_sha256": "1c7a957af29d7ccee6bd476a96fae9ec059429c06980d21bd4afc8b45e7ae201",
+      "original_signature": "void __stdcall DebugBreak(void)",
+      "original_symbol": "DebugBreak"
+    },
+    {
+      "original": "NAMED_L157394",
+      "rust": "recovered::adapters15::named_l157394",
+      "category": "adapters15",
+      "source_line": 157394,
+      "source_lines": 8,
+      "source_sha256": "eb05a641e41bb3fd2a283f2bd5bd45d4de312570da75952a169c9e4d9a45b24c",
+      "original_signature": "void _seh_filter_exe(void)",
+      "original_symbol": "_seh_filter_exe"
+    },
+    {
+      "original": "NAMED_L176379",
+      "rust": "recovered::adapters15::named_l176379",
+      "category": "adapters15",
+      "source_line": 176379,
+      "source_lines": 8,
+      "source_sha256": "9f8a96ec10ab89d1c47130f8c003414578ab596c33623642f271fcc3b4edb7cb",
+      "original_signature": "void __RTDynamicCast(void)",
+      "original_symbol": "__RTDynamicCast"
+    },
+    {
+      "original": "NAMED_L157371",
+      "rust": "recovered::adapters15::named_l157371",
+      "category": "adapters15",
+      "source_line": 157371,
+      "source_lines": 8,
+      "source_sha256": "2387da03fa33de8b3b02bf39d6aeb63831a934d8c51424d08b3293946abe122f",
+      "original_signature": "void __cdecl free(void *_Memory)",
+      "original_symbol": "free"
+    },
+    {
+      "original": "NAMED_L157416",
+      "rust": "recovered::adapters15::named_l157416",
+      "category": "adapters15",
+      "source_line": 157416,
+      "source_lines": 8,
+      "source_sha256": "9d06e4d0b10c0bf37f0acc39c265f5691db2fff03c2fc9f00d34ec77fd1cec2f",
+      "original_signature": "void __setusermatherr(void)",
+      "original_symbol": "__setusermatherr"
+    },
+    {
+      "original": "NAMED_L157734",
+      "rust": "recovered::adapters15::named_l157734",
+      "category": "adapters15",
+      "source_line": 157734,
+      "source_lines": 8,
+      "source_sha256": "b2031b8f61e4bf7795c029b85988eac0aa16e82777ac5718bc4a4eee5581f6d7",
+      "original_signature": "void RoTransformError(void)",
+      "original_symbol": "RoTransformError"
+    },
+    {
+      "original": "NAMED_L157275",
+      "rust": "recovered::adapters15::named_l157275",
+      "category": "adapters15",
+      "source_line": 157275,
+      "source_lines": 8,
+      "source_sha256": "3affd9292a2abae13a0b04c35373ae549856dce364d2fd6b4e2b981076d2e456",
+      "original_signature": "void __CxxFrameHandler4(void)",
+      "original_symbol": "__CxxFrameHandler4"
+    },
+    {
+      "original": "NAMED_L157310",
+      "rust": "recovered::adapters15::named_l157310",
+      "category": "adapters15",
+      "source_line": 157310,
+      "source_lines": 8,
+      "source_sha256": "6255e0967643417a0f6925a80963e444b5b65b7de251d54959702b69ae78a849",
+      "original_signature": "void __current_exception(void)",
+      "original_symbol": "__current_exception"
+    },
+    {
+      "original": "NAMED_L157745",
+      "rust": "recovered::adapters15::named_l157745",
+      "category": "adapters15",
+      "source_line": 157745,
+      "source_lines": 8,
+      "source_sha256": "fda9c2ac92ea9c1cdca11eb7c2b66f6a9f5dfdb0c014de164f10d646cb99c69f",
+      "original_signature": "void RoGetAgileReference(void)",
+      "original_symbol": "RoGetAgileReference"
+    },
+    {
+      "original": "NAMED_L157427",
+      "rust": "recovered::adapters15::named_l157427",
+      "category": "adapters15",
+      "source_line": 157427,
+      "source_lines": 8,
+      "source_sha256": "091f318c9fdc52b91849d1f846c69da72d583466cdaf8968b199b0f290d7bf4b",
+      "original_signature": "void _configure_wide_argv(void)",
+      "original_symbol": "_configure_wide_argv"
+    },
+    {
+      "original": "NAMED_L151907",
+      "rust": "recovered::adapters15::named_l151907",
+      "category": "adapters15",
+      "source_line": 151907,
+      "source_lines": 8,
+      "source_sha256": "7724a395e6627a99190a73950958fa90efba99ba687b1350e16166c34b8da2a3",
+      "original_signature": "void __thiscall CDialog::OnOK(CDialog *this)",
+      "original_symbol": "CDialog::OnOK"
+    },
+    {
+      "original": "NAMED_L150054",
+      "rust": "recovered::adapters15::named_l150054",
+      "category": "adapters15",
+      "source_line": 150054,
+      "source_lines": 8,
+      "source_sha256": "96cf6baab69582c9e48e3daadf35ad4aa9968126e231a773bd2100cc37d9328f",
+      "original_signature": "void __stdcall CoTaskMemFree(LPVOID pv)",
+      "original_symbol": "CoTaskMemFree"
+    },
+    {
+      "original": "NAMED_L150043",
+      "rust": "recovered::adapters15::named_l150043",
+      "category": "adapters15",
+      "source_line": 150043,
+      "source_lines": 8,
+      "source_sha256": "db50f8a290a948a3ecbc12f438f7384c6b90ca28228d729f5053ad5c4a838b92",
+      "original_signature": "void RoGetActivationFactory(void)",
+      "original_symbol": "RoGetActivationFactory"
+    },
+    {
+      "original": "NAMED_L157576",
+      "rust": "recovered::adapters15::named_l157576",
+      "category": "adapters15",
+      "source_line": 157576,
+      "source_lines": 8,
+      "source_sha256": "68b4b079dbbc4075c4df288f8afc930cc02e55494be3731e0746085ff43fcc3a",
+      "original_signature": "void _initialize_onexit_table(void)",
+      "original_symbol": "_initialize_onexit_table"
+    },
+    {
+      "original": "NAMED_L157587",
+      "rust": "recovered::adapters15::named_l157587",
+      "category": "adapters15",
+      "source_line": 157587,
+      "source_lines": 8,
+      "source_sha256": "d9b4f74c688e9a1701f5e213071b689aef55301d9bf03303bbbf9ce86168c8c2",
+      "original_signature": "void _register_onexit_function(void)",
+      "original_symbol": "_register_onexit_function"
+    },
+    {
+      "original": "NAMED_L152095",
+      "rust": "recovered::adapters15::named_l152095",
+      "category": "adapters15",
+      "source_line": 152095,
+      "source_lines": 8,
+      "source_sha256": "bdd8fc138373f9943197c66743d4b6566594efb93d24fba5e031f053ddd4e778",
+      "original_signature": "void __thiscall CView::OnDragLeave(CView *this)",
+      "original_symbol": "CView::OnDragLeave"
+    },
+    {
+      "original": "NAMED_L153731",
+      "rust": "recovered::adapters15::named_l153731",
+      "category": "adapters15",
+      "source_line": 153731,
+      "source_lines": 8,
+      "source_sha256": "9d5694fe84973c81be1e1969ed3804e064ee333496f6da4621a520c5e4a077e8",
+      "original_signature": "void __thiscall CWinThread::Delete(CWinThread *this)",
+      "original_symbol": "CWinThread::Delete"
+    },
+    {
+      "original": "NAMED_L153824",
+      "rust": "recovered::adapters15::named_l153824",
+      "category": "adapters15",
+      "source_line": 153824,
+      "source_lines": 8,
+      "source_sha256": "65c36c72c0a8b176aea8371586ee3bcdd7cad16fdf2a98f924eb98b56b9704e6",
+      "original_signature": "void __thiscall CWinApp::InitLibId(CWinApp *this)",
+      "original_symbol": "CWinApp::InitLibId"
+    },
+    {
+      "original": "NAMED_L157822",
+      "rust": "recovered::adapters15::named_l157822",
+      "category": "adapters15",
+      "source_line": 157822,
+      "source_lines": 8,
+      "source_sha256": "4b6cbeca894d23528d87c1d89d10caab083451f40481f78e66b5aff8d44d9071",
+      "original_signature": "void RoFailFastWithErrorContext(void)",
+      "original_symbol": "RoFailFastWithErrorContext"
+    },
+    {
+      "original": "NAMED_L151635",
+      "rust": "recovered::adapters15::named_l151635",
+      "category": "adapters15",
+      "source_line": 151635,
+      "source_lines": 8,
+      "source_sha256": "05b98a0c5a8c31b33f77384d5009820a00f659c7577b5b67c19c16084a61144f",
+      "original_signature": "void __thiscall CWnd::PostNcDestroy(CWnd *this)",
+      "original_symbol": "CWnd::PostNcDestroy"
+    },
+    {
+      "original": "NAMED_L152215",
+      "rust": "recovered::adapters15::named_l152215",
+      "category": "adapters15",
+      "source_line": 152215,
+      "source_lines": 8,
+      "source_sha256": "c205d9e694b415280a0c673d437a63b6f24aeb1a8a91ccb403c6c4a9d347d8ca",
+      "original_signature": "void __thiscall CCommonDialog::OnOK(CCommonDialog *this)",
+      "original_symbol": "CCommonDialog::OnOK"
+    },
+    {
+      "original": "NAMED_L152402",
+      "rust": "recovered::adapters15::named_l152402",
+      "category": "adapters15",
+      "source_line": 152402,
+      "source_lines": 8,
+      "source_sha256": "88c8b94e9f18c957f5fa7ac384c571dede1fd0aff21b4741e8de82e79cab2495",
+      "original_signature": "void __thiscall CPreviewView::CalcScaleRatio(void)",
+      "original_symbol": "CPreviewView::CalcScaleRatio"
+    },
+    {
+      "original": "NAMED_L22688",
+      "rust": "recovered::adapters15::named_l22688",
+      "category": "adapters15",
+      "source_line": 22688,
+      "source_lines": 11,
+      "source_sha256": "f8e800f19504648119994074373581b4e43ac752c9ed5ce3cbe0a25795a3a9b7",
+      "original_signature": "void ~_Sentry_base(longlong *param_1)",
+      "original_symbol": "~_Sentry_base"
+    },
+    {
+      "original": "NAMED_L150580",
+      "rust": "recovered::adapters15::named_l150580",
+      "category": "adapters15",
+      "source_line": 150580,
+      "source_lines": 8,
+      "source_sha256": "027c101b785fd083a18521ca7c8a584372bacb207a1a287104872a0bbdb17324",
+      "original_signature": "void __cdecl operator_delete(void *param_1)",
+      "original_symbol": "operator_delete"
+    },
+    {
+      "original": "NAMED_L157321",
+      "rust": "recovered::adapters15::named_l157321",
+      "category": "adapters15",
+      "source_line": 157321,
+      "source_lines": 8,
+      "source_sha256": "6fa604a7e9713020c67807d44e9401801685b3e5289b3201a2960ede61868c29",
+      "original_signature": "void __current_exception_context(void)",
+      "original_symbol": "__current_exception_context"
+    },
+    {
+      "original": "NAMED_L150809",
+      "rust": "recovered::adapters15::named_l150809",
+      "category": "adapters15",
+      "source_line": 150809,
+      "source_lines": 8,
+      "source_sha256": "62b0a28e807f5632855f5cdb6e929d7a84efeb41b324464e8724be3d98451d99",
+      "original_signature": "void __thiscall CWnd::OnFinalRelease(CWnd *this)",
+      "original_symbol": "CWnd::OnFinalRelease"
+    },
+    {
+      "original": "NAMED_L151980",
+      "rust": "recovered::adapters15::named_l151980",
+      "category": "adapters15",
+      "source_line": 151980,
+      "source_lines": 8,
+      "source_sha256": "a3c64b3ad1991ce411bece3c4dd8749aa57134bc23bf21a44afe4de259238d9c",
+      "original_signature": "void __thiscall CView::PostNcDestroy(CView *this)",
+      "original_symbol": "CView::PostNcDestroy"
+    },
+    {
+      "original": "NAMED_L152763",
+      "rust": "recovered::adapters15::named_l152763",
+      "category": "adapters15",
+      "source_line": 152763,
+      "source_lines": 8,
+      "source_sha256": "1996e8e5859db473148b0d553e624d9b3ca2980142196f7db670cee123cb9be6",
+      "original_signature": "void __thiscall COleDocument::OnIdle(COleDocument *this)",
+      "original_symbol": "COleDocument::OnIdle"
+    },
+    {
+      "original": "NAMED_L154284",
+      "rust": "recovered::adapters15::named_l154284",
+      "category": "adapters15",
+      "source_line": 154284,
+      "source_lines": 8,
+      "source_sha256": "b9bd3df56a5c4726d245d1ecfb8ee9cda1f62d829834e70ff2e52f26d3efdbac",
+      "original_signature": "void __thiscall CDocTemplate::OnIdle(CDocTemplate *this)",
+      "original_symbol": "CDocTemplate::OnIdle"
+    },
+    {
+      "original": "NAMED_L157212",
+      "rust": "recovered::adapters15::named_l157212",
+      "category": "adapters15",
+      "source_line": 157212,
+      "source_lines": 8,
+      "source_sha256": "dba67b749f64667caf08790d93cf6978d46699af682497b9843f5ef0b034770d",
+      "original_signature": "void __thiscall std::locale::facet::_Incref(facet *this)",
+      "original_symbol": "std::locale::facet::_Incref"
+    },
+    {
+      "original": "NAMED_L157438",
+      "rust": "recovered::adapters15::named_l157438",
+      "category": "adapters15",
+      "source_line": 157438,
+      "source_lines": 8,
+      "source_sha256": "23eb996e35d50409483bf1285ad4dc5eca61a82cff656e9915a915ea973ff07c",
+      "original_signature": "void _initialize_wide_environment(void)",
+      "original_symbol": "_initialize_wide_environment"
+    },
+    {
+      "original": "NAMED_L157683",
+      "rust": "recovered::adapters15::named_l157683",
+      "category": "adapters15",
+      "source_line": 157683,
+      "source_lines": 8,
+      "source_sha256": "e66854bf7119ab938f85df1b4eb55b925eea80f57665ac6e8919435a1013e1a3",
+      "original_signature": "void RoOriginateLanguageException(void)",
+      "original_symbol": "RoOriginateLanguageException"
+    },
+    {
+      "original": "NAMED_L150065",
+      "rust": "recovered::adapters15::named_l150065",
+      "category": "adapters15",
+      "source_line": 150065,
+      "source_lines": 8,
+      "source_sha256": "1790ccd3da915d9782b0adb556faed0ac25871ab09281ca12bb9018d7f50eb8a",
+      "original_signature": "void __stdcall SysFreeString(BSTR bstrString)",
+      "original_symbol": "SysFreeString"
+    },
+    {
+      "original": "NAMED_L151918",
+      "rust": "recovered::adapters15::named_l151918",
+      "category": "adapters15",
+      "source_line": 151918,
+      "source_lines": 8,
+      "source_sha256": "b8941384066d8d41fcf83f912dd2d7bd8f7e0d7b0c1a58d5d0657cfd8dd1b786",
+      "original_signature": "void __thiscall CDialog::PreInitDialog(CDialog *this)",
+      "original_symbol": "CDialog::PreInitDialog"
+    },
+    {
+      "original": "NAMED_L152145",
+      "rust": "recovered::adapters15::named_l152145",
+      "category": "adapters15",
+      "source_line": 152145,
+      "source_lines": 8,
+      "source_sha256": "8a10eed1080951b8f612ceaea71b48e6128cc16cb0c25c9f38c560dd4f93101c",
+      "original_signature": "void __thiscall CView::OnInitialUpdate(CView *this)",
+      "original_symbol": "CView::OnInitialUpdate"
+    },
+    {
+      "original": "NAMED_L157449",
+      "rust": "recovered::adapters15::named_l157449",
+      "category": "adapters15",
+      "source_line": 157449,
+      "source_lines": 8,
+      "source_sha256": "97b6ad5d891ec2dfaef5645cb78550897636ff4d3e068e104c2323ab855085f4",
+      "original_signature": "void _get_wide_winmain_command_line(void)",
+      "original_symbol": "_get_wide_winmain_command_line"
+    },
+    {
+      "original": "NAMED_L151015",
+      "rust": "recovered::adapters15::named_l151015",
+      "category": "adapters15",
+      "source_line": 151015,
+      "source_lines": 8,
+      "source_sha256": "f1606831359ebcfb9707e9fab6fd6dd295594eb06feced33f3fe44fb14394e46",
+      "original_signature": "void __thiscall CWnd::PreSubclassWindow(CWnd *this)",
+      "original_symbol": "CWnd::PreSubclassWindow"
+    },
+    {
+      "original": "NAMED_L152106",
+      "rust": "recovered::adapters15::named_l152106",
+      "category": "adapters15",
+      "source_line": 152106,
+      "source_lines": 10,
+      "source_sha256": "86b8ef2f392b1557976ecc1452d135ed56c69a63cb7f99f4aad826dbaaa0dd4e",
+      "original_signature": "int __thiscall CView::OnDrop(void)",
+      "original_symbol": "CView::OnDrop"
+    },
+    {
+      "original": "NAMED_L152204",
+      "rust": "recovered::adapters15::named_l152204",
+      "category": "adapters15",
+      "source_line": 152204,
+      "source_lines": 8,
+      "source_sha256": "a0565199058e8e82aee78cf4e57680e04f364b9b9d1ddaa9ac121f6db8abb004",
+      "original_signature": "void __thiscall CCommonDialog::OnCancel(CCommonDialog *this)",
+      "original_symbol": "CCommonDialog::OnCancel"
+    },
+    {
+      "original": "NAMED_L153547",
+      "rust": "recovered::adapters15::named_l153547",
+      "category": "adapters15",
+      "source_line": 153547,
+      "source_lines": 8,
+      "source_sha256": "9cc963fa344ede5a04977b4c6133dba21f84fe7f6a46a7cae103a7fdcc002054",
+      "original_signature": "void __thiscall CFrameWnd::ExitHelpMode(CFrameWnd *this)",
+      "original_symbol": "CFrameWnd::ExitHelpMode"
+    },
+    {
+      "original": "NAMED_L152667",
+      "rust": "recovered::adapters15::named_l152667",
+      "category": "adapters15",
+      "source_line": 152667,
+      "source_lines": 8,
+      "source_sha256": "d2dc288551bff796ba2c5de9b6eebb22f2d86ffe11ecf23413ed471674b61d7f",
+      "original_signature": "void __thiscall CDocument::ClearPathName(CDocument *this)",
+      "original_symbol": "CDocument::ClearPathName"
+    },
+    {
+      "original": "NAMED_L153330",
+      "rust": "recovered::adapters15::named_l153330",
+      "category": "adapters15",
+      "source_line": 153330,
+      "source_lines": 8,
+      "source_sha256": "ff3a85e55b65cc1b739d5872d36b13a07f2ae53bd1fc9c29a598c512d22f7ac1",
+      "original_signature": "void __thiscall CFrameWnd::EndModalState(CFrameWnd *this)",
+      "original_symbol": "CFrameWnd::EndModalState"
+    },
+    {
+      "original": "NAMED_L153341",
+      "rust": "recovered::adapters15::named_l153341",
+      "category": "adapters15",
+      "source_line": 153341,
+      "source_lines": 8,
+      "source_sha256": "e894d57853fda2f02342f99137c22e71f084788d7e53aef62d47f2785e0c5156",
+      "original_signature": "void __thiscall CFrameWnd::PostNcDestroy(CFrameWnd *this)",
+      "original_symbol": "CFrameWnd::PostNcDestroy"
+    },
+    {
+      "original": "NAMED_L153558",
+      "rust": "recovered::adapters15::named_l153558",
+      "category": "adapters15",
+      "source_line": 153558,
+      "source_lines": 8,
+      "source_sha256": "2756cc88b2f15f0dc43e5c210f2eb957c5a7c45dc76863dc1ffb79bd4c521aa9",
+      "original_signature": "void __thiscall CFrameWnd::OnShowMenuBar(CFrameWnd *this)",
+      "original_symbol": "CFrameWnd::OnShowMenuBar"
+    },
+    {
+      "original": "NAMED_L153569",
+      "rust": "recovered::adapters15::named_l153569",
+      "category": "adapters15",
+      "source_line": 153569,
+      "source_lines": 8,
+      "source_sha256": "b7c34fd4903865b21719e21b454e51690f3685eda1fabb3a73991c7a73774c39",
+      "original_signature": "void __thiscall CFrameWnd::OnHideMenuBar(CFrameWnd *this)",
+      "original_symbol": "CFrameWnd::OnHideMenuBar"
+    },
+    {
+      "original": "NAMED_L151764",
+      "rust": "recovered::adapters15::named_l151764",
+      "category": "adapters15",
+      "source_line": 151764,
+      "source_lines": 8,
+      "source_sha256": "234f1a3077b926fd160db72a335f310c4aeb8a7fdbcf77c966f67a4c93edbe07",
+      "original_signature": "void __thiscall CWnd::ResizeDynamicLayout(CWnd *this)",
+      "original_symbol": "CWnd::ResizeDynamicLayout"
+    },
+    {
+      "original": "NAMED_L152544",
+      "rust": "recovered::adapters15::named_l152544",
+      "category": "adapters15",
+      "source_line": 152544,
+      "source_lines": 8,
+      "source_sha256": "b5c943fb8e0bdddefd24ba6b12286076708dc8fa80052c85d7f8b544f28f4573",
+      "original_signature": "void __thiscall CDocument::OnFinalRelease(CDocument *this)",
+      "original_symbol": "CDocument::OnFinalRelease"
+    },
+    {
+      "original": "NAMED_L152618",
+      "rust": "recovered::adapters15::named_l152618",
+      "category": "adapters15",
+      "source_line": 152618,
+      "source_lines": 8,
+      "source_sha256": "af67ea816df53d9d10d24b30bb944bb52a3264de005bd27f8286d6da0386d9a8",
+      "original_signature": "void __thiscall CDocument::ClearChunkList(CDocument *this)",
+      "original_symbol": "CDocument::ClearChunkList"
+    },
+    {
+      "original": "NAMED_L153593",
+      "rust": "recovered::adapters15::named_l153593",
+      "category": "adapters15",
+      "source_line": 153593,
+      "source_lines": 8,
+      "source_sha256": "679aefa14eef7fa66970eb383f0e63d0caebe690475c0d54ad7165ec629323df",
+      "original_signature": "void __thiscall CWinApp::OnFilePrintSetup(CWinApp *this)",
+      "original_symbol": "CWinApp::OnFilePrintSetup"
+    },
+    {
+      "original": "NAMED_L14181",
+      "rust": "recovered::adapters15::named_l14181",
+      "category": "adapters15",
+      "source_line": 14181,
+      "source_lines": 8,
+      "source_sha256": "b098e16b6302cb1abc61c90b8b2e8d1edc35970a54f4403c8cd97af1f0124ea5",
+      "original_signature": "void __cdecl __ExceptionPtrDestroy(void *param_1)",
+      "original_symbol": "__ExceptionPtrDestroy"
+    },
+    {
+      "original": "NAMED_L152643",
+      "rust": "recovered::adapters15::named_l152643",
+      "category": "adapters15",
+      "source_line": 152643,
+      "source_lines": 8,
+      "source_sha256": "1cd20c8067f5eea9e6abda19f70a77bef051bc2ddb34306119a1dbe963f8e2ab",
+      "original_signature": "void __thiscall CDocument::BeginReadChunks(CDocument *this)",
+      "original_symbol": "CDocument::BeginReadChunks"
+    },
+    {
+      "original": "NAMED_L152827",
+      "rust": "recovered::adapters15::named_l152827",
+      "category": "adapters15",
+      "source_line": 152827,
+      "source_lines": 8,
+      "source_sha256": "1b107c136cb10df5412f3e2230a689798f00619fa5b28ef060ebbc994c950ea1",
+      "original_signature": "void __thiscall CDocument::OnUnloadHandler(CDocument *this)",
+      "original_symbol": "CDocument::OnUnloadHandler"
+    },
+    {
+      "original": "NAMED_L153319",
+      "rust": "recovered::adapters15::named_l153319",
+      "category": "adapters15",
+      "source_line": 153319,
+      "source_lines": 8,
+      "source_sha256": "1ddab85f8802f526d9097b7d7123fdce77974d0d09a8e1964208ddfd6a96852b",
+      "original_signature": "void __thiscall CFrameWnd::BeginModalState(CFrameWnd *this)",
+      "original_symbol": "CFrameWnd::BeginModalState"
+    },
+    {
+      "original": "NAMED_L153641",
+      "rust": "recovered::adapters15::named_l153641",
+      "category": "adapters15",
+      "source_line": 153641,
+      "source_lines": 8,
+      "source_sha256": "cb4483c76323850fcc520a40838e3c82e563fa0b5e5eb5e63d89a98d763415ad",
+      "original_signature": "void __thiscall CCmdTarget::OnFinalRelease(CCmdTarget *this)",
+      "original_symbol": "CCmdTarget::OnFinalRelease"
+    },
+    {
+      "original": "NAMED_L154107",
+      "rust": "recovered::adapters15::named_l154107",
+      "category": "adapters15",
+      "source_line": 154107,
+      "source_lines": 8,
+      "source_sha256": "8caa1a4b6909e655a975515cf28b21701be21f58e282b7964797ee643856fce4",
+      "original_signature": "void __thiscall CDocTemplate::LoadTemplate(CDocTemplate *this)",
+      "original_symbol": "CDocTemplate::LoadTemplate"
+    },
+    {
+      "original": "NAMED_L151411",
+      "rust": "recovered::adapters15::named_l151411",
+      "category": "adapters15",
+      "source_line": 151411,
+      "source_lines": 10,
+      "source_sha256": "0bcdc7fbdfa95c53b2ce35f0f5bef7108248ec0263e71c7fb1655d976d8d1059",
+      "original_signature": "long __thiscall CWnd::accSelect(void)",
+      "original_symbol": "CWnd::accSelect"
+    },
+    {
+      "original": "NAMED_L152391",
+      "rust": "recovered::adapters15::named_l152391",
+      "category": "adapters15",
+      "source_line": 152391,
+      "source_lines": 8,
+      "source_sha256": "9f7024d9c2dc8f66b56006cde627588efd183d69dc62a9ab3af2bc17266cc3c2",
+      "original_signature": "void __thiscall CScrollView::GetWheelScrollDistance(void)",
+      "original_symbol": "CScrollView::GetWheelScrollDistance"
+    },
+    {
+      "original": "NAMED_L156837",
+      "rust": "recovered::adapters15::named_l156837",
+      "category": "adapters15",
+      "source_line": 156837,
+      "source_lines": 8,
+      "source_sha256": "6c8d927fd150cded5c6c2d013cc294d049d0c23ce6669bea53736bc78c392681",
+      "original_signature": "void __thiscall std::basic_streambuf<>::_Lock(basic_streambuf<> *this)",
+      "original_symbol": "std::basic_streambuf<>::_Lock"
+    },
+    {
+      "original": "NAMED_L150030",
+      "rust": "recovered::adapters15::named_l150030",
+      "category": "adapters15",
+      "source_line": 150030,
+      "source_lines": 10,
+      "source_sha256": "34c28d04f8f99c8cea335600ccbcf033b58712123ddbcbc1ad8548f308b07f83",
+      "original_signature": "DWORD __stdcall GetLastError(void)",
+      "original_symbol": "GetLastError"
+    },
+    {
+      "original": "NAMED_L152056",
+      "rust": "recovered::adapters15::named_l152056",
+      "category": "adapters15",
+      "source_line": 152056,
+      "source_lines": 10,
+      "source_sha256": "31ef9093fdd251749770c0882f2354412a54726af1d5d430aae79368c76ba7f1",
+      "original_signature": "int __thiscall CView::OnScrollBy(void)",
+      "original_symbol": "CView::OnScrollBy"
+    },
+    {
+      "original": "NAMED_L152119",
+      "rust": "recovered::adapters15::named_l152119",
+      "category": "adapters15",
+      "source_line": 152119,
+      "source_lines": 10,
+      "source_sha256": "de70122830be1f1dab2428aa9f9a9076beee40e6262e7d2ef21dce66a132a7f5",
+      "original_signature": "ulong __thiscall CView::OnDropEx(void)",
+      "original_symbol": "CView::OnDropEx"
+    },
+    {
+      "original": "NAMED_L153051",
+      "rust": "recovered::adapters15::named_l153051",
+      "category": "adapters15",
+      "source_line": 153051,
+      "source_lines": 8,
+      "source_sha256": "f13665ba766daaf140e75d11acdd4ec40a66b9fe744fb22f295d31e256f0d2a2",
+      "original_signature": "void __thiscall COleServerDoc::OnDeactivate(COleServerDoc *this)",
+      "original_symbol": "COleServerDoc::OnDeactivate"
+    },
+    {
+      "original": "NAMED_L155318",
+      "rust": "recovered::adapters15::named_l155318",
+      "category": "adapters15",
+      "source_line": 155318,
+      "source_lines": 14,
+      "source_sha256": "b810f2a7bc312131adde7a5c0b33fb320896b6cafa95ebd47d60f44a78b947de",
+      "original_signature": "WORD __scrt_get_show_window_mode(void)",
+      "original_symbol": "__scrt_get_show_window_mode"
+    },
+    {
+      "original": "NAMED_L153665",
+      "rust": "recovered::adapters15::named_l153665",
+      "category": "adapters15",
+      "source_line": 153665,
+      "source_lines": 10,
+      "source_sha256": "7fdde2ff759a18d96956c5cf59389127b51dc8fff32f9c24cc80a2a9e95ea53f",
+      "original_signature": "int __thiscall CWinApp::Run(CWinApp *this)",
+      "original_symbol": "CWinApp::Run"
+    },
+    {
+      "original": "NAMED_L151194",
+      "rust": "recovered::adapters15::named_l151194",
+      "category": "adapters15",
+      "source_line": 151194,
+      "source_lines": 8,
+      "source_sha256": "806df87cc1d23f04d1646ec9c31fdb27ffff10bc0fa1c2f49b6b8a2fbeb8fc9e",
+      "original_signature": "void __thiscall CWnd::EndModalLoop(CWnd *this,int param_1)",
+      "original_symbol": "CWnd::EndModalLoop"
+    },
+    {
+      "original": "NAMED_L152704",
+      "rust": "recovered::adapters15::named_l152704",
+      "category": "adapters15",
+      "source_line": 152704,
+      "source_lines": 8,
+      "source_sha256": "c276d4b03e5e7057fa9974e119bf57140457874db4b5e639147dc7bade10fb24",
+      "original_signature": "void __thiscall CDocument::OnChangedViewList(CDocument *this)",
+      "original_symbol": "CDocument::OnChangedViewList"
+    },
+    {
+      "original": "NAMED_L151268",
+      "rust": "recovered::adapters15::named_l151268",
+      "category": "adapters15",
+      "source_line": 151268,
+      "source_lines": 10,
+      "source_sha256": "c43db10463a16d6c231182234466f2e87d6cd748e71bbeb079990d67d6951825",
+      "original_signature": "long __thiscall CWnd::get_accName(void)",
+      "original_symbol": "CWnd::get_accName"
+    },
+    {
+      "original": "NAMED_L151307",
+      "rust": "recovered::adapters15::named_l151307",
+      "category": "adapters15",
+      "source_line": 151307,
+      "source_lines": 10,
+      "source_sha256": "bf596629cf792e816ee58daf2238be0d1cdcf444c37247d93b4467e6df13580c",
+      "original_signature": "long __thiscall CWnd::get_accRole(void)",
+      "original_symbol": "CWnd::get_accRole"
+    },
+    {
+      "original": "NAMED_L151333",
+      "rust": "recovered::adapters15::named_l151333",
+      "category": "adapters15",
+      "source_line": 151333,
+      "source_lines": 10,
+      "source_sha256": "e1b3000fca847ce6e4d2c107b4379ff056b54ffd79186fb1004bdefa662be779",
+      "original_signature": "long __thiscall CWnd::get_accHelp(void)",
+      "original_symbol": "CWnd::get_accHelp"
+    },
+    {
+      "original": "NAMED_L151424",
+      "rust": "recovered::adapters15::named_l151424",
+      "category": "adapters15",
+      "source_line": 151424,
+      "source_lines": 10,
+      "source_sha256": "30065683d38cd7e915d3d3539546d7db82e65b0546ebd5c42c7ebea1334babf1",
+      "original_signature": "long __thiscall CWnd::accLocation(void)",
+      "original_symbol": "CWnd::accLocation"
+    },
+    {
+      "original": "NAMED_L151437",
+      "rust": "recovered::adapters15::named_l151437",
+      "category": "adapters15",
+      "source_line": 151437,
+      "source_lines": 10,
+      "source_sha256": "b1ca7539016ec194be5ba479d723d9502a16c438efeb4ce51df0344a6db81644",
+      "original_signature": "long __thiscall CWnd::accNavigate(void)",
+      "original_symbol": "CWnd::accNavigate"
+    },
+    {
+      "original": "NAMED_L151476",
+      "rust": "recovered::adapters15::named_l151476",
+      "category": "adapters15",
+      "source_line": 151476,
+      "source_lines": 10,
+      "source_sha256": "dafd653e7085d00e523e8e720f6f3b8157219a580746c08598033b172b63a367",
+      "original_signature": "long __thiscall CWnd::put_accName(void)",
+      "original_symbol": "CWnd::put_accName"
+    },
+    {
+      "original": "NAMED_L151673",
+      "rust": "recovered::adapters15::named_l151673",
+      "category": "adapters15",
+      "source_line": 151673,
+      "source_lines": 10,
+      "source_sha256": "a6a80b0b3aa2a7e20b4d00f44a354bae47dbd361f142dc8c11d1811e8b317d6a",
+      "original_signature": "int __thiscall CWnd::OnTouchInput(void)",
+      "original_symbol": "CWnd::OnTouchInput"
+    },
+    {
+      "original": "NAMED_L151712",
+      "rust": "recovered::adapters15::named_l151712",
+      "category": "adapters15",
+      "source_line": 151712,
+      "source_lines": 10,
+      "source_sha256": "0c119decc11cf4d12d6243b0f60ac1cbd26f2d9e63e1797429304d9eee27fc62",
+      "original_signature": "int __thiscall CWnd::OnGesturePan(void)",
+      "original_symbol": "CWnd::OnGesturePan"
+    },
+    {
+      "original": "NAMED_L156826",
+      "rust": "recovered::adapters15::named_l156826",
+      "category": "adapters15",
+      "source_line": 156826,
+      "source_lines": 8,
+      "source_sha256": "16afcd1ff1a61a77196878965045d82d4d2963a8953e42d44db896631c64c527",
+      "original_signature": "void __thiscall std::basic_streambuf<>::_Unlock(basic_streambuf<> *this)",
+      "original_symbol": "std::basic_streambuf<>::_Unlock"
+    },
+    {
+      "original": "NAMED_L152082",
+      "rust": "recovered::adapters15::named_l152082",
+      "category": "adapters15",
+      "source_line": 152082,
+      "source_lines": 10,
+      "source_sha256": "872379060e62beb5c74a0c0bc90a62b8a61f1d22b3344011251bbf881044b9de",
+      "original_signature": "ulong __thiscall CView::OnDragOver(void)",
+      "original_symbol": "CView::OnDragOver"
+    },
+    {
+      "original": "NAMED_L152507",
+      "rust": "recovered::adapters15::named_l152507",
+      "category": "adapters15",
+      "source_line": 152507,
+      "source_lines": 8,
+      "source_sha256": "fc17f4d4dd6f27fc3721c864f1cf94e7218b625ee28794446e0b93824633ed51",
+      "original_signature": "void __thiscall COleServerDoc::DeleteContents(COleServerDoc *this)",
+      "original_symbol": "COleServerDoc::DeleteContents"
+    },
+    {
+      "original": "NAMED_L154425",
+      "rust": "recovered::adapters15::named_l154425",
+      "category": "adapters15",
+      "source_line": 154425,
+      "source_lines": 8,
+      "source_sha256": "b8875b3c4ed02a1d0f5e5d72b5f37e5c2b5f93242f9c8ba937166e33cd74c6db",
+      "original_signature": "void __thiscall COleServerItem::OnUpdateItems(COleServerItem *this)",
+      "original_symbol": "COleServerItem::OnUpdateItems"
+    },
+    {
+      "original": "NAMED_L151255",
+      "rust": "recovered::adapters15::named_l151255",
+      "category": "adapters15",
+      "source_line": 151255,
+      "source_lines": 10,
+      "source_sha256": "d2f62969a60357996139f1a77beac91db4d18777b226532d98363448c5da32cf",
+      "original_signature": "long __thiscall CWnd::get_accChild(void)",
+      "original_symbol": "CWnd::get_accChild"
+    },
+    {
+      "original": "NAMED_L151281",
+      "rust": "recovered::adapters15::named_l151281",
+      "category": "adapters15",
+      "source_line": 151281,
+      "source_lines": 10,
+      "source_sha256": "9a5938d88456a7492e0d41e9d9504a4a2ba3ff3afdada5f0319fe952b4da2ef8",
+      "original_signature": "long __thiscall CWnd::get_accValue(void)",
+      "original_symbol": "CWnd::get_accValue"
+    },
+    {
+      "original": "NAMED_L151320",
+      "rust": "recovered::adapters15::named_l151320",
+      "category": "adapters15",
+      "source_line": 151320,
+      "source_lines": 10,
+      "source_sha256": "32e8d7eecbe90c89923f53fd0a90410da27bee92abe2de1df06c14b232cbbb9c",
+      "original_signature": "long __thiscall CWnd::get_accState(void)",
+      "original_symbol": "CWnd::get_accState"
+    },
+    {
+      "original": "NAMED_L151489",
+      "rust": "recovered::adapters15::named_l151489",
+      "category": "adapters15",
+      "source_line": 151489,
+      "source_lines": 10,
+      "source_sha256": "87684426cce6ec805ea665644c264f5e95ca23b52ae367354cc800d76212b38c",
+      "original_signature": "long __thiscall CWnd::put_accValue(void)",
+      "original_symbol": "CWnd::put_accValue"
+    },
+    {
+      "original": "NAMED_L151699",
+      "rust": "recovered::adapters15::named_l151699",
+      "category": "adapters15",
+      "source_line": 151699,
+      "source_lines": 10,
+      "source_sha256": "25824882d75f33c100931ddcd8a8446cbb6f280492357502de8e21cb723ba69d",
+      "original_signature": "int __thiscall CWnd::OnGestureZoom(void)",
+      "original_symbol": "CWnd::OnGestureZoom"
+    },
+    {
+      "original": "NAMED_L151896",
+      "rust": "recovered::adapters15::named_l151896",
+      "category": "adapters15",
+      "source_line": 151896,
+      "source_lines": 8,
+      "source_sha256": "ae8ba26177464589d52d7e9ccc1f75638214e100cd55bd24d9e0d4a5cf3a34e7",
+      "original_signature": "void __thiscall CDialog::OnSetFont(CDialog *this,CFont *param_1)",
+      "original_symbol": "CDialog::OnSetFont"
+    },
+    {
+      "original": "NAMED_L152069",
+      "rust": "recovered::adapters15::named_l152069",
+      "category": "adapters15",
+      "source_line": 152069,
+      "source_lines": 10,
+      "source_sha256": "2a08791b635d2f27ca79057e7437e560df4d256b8e26df40ca78b9d6c5aecb2c",
+      "original_signature": "ulong __thiscall CView::OnDragEnter(void)",
+      "original_symbol": "CView::OnDragEnter"
+    },
+    {
+      "original": "NAMED_L152356",
+      "rust": "recovered::adapters15::named_l152356",
+      "category": "adapters15",
+      "source_line": 152356,
+      "source_lines": 10,
+      "source_sha256": "4331cacc78d7565c4aeb8e4d6675ec28c48230300c84e3be91cc1926ab777b55",
+      "original_signature": "int __thiscall CScrollView::OnScrollBy(void)",
+      "original_symbol": "CScrollView::OnScrollBy"
+    },
+    {
+      "original": "NAMED_L152715",
+      "rust": "recovered::adapters15::named_l152715",
+      "category": "adapters15",
+      "source_line": 152715,
+      "source_lines": 8,
+      "source_sha256": "deff3e4e04e067a4622467d0dddf5927b02f2284b8e8924c8c57f40de231c5dc",
+      "original_signature": "void __thiscall CDocument::OnRichPreviewUnload(CDocument *this)",
+      "original_symbol": "CDocument::OnRichPreviewUnload"
+    },
+    {
+      "original": "NAMED_L154308",
+      "rust": "recovered::adapters15::named_l154308",
+      "category": "adapters15",
+      "source_line": 154308,
+      "source_lines": 8,
+      "source_sha256": "767b34beb2fd5e9e390d4c5486428e43f06f160fd7fa83f16d750bc8d14af6d9",
+      "original_signature": "void __thiscall COleServerItem::OnFinalRelease(COleServerItem *this)",
+      "original_symbol": "COleServerItem::OnFinalRelease"
+    },
+    {
+      "original": "NAMED_L155582",
+      "rust": "recovered::adapters15::named_l155582",
+      "category": "adapters15",
+      "source_line": 155582,
+      "source_lines": 8,
+      "source_sha256": "78de0e75d76cc4ffacb8845ac05f0408dbf0741f60240cbedab294117e93bd4e",
+      "original_signature": "void __stdcall ReleaseSRWLockExclusive(PSRWLOCK SRWLock)",
+      "original_symbol": "ReleaseSRWLockExclusive"
+    },
+    {
+      "original": "NAMED_L155593",
+      "rust": "recovered::adapters15::named_l155593",
+      "category": "adapters15",
+      "source_line": 155593,
+      "source_lines": 8,
+      "source_sha256": "b51088e27d69ea55f87f4ecf26b6db7c8b6554cc2e2c4033f932d058e4b3574b",
+      "original_signature": "void __stdcall AcquireSRWLockExclusive(PSRWLOCK SRWLock)",
+      "original_symbol": "AcquireSRWLockExclusive"
+    },
+    {
+      "original": "NAMED_L152380",
+      "rust": "recovered::adapters15::named_l152380",
+      "category": "adapters15",
+      "source_line": 152380,
+      "source_lines": 8,
+      "source_sha256": "c8736d6c883b113bc76d3a066632ff551a02acac58cb067dfe5c16b92a18934f",
+      "original_signature": "void __thiscall CPreviewView::OnDraw(CPreviewView *this,CDC *param_1)",
+      "original_symbol": "CPreviewView::OnDraw"
+    },
+    {
+      "original": "NAMED_L152132",
+      "rust": "recovered::adapters15::named_l152132",
+      "category": "adapters15",
+      "source_line": 152132,
+      "source_lines": 10,
+      "source_sha256": "533b875faf47306c3a9f9e931cc6d790ca013e9eeb523e4c454aaf952724c974",
+      "original_signature": "ulong __thiscall CView::OnDragScroll(void)",
+      "original_symbol": "CView::OnDragScroll"
+    },
+    {
+      "original": "NAMED_L152435",
+      "rust": "recovered::adapters15::named_l152435",
+      "category": "adapters15",
+      "source_line": 152435,
+      "source_lines": 8,
+      "source_sha256": "b2592ad981c23dee8815560279dda71e2512dd607cdd8384c1edbea108003f4d",
+      "original_signature": "void __thiscall COleServerDoc::OnFileSaveCopyAs(COleServerDoc *this)",
+      "original_symbol": "COleServerDoc::OnFileSaveCopyAs"
+    },
+    {
+      "original": "NAMED_L153913",
+      "rust": "recovered::adapters15::named_l153913",
+      "category": "adapters15",
+      "source_line": 153913,
+      "source_lines": 8,
+      "source_sha256": "18b7c172661499a8c88f5031d8e1c09b62c8b1b9dc7b6a928f4d54c0de857a9f",
+      "original_signature": "void __thiscall CWinApp::DoWaitCursor(CWinApp *this,int param_1)",
+      "original_symbol": "CWinApp::DoWaitCursor"
+    },
+    {
+      "original": "NAMED_L157506",
+      "rust": "recovered::adapters15::named_l157506",
+      "category": "adapters15",
+      "source_line": 157506,
+      "source_lines": 10,
+      "source_sha256": "0a5676e84ab78bec39820e18f0e7060f532b71a110874fc5466b6521afe4cb81",
+      "original_signature": "errno_t __cdecl _set_fmode(int _Mode)",
+      "original_symbol": "_set_fmode"
+    },
+    {
+      "original": "NAMED_L150129",
+      "rust": "recovered::adapters15::named_l150129",
+      "category": "adapters15",
+      "source_line": 150129,
+      "source_lines": 10,
+      "source_sha256": "7bb1ccd144ce643049912d65fd6d0ce6dca26f04f3afda980f3d7af858902b9f",
+      "original_signature": "HANDLE __stdcall GetProcessHeap(void)",
+      "original_symbol": "GetProcessHeap"
+    },
+    {
+      "original": "NAMED_L151725",
+      "rust": "recovered::adapters15::named_l151725",
+      "category": "adapters15",
+      "source_line": 151725,
+      "source_lines": 10,
+      "source_sha256": "acddd5843632da83b59f2e9780ea98e2c8f5e9bb8dc8d466987203501494865b",
+      "original_signature": "int __thiscall CWnd::OnGestureRotate(void)",
+      "original_symbol": "CWnd::OnGestureRotate"
+    },
+    {
+      "original": "NAMED_L151788",
+      "rust": "recovered::adapters15::named_l151788",
+      "category": "adapters15",
+      "source_line": 151788,
+      "source_lines": 10,
+      "source_sha256": "c1046f4113f08873e80d408c4cc38b9314e984470e080baf7bf843eaf287e785",
+      "original_signature": "int __thiscall CWnd::IsFrameWnd(CWnd *this)",
+      "original_symbol": "CWnd::IsFrameWnd"
+    },
+    {
+      "original": "NAMED_L152518",
+      "rust": "recovered::adapters15::named_l152518",
+      "category": "adapters15",
+      "source_line": 152518,
+      "source_lines": 8,
+      "source_sha256": "7723f7c0b428589e4bfe0b8415678de353262224849962c6b5efeac0894224c8",
+      "original_signature": "void __thiscall CDocument::SetTitle(CDocument *this,wchar_t *param_1)",
+      "original_symbol": "CDocument::SetTitle"
+    },
+    {
+      "original": "NAMED_L152472",
+      "rust": "recovered::adapters15::named_l152472",
+      "category": "adapters15",
+      "source_line": 152472,
+      "source_lines": 8,
+      "source_sha256": "d29c74eec006f2647e50e2bdc7347dcc50870279e08614c81d4d77e584255c57",
+      "original_signature": "void __thiscall COleDocument::UpdateModifiedFlag(COleDocument *this)",
+      "original_symbol": "COleDocument::UpdateModifiedFlag"
+    },
+    {
+      "original": "NAMED_L157199",
+      "rust": "recovered::adapters15::named_l157199",
+      "category": "adapters15",
+      "source_line": 157199,
+      "source_lines": 10,
+      "source_sha256": "d3ba30e293ac8f48d3515fd8b98598b9fc2d1e8fd0eaadb7af090fde0057c17e",
+      "original_signature": "HLOCAL __stdcall LocalFree(HLOCAL hMem)",
+      "original_symbol": "LocalFree"
+    },
+    {
+      "original": "NAMED_L95583",
+      "rust": "recovered::adapters15::named_l95583",
+      "category": "adapters15",
+      "source_line": 95583,
+      "source_lines": 10,
+      "source_sha256": "dc1cdec984c39fad5be9009c6b24b2bbc47c7ac5c512aa28d12719ee7e617d13",
+      "original_signature": "__int64 __thiscall CWnd::Default(CWnd *this)",
+      "original_symbol": "CWnd::Default"
+    },
+    {
+      "original": "NAMED_L153835",
+      "rust": "recovered::adapters15::named_l153835",
+      "category": "adapters15",
+      "source_line": 153835,
+      "source_lines": 10,
+      "source_sha256": "0731f96d9cf6baafeb1616c2b50a0de86121ed7c74d9e4d8a4d788160b0b762e",
+      "original_signature": "int __thiscall CWinApp::Register(CWinApp *this)",
+      "original_symbol": "CWinApp::Register"
+    },
+    {
+      "original": "NAMED_L153402",
+      "rust": "recovered::adapters15::named_l153402",
+      "category": "adapters15",
+      "source_line": 153402,
+      "source_lines": 8,
+      "source_sha256": "d66dddbe01d2b4082261045b4ed8c37f9c85a470c488826a57e78c6e15d0c7bd",
+      "original_signature": "void __thiscall CFrameWnd::RecalcLayout(CFrameWnd *this,int param_1)",
+      "original_symbol": "CFrameWnd::RecalcLayout"
+    },
+    {
+      "original": "NAMED_L151096",
+      "rust": "recovered::adapters15::named_l151096",
+      "category": "adapters15",
+      "source_line": 151096,
+      "source_lines": 10,
+      "source_sha256": "04df318c0bf9a0034acc55422e97e0464511cc9def73c7288775ee35f05378f9",
+      "original_signature": "CMenu * __thiscall CWnd::GetMenu(CWnd *this)",
+      "original_symbol": "CWnd::GetMenu"
+    },
+    {
+      "original": "NAMED_L151122",
+      "rust": "recovered::adapters15::named_l151122",
+      "category": "adapters15",
+      "source_line": 151122,
+      "source_lines": 10,
+      "source_sha256": "79b4c9f0f14042f2d4425a8306709080ffbf05e0f657868d01b1536cb69bf3e7",
+      "original_signature": "__int64 __thiscall CWnd::OnToolHitTest(void)",
+      "original_symbol": "CWnd::OnToolHitTest"
+    },
+    {
+      "original": "NAMED_L151346",
+      "rust": "recovered::adapters15::named_l151346",
+      "category": "adapters15",
+      "source_line": 151346,
+      "source_lines": 10,
+      "source_sha256": "dd427dd304722a79baac56b82c0464e4b47da8e6f38bbc9de06877feee306420",
+      "original_signature": "long __thiscall CWnd::get_accHelpTopic(void)",
+      "original_symbol": "CWnd::get_accHelpTopic"
+    },
+    {
+      "original": "NAMED_L157694",
+      "rust": "recovered::adapters15::named_l157694",
+      "category": "adapters15",
+      "source_line": 157694,
+      "source_lines": 10,
+      "source_sha256": "ea1b006d2a7f2828dd2a9638725c9a9f75c0de16199c31625cf439203fed7e6e",
+      "original_signature": "UINT __stdcall SysStringLen(BSTR param_1)",
+      "original_symbol": "SysStringLen"
+    },
+    {
+      "original": "NAMED_L157756",
+      "rust": "recovered::adapters15::named_l157756",
+      "category": "adapters15",
+      "source_line": 157756,
+      "source_lines": 10,
+      "source_sha256": "33cd8231d5eac0a63e22038cc4f3f38d6dffa6cd0f721d3b11fe02b41f28ffb4",
+      "original_signature": "PVOID __stdcall EncodePointer(PVOID Ptr)",
+      "original_symbol": "EncodePointer"
+    },
+    {
+      "original": "NAMED_L152888",
+      "rust": "recovered::adapters15::named_l152888",
+      "category": "adapters15",
+      "source_line": 152888,
+      "source_lines": 8,
+      "source_sha256": "962fafced702eb2e87e44293a5ac4d729c666f19487d0f526ade40cbf515a001",
+      "original_signature": "void __thiscall COleDocument::AddItem(COleDocument *this,CDocItem *param_1)",
+      "original_symbol": "COleDocument::AddItem"
+    },
+    {
+      "original": "NAMED_L153241",
+      "rust": "recovered::adapters15::named_l153241",
+      "category": "adapters15",
+      "source_line": 153241,
+      "source_lines": 8,
+      "source_sha256": "7d8d82a602d2672bc073a2a9f563edba20eec43bc2dc804aedac33cad1259b3a",
+      "original_signature": "void __thiscall CFrameWnd::ActivateFrame(CFrameWnd *this,int param_1)",
+      "original_symbol": "CFrameWnd::ActivateFrame"
+    },
+    {
+      "original": "NAMED_L150758",
+      "rust": "recovered::adapters15::named_l150758",
+      "category": "adapters15",
+      "source_line": 150758,
+      "source_lines": 10,
+      "source_sha256": "7c759d8ffef59e31144e5bafbfce735d2e107507ab12bc06bb5103dc0f3580da",
+      "original_signature": "int __thiscall CWnd::DestroyWindow(CWnd *this)",
+      "original_symbol": "CWnd::DestroyWindow"
+    },
+    {
+      "original": "NAMED_L151181",
+      "rust": "recovered::adapters15::named_l151181",
+      "category": "adapters15",
+      "source_line": 151181,
+      "source_lines": 10,
+      "source_sha256": "e2ba6f069cb6061e4198094af2c9e7b1dd137aeed6fb9c837f20db716ed1637e",
+      "original_signature": "int __thiscall CWnd::ContinueModal(CWnd *this)",
+      "original_symbol": "CWnd::ContinueModal"
+    },
+    {
+      "original": "NAMED_L151216",
+      "rust": "recovered::adapters15::named_l151216",
+      "category": "adapters15",
+      "source_line": 151216,
+      "source_lines": 10,
+      "source_sha256": "d56a4edc8133f751e881fcd4e2483695f28c1248d8ed4166a3be0160afc90aaf",
+      "original_signature": "long __thiscall CWnd::EnsureStdObj(CWnd *this)",
+      "original_symbol": "CWnd::EnsureStdObj"
+    },
+    {
+      "original": "NAMED_L151686",
+      "rust": "recovered::adapters15::named_l151686",
+      "category": "adapters15",
+      "source_line": 151686,
+      "source_lines": 10,
+      "source_sha256": "4c56ab2983b4698553cca3be8433248998448329fca769c9611e9c20cb92f5b4",
+      "original_signature": "ulong __thiscall CWnd::GetGestureStatus(void)",
+      "original_symbol": "CWnd::GetGestureStatus"
+    },
+    {
+      "original": "NAMED_L153848",
+      "rust": "recovered::adapters15::named_l153848",
+      "category": "adapters15",
+      "source_line": 153848,
+      "source_lines": 10,
+      "source_sha256": "cfbc584d4a54cb257623b7910b5caabd99d9247b6a8bb938b64bc6076b266cf0",
+      "original_signature": "int __thiscall CWinApp::Unregister(CWinApp *this)",
+      "original_symbol": "CWinApp::Unregister"
+    },
+    {
+      "original": "NAMED_L154373",
+      "rust": "recovered::adapters15::named_l154373",
+      "category": "adapters15",
+      "source_line": 154373,
+      "source_lines": 8,
+      "source_sha256": "288bd3ad5830c9f836a6244c97844cd99f608d55b13e770fe0ea86eac844bf04",
+      "original_signature": "void __thiscall COleServerItem::OnDoVerb(COleServerItem *this,long param_1)",
+      "original_symbol": "COleServerItem::OnDoVerb"
+    },
+    {
+      "original": "NAMED_L157530",
+      "rust": "recovered::adapters15::named_l157530",
+      "category": "adapters15",
+      "source_line": 157530,
+      "source_lines": 8,
+      "source_sha256": "43529a9e7f8364c314b8c9fc8a0519ec61cb5fca34b156b18d0ba00cc0959be1",
+      "original_signature": "void _register_thread_local_exe_atexit_callback(void)",
+      "original_symbol": "_register_thread_local_exe_atexit_callback"
+    },
+    {
+      "original": "NAMED_L151205",
+      "rust": "recovered::adapters15::named_l151205",
+      "category": "adapters15",
+      "source_line": 151205,
+      "source_lines": 8,
+      "source_sha256": "0210d359bb62547a450d56a578029765dd92838dcf5bfd19fdb879d9c1a9e9b9",
+      "original_signature": "void __thiscall CWnd::OnDrawIconicThumbnailOrLivePreview(void)",
+      "original_symbol": "CWnd::OnDrawIconicThumbnailOrLivePreview"
+    },
+    {
+      "original": "NAMED_L157769",
+      "rust": "recovered::adapters15::named_l157769",
+      "category": "adapters15",
+      "source_line": 157769,
+      "source_lines": 10,
+      "source_sha256": "f1089bbef60a1785c03c157bfe730138add3d894b7db30ffda9b2836f029d728",
+      "original_signature": "LPVOID __stdcall CoTaskMemAlloc(SIZE_T cb)",
+      "original_symbol": "CoTaskMemAlloc"
+    },
+    {
+      "original": "NAMED_L151294",
+      "rust": "recovered::adapters15::named_l151294",
+      "category": "adapters15",
+      "source_line": 151294,
+      "source_lines": 10,
+      "source_sha256": "e0376c489c5d4c0ac8a22ed2417c312b7b9d9cb5ee31efb1a18f4f155c230092",
+      "original_signature": "long __thiscall CWnd::get_accDescription(void)",
+      "original_symbol": "CWnd::get_accDescription"
+    },
+    {
+      "original": "NAMED_L151463",
+      "rust": "recovered::adapters15::named_l151463",
+      "category": "adapters15",
+      "source_line": 151463,
+      "source_lines": 10,
+      "source_sha256": "e9cad8397f1f5292b2a2b456ced5a74ac0c59b77fcbfbd6bd2db4f6f531f2d3a",
+      "original_signature": "long __thiscall CWnd::accDoDefaultAction(void)",
+      "original_symbol": "CWnd::accDoDefaultAction"
+    },
+    {
+      "original": "NAMED_L151883",
+      "rust": "recovered::adapters15::named_l151883",
+      "category": "adapters15",
+      "source_line": 151883,
+      "source_lines": 10,
+      "source_sha256": "81da14e7f6e12f4298e0931220957d032c2c538a60c63c047ed5cfb2bdb06b9e",
+      "original_signature": "__int64 __thiscall CDialog::DoModal(CDialog *this)",
+      "original_symbol": "CDialog::DoModal"
+    },
+    {
+      "original": "NAMED_L152988",
+      "rust": "recovered::adapters15::named_l152988",
+      "category": "adapters15",
+      "source_line": 152988,
+      "source_lines": 8,
+      "source_sha256": "fad160fb37bd4f0319271db19f258233eac80fe64b284f0670b869f5c37739cb",
+      "original_signature": "void __thiscall COleServerDoc::OnClose(COleServerDoc *this,tagOLECLOSE param_1)",
+      "original_symbol": "COleServerDoc::OnClose"
+    },
+    {
+      "original": "NAMED_L157541",
+      "rust": "recovered::adapters15::named_l157541",
+      "category": "adapters15",
+      "source_line": 157541,
+      "source_lines": 10,
+      "source_sha256": "d656e3c081a2a4b1534090944bd4c17ef9a3c51c212cf19c61b784262d6c8002",
+      "original_signature": "int __cdecl _configthreadlocale(int _Flag)",
+      "original_symbol": "_configthreadlocale"
+    },
+    {
+      "original": "NAMED_L150710",
+      "rust": "recovered::adapters15::named_l150710",
+      "category": "adapters15",
+      "source_line": 150710,
+      "source_lines": 10,
+      "source_sha256": "3d90ed19c6aacdffd1c086d8c8759d4900f1d427a38f07cf3daa1c1fc0f834e9",
+      "original_signature": "int __thiscall CDialog::OnInitDialog(CDialog *this)",
+      "original_symbol": "CDialog::OnInitDialog"
+    },
+    {
+      "original": "NAMED_L151751",
+      "rust": "recovered::adapters15::named_l151751",
+      "category": "adapters15",
+      "source_line": 151751,
+      "source_lines": 10,
+      "source_sha256": "38e1013e2595754aada817272c7244519f9de5f762c3ce073c3d79ba01624a01",
+      "original_signature": "int __thiscall CWnd::OnGesturePressAndTap(void)",
+      "original_symbol": "CWnd::OnGesturePressAndTap"
+    },
+    {
+      "original": "NAMED_L151991",
+      "rust": "recovered::adapters15::named_l151991",
+      "category": "adapters15",
+      "source_line": 151991,
+      "source_lines": 10,
+      "source_sha256": "79a73a9ed2a77f2a74b676adb6326dc17f2bf4a3f84e156f9fbf88b17e5e543c",
+      "original_signature": "int __thiscall CWnd::CheckAutoCenter(CWnd *this)",
+      "original_symbol": "CWnd::CheckAutoCenter"
+    },
+    {
+      "original": "NAMED_L152413",
+      "rust": "recovered::adapters15::named_l152413",
+      "category": "adapters15",
+      "source_line": 152413,
+      "source_lines": 8,
+      "source_sha256": "6df85859b8a8b18cc9cdf24d0372cf2eba39b41aed271721e25d830c11a10a65",
+      "original_signature": "void __thiscall CPreviewView::PositionPage(CPreviewView *this,uint param_1)",
+      "original_symbol": "CPreviewView::PositionPage"
+    },
+    {
+      "original": "NAMED_L152483",
+      "rust": "recovered::adapters15::named_l152483",
+      "category": "adapters15",
+      "source_line": 152483,
+      "source_lines": 10,
+      "source_sha256": "319babeb9ea45df9de1d17323348b5818b4fe28024a60db361f95016a58c51b7",
+      "original_signature": "int __thiscall CDocument::DoFileSave(CDocument *this)",
+      "original_symbol": "CDocument::DoFileSave"
+    },
+    {
+      "original": "NAMED_L153352",
+      "rust": "recovered::adapters15::named_l153352",
+      "category": "adapters15",
+      "source_line": 153352,
+      "source_lines": 10,
+      "source_sha256": "6a4533a2958d33adb86fb82533cb85dbf14f21674b5eaea6de18f19c9ff0251f",
+      "original_signature": "int __thiscall CFrameWnd::IsFrameWnd(CFrameWnd *this)",
+      "original_symbol": "CFrameWnd::IsFrameWnd"
+    },
+    {
+      "original": "NAMED_L150534",
+      "rust": "recovered::adapters15::named_l150534",
+      "category": "adapters15",
+      "source_line": 150534,
+      "source_lines": 10,
+      "source_sha256": "9dfcd5f6c0ddbda9de4f52cb4a90b104eb17802c383b06e6d60514344e5f592d",
+      "original_signature": "BOOL __stdcall FreeLibrary(HMODULE hLibModule)",
+      "original_symbol": "FreeLibrary"
+    },
+    {
+      "original": "NAMED_L151148",
+      "rust": "recovered::adapters15::named_l151148",
+      "category": "adapters15",
+      "source_line": 151148,
+      "source_lines": 8,
+      "source_sha256": "167e4a86ea8fcc711eebcf37c82a7e610be2dc41f33a6756acdd7eb39078679d",
+      "original_signature": "void __thiscall CWnd::WinHelpW(CWnd *this,__uint64 param_1,uint param_2)",
+      "original_symbol": "CWnd::WinHelpW"
+    },
+    {
+      "original": "NAMED_L152899",
+      "rust": "recovered::adapters15::named_l152899",
+      "category": "adapters15",
+      "source_line": 152899,
+      "source_lines": 8,
+      "source_sha256": "f75c70d824491ca55dc0168f44ca9ad980ac2b35cd526eba91523596f1167b8c",
+      "original_signature": "void __thiscall COleDocument::RemoveItem(COleDocument *this,CDocItem *param_1)",
+      "original_symbol": "COleDocument::RemoveItem"
+    },
+    {
+      "original": "NAMED_L152923",
+      "rust": "recovered::adapters15::named_l152923",
+      "category": "adapters15",
+      "source_line": 152923,
+      "source_lines": 8,
+      "source_sha256": "0e33a7ec10cbc3597384c71b368d8fda9f3a70f56b4c3940b2fd0ee74fe7bae4",
+      "original_signature": "void __thiscall COleLinkingDoc::OnShowViews(COleLinkingDoc *this,int param_1)",
+      "original_symbol": "COleLinkingDoc::OnShowViews"
+    },
+    {
+      "original": "NAMED_L150591",
+      "rust": "recovered::adapters15::named_l150591",
+      "category": "adapters15",
+      "source_line": 150591,
+      "source_lines": 10,
+      "source_sha256": "0842bccb4990d4f884c46ff67071b866c82809bc114ef633d86ba4fbac0cb6c6",
+      "original_signature": "void * __cdecl operator_new(__uint64 param_1)",
+      "original_symbol": "operator_new"
+    },
+    {
+      "original": "NAMED_L151398",
+      "rust": "recovered::adapters15::named_l151398",
+      "category": "adapters15",
+      "source_line": 151398,
+      "source_lines": 10,
+      "source_sha256": "c3f84a65cdc2c6b86865eb59085865a7f0a0df938cc14097c070ac59078e3ce1",
+      "original_signature": "long __thiscall CWnd::get_accDefaultAction(void)",
+      "original_symbol": "CWnd::get_accDefaultAction"
+    },
+    {
+      "original": "NAMED_L151738",
+      "rust": "recovered::adapters15::named_l151738",
+      "category": "adapters15",
+      "source_line": 151738,
+      "source_lines": 10,
+      "source_sha256": "ae95eb2fea915dbc9a129db9b0e7ae04d225551189d59f3c4066a07274dd5473",
+      "original_signature": "int __thiscall CWnd::OnGestureTwoFingerTap(void)",
+      "original_symbol": "CWnd::OnGestureTwoFingerTap"
+    },
+    {
+      "original": "NAMED_L151159",
+      "rust": "recovered::adapters15::named_l151159",
+      "category": "adapters15",
+      "source_line": 151159,
+      "source_lines": 8,
+      "source_sha256": "38ffa6ed59b0d97bccb4463912c24f5382ff3910cd557d0abb10a3741f313b60",
+      "original_signature": "void __thiscall CWnd::HtmlHelpW(CWnd *this,__uint64 param_1,uint param_2)",
+      "original_symbol": "CWnd::HtmlHelpW"
+    },
+    {
+      "original": "NAMED_L150771",
+      "rust": "recovered::adapters15::named_l150771",
+      "category": "adapters15",
+      "source_line": 150771,
+      "source_lines": 8,
+      "source_sha256": "a2b80d27fe8c2270ee4cda48c24e6c45a5a73e574e85b944d3208396dfe3d75f",
+      "original_signature": "void __thiscall CView::OnPrint(CView *this,CDC *param_1,CPrintInfo *param_2)",
+      "original_symbol": "CView::OnPrint"
+    },
+    {
+      "original": "NAMED_L153280",
+      "rust": "recovered::adapters15::named_l153280",
+      "category": "adapters15",
+      "source_line": 153280,
+      "source_lines": 10,
+      "source_sha256": "12d812288eb0c9ef985adea2fc6604613a2e25032c1a03e9a5996ec6c2ecd947",
+      "original_signature": "CMenu * __thiscall CFrameWnd::GetMenu(CFrameWnd *this)",
+      "original_symbol": "CFrameWnd::GetMenu"
+    },
+    {
+      "original": "NAMED_L153691",
+      "rust": "recovered::adapters15::named_l153691",
+      "category": "adapters15",
+      "source_line": 153691,
+      "source_lines": 10,
+      "source_sha256": "57c0b5cc0ca6ff500b0ccda45ad7326ef58cd4a6427627f8ac3f48ae17314f35",
+      "original_signature": "int __thiscall CWinThread::PumpMessage(CWinThread *this)",
+      "original_symbol": "CWinThread::PumpMessage"
+    },
+    {
+      "original": "NAMED_L154332",
+      "rust": "recovered::adapters15::named_l154332",
+      "category": "adapters15",
+      "source_line": 154332,
+      "source_lines": 10,
+      "source_sha256": "bbd88c611bb16c0a83b18b55087e802597d45b266cb6093d228c317686074652",
+      "original_signature": "int __thiscall COleServerItem::IsBlank(COleServerItem *this)",
+      "original_symbol": "COleServerItem::IsBlank"
+    },
+    {
+      "original": "NAMED_L156902",
+      "rust": "recovered::adapters15::named_l156902",
+      "category": "adapters15",
+      "source_line": 156902,
+      "source_lines": 8,
+      "source_sha256": "ad2542995991fbd3c8bd597c7048af2ab3d106921bd1fcdf4f754b6cd5f76fba",
+      "original_signature": "void __thiscall std::basic_streambuf<>::imbue(basic_streambuf<> *this,locale *param_1)",
+      "original_symbol": "std::basic_streambuf<>::imbue"
+    },
+    {
+      "original": "NAMED_L153040",
+      "rust": "recovered::adapters15::named_l153040",
+      "category": "adapters15",
+      "source_line": 153040,
+      "source_lines": 8,
+      "source_sha256": "f9fd46f861147281e6e040c707daf7ac7c35b7770e2871e0090be703c1e6531a",
+      "original_signature": "void __thiscall COleServerDoc::OnShowDocument(COleServerDoc *this,int param_1)",
+      "original_symbol": "COleServerDoc::OnShowDocument"
+    },
+    {
+      "original": "NAMED_L153501",
+      "rust": "recovered::adapters15::named_l153501",
+      "category": "adapters15",
+      "source_line": 153501,
+      "source_lines": 8,
+      "source_sha256": "0dd2c7a8848df593a111cef32fd1094c14b5a445db530bfc9eaac46fc581b713",
+      "original_signature": "void __thiscall CFrameWnd::OnUpdateFrameTitle(CFrameWnd *this,int param_1)",
+      "original_symbol": "CFrameWnd::OnUpdateFrameTitle"
+    },
+    {
+      "original": "NAMED_L151775",
+      "rust": "recovered::adapters15::named_l151775",
+      "category": "adapters15",
+      "source_line": 151775,
+      "source_lines": 10,
+      "source_sha256": "a4905517f5199a7309d7c91447939e76d7d21231a35bf80cdcfb501f65aba129",
+      "original_signature": "int __thiscall CDialog::CheckAutoCenter(CDialog *this)",
+      "original_symbol": "CDialog::CheckAutoCenter"
+    },
+    {
+      "original": "NAMED_L153874",
+      "rust": "recovered::adapters15::named_l153874",
+      "category": "adapters15",
+      "source_line": 153874,
+      "source_lines": 10,
+      "source_sha256": "9b0357fb8d2b69fb3fa10112af66d36bc9133241f7c0285976a5b571ebdef847",
+      "original_signature": "int __thiscall CWinApp::InitApplication(CWinApp *this)",
+      "original_symbol": "CWinApp::InitApplication"
+    },
+    {
+      "original": "NAMED_L153887",
+      "rust": "recovered::adapters15::named_l153887",
+      "category": "adapters15",
+      "source_line": 153887,
+      "source_lines": 10,
+      "source_sha256": "e7dfcde9faff8eeeacb0f8a7e54801822049c1f046c2ddb2bdd778f3a7b37142",
+      "original_signature": "int __thiscall CWinApp::SaveAllModified(CWinApp *this)",
+      "original_symbol": "CWinApp::SaveAllModified"
+    },
+    {
+      "original": "NAMED_L154027",
+      "rust": "recovered::adapters15::named_l154027",
+      "category": "adapters15",
+      "source_line": 154027,
+      "source_lines": 10,
+      "source_sha256": "836ef6748316be9895c75def5052bc75e21235076b5d1aa599d3fea32b62a7f7",
+      "original_signature": "int __thiscall CWinApp::RestartInstance(CWinApp *this)",
+      "original_symbol": "CWinApp::RestartInstance"
+    },
+    {
+      "original": "NAMED_L154053",
+      "rust": "recovered::adapters15::named_l154053",
+      "category": "adapters15",
+      "source_line": 154053,
+      "source_lines": 10,
+      "source_sha256": "8d049d52211036f6d29413d5ffa6d6168363cd9929fe95989bacc533ff1ef427",
+      "original_signature": "int __thiscall CWinApp::LoadSysPolicies(CWinApp *this)",
+      "original_symbol": "CWinApp::LoadSysPolicies"
+    },
+    {
+      "original": "NAMED_L151109",
+      "rust": "recovered::adapters15::named_l151109",
+      "category": "adapters15",
+      "source_line": 151109,
+      "source_lines": 10,
+      "source_sha256": "55f47ad57fe0999b37bd312c5cd6e747577eb44b46c25f21fee6f7d0e8d9b4fa",
+      "original_signature": "int __thiscall CWnd::SetMenu(CWnd *this,CMenu *param_1)",
+      "original_symbol": "CWnd::SetMenu"
+    },
+    {
+      "original": "NAMED_L153617",
+      "rust": "recovered::adapters15::named_l153617",
+      "category": "adapters15",
+      "source_line": 153617,
+      "source_lines": 8,
+      "source_sha256": "7ff503edee3793c4afa77f17e1a08989323f094c2e387b5eef053538a6c9372a",
+      "original_signature": "void __thiscall CWinApp::WinHelpW(CWinApp *this,__uint64 param_1,uint param_2)",
+      "original_symbol": "CWinApp::WinHelpW"
+    },
+    {
+      "original": "NAMED_L110120",
+      "rust": "recovered::adapters15::named_l110120",
+      "category": "adapters15",
+      "source_line": 110120,
+      "source_lines": 10,
+      "source_sha256": "01c578bec31d24a23b29de7a3c313cf120cc2125d1a2fec272507ee392664066",
+      "original_signature": "CRuntimeClass * __cdecl CView::GetThisClass(void)",
+      "original_symbol": "CView::GetThisClass"
+    },
+    {
+      "original": "NAMED_L151359",
+      "rust": "recovered::adapters15::named_l151359",
+      "category": "adapters15",
+      "source_line": 151359,
+      "source_lines": 10,
+      "source_sha256": "e27c2c07e0303057ec22c95e6d0c02ba520620fb5fa2624f6dbd2cef25d34dd9",
+      "original_signature": "long __thiscall CWnd::get_accKeyboardShortcut(void)",
+      "original_symbol": "CWnd::get_accKeyboardShortcut"
+    },
+    {
+      "original": "NAMED_L152726",
+      "rust": "recovered::adapters15::named_l152726",
+      "category": "adapters15",
+      "source_line": 152726,
+      "source_lines": 8,
+      "source_sha256": "0cb375ba7b5751098c2cb3b7ba8d5e7d8705282c94f1d61edd2805a36165e289",
+      "original_signature": "void __thiscall COleDocument::PreCloseFrame(COleDocument *this,CFrameWnd *param_1)",
+      "original_symbol": "COleDocument::PreCloseFrame"
+    },
+    {
+      "original": "NAMED_L153512",
+      "rust": "recovered::adapters15::named_l153512",
+      "category": "adapters15",
+      "source_line": 153512,
+      "source_lines": 8,
+      "source_sha256": "d2b50e3064c0c36cf9c35840ecdc54402e7313a2c69787477bb34abc9e76cc8f",
+      "original_signature": "void __thiscall CFrameWnd::OnUpdateFrameMenu(CFrameWnd *this,HMENU__ *param_1)",
+      "original_symbol": "CFrameWnd::OnUpdateFrameMenu"
+    },
+    {
+      "original": "NAMED_L153937",
+      "rust": "recovered::adapters15::named_l153937",
+      "category": "adapters15",
+      "source_line": 153937,
+      "source_lines": 8,
+      "source_sha256": "0ccf88e985242d3b26c8ba35b96f0a5f88a7012c811ec5f976cb4ff46ca86a90",
+      "original_signature": "void __thiscall CWinApp::HtmlHelpW(CWinApp *this,__uint64 param_1,uint param_2)",
+      "original_symbol": "CWinApp::HtmlHelpW"
+    },
+    {
+      "original": "NAMED_L154233",
+      "rust": "recovered::adapters15::named_l154233",
+      "category": "adapters15",
+      "source_line": 154233,
+      "source_lines": 8,
+      "source_sha256": "611663497d7c8b986688c73a414a1e8173774b0648114f25f1fc70d77663a627",
+      "original_signature": "void __thiscall CDocTemplate::CloseAllDocuments(CDocTemplate *this,int param_1)",
+      "original_symbol": "CDocTemplate::CloseAllDocuments"
+    },
+    {
+      "original": "NAMED_L156813",
+      "rust": "recovered::adapters15::named_l156813",
+      "category": "adapters15",
+      "source_line": 156813,
+      "source_lines": 10,
+      "source_sha256": "9324def5b5076259aa8cf90dafbd57793c00889b49aaffbe0ade617aa0119802",
+      "original_signature": "int __thiscall std::basic_streambuf<>::sync(basic_streambuf<> *this)",
+      "original_symbol": "std::basic_streambuf<>::sync"
+    },
+    {
+      "original": "NAMED_L153580",
+      "rust": "recovered::adapters15::named_l153580",
+      "category": "adapters15",
+      "source_line": 153580,
+      "source_lines": 10,
+      "source_sha256": "f7c4b45660098e1b208e8d8d6f27079139f9f7ab9ce9d50f01ad665840312eb3",
+      "original_signature": "CWnd * __thiscall CWinThread::GetMainWnd(CWinThread *this)",
+      "original_symbol": "CWinThread::GetMainWnd"
+    },
+    {
+      "original": "NAMED_L153169",
+      "rust": "recovered::adapters15::named_l153169",
+      "category": "adapters15",
+      "source_line": 153169,
+      "source_lines": 8,
+      "source_sha256": "d5f669e90e7ddcce4fd980a72125d85dfdbe243e8c4aa4a1c550c97970ed89fe",
+      "original_signature": "void __thiscall COleServerDoc::OnNewEmbedding(COleServerDoc *this,IStorage *param_1)",
+      "original_symbol": "COleServerDoc::OnNewEmbedding"
+    },
+    {
+      "original": "NAMED_L153413",
+      "rust": "recovered::adapters15::named_l153413",
+      "category": "adapters15",
+      "source_line": 153413,
+      "source_lines": 8,
+      "source_sha256": "00b85ac99c0af982994a4376a406e6c6379682eff796d60246aa5ed600b2895c",
+      "original_signature": "void __thiscall CFrameWnd::SetMenuBarVisibility(CFrameWnd *this,ulong param_1)",
+      "original_symbol": "CFrameWnd::SetMenuBarVisibility"
+    },
+    {
+      "original": "NAMED_L93325",
+      "rust": "recovered::adapters15::named_l93325",
+      "category": "adapters15",
+      "source_line": 93325,
+      "source_lines": 10,
+      "source_sha256": "c414088f5aea5f13126cd75c9743b151dabad81208a8ec749bd0710fa0fbb5ca",
+      "original_signature": "CRuntimeClass * __cdecl CFrameWnd::GetThisClass(void)",
+      "original_symbol": "CFrameWnd::GetThisClass"
+    },
+    {
+      "original": "NAMED_L154295",
+      "rust": "recovered::adapters15::named_l154295",
+      "category": "adapters15",
+      "source_line": 154295,
+      "source_lines": 10,
+      "source_sha256": "5b8a385a95e53baf7dbb7e383fc01b7cae2e489854c85e9a7a41e92e697d9670",
+      "original_signature": "AFX_MSGMAP * __cdecl CView::GetThisMessageMap(void)",
+      "original_symbol": "CView::GetThisMessageMap"
+    },
+    {
+      "original": "NAMED_L157345",
+      "rust": "recovered::adapters15::named_l157345",
+      "category": "adapters15",
+      "source_line": 157345,
+      "source_lines": 10,
+      "source_sha256": "96e74235fc318961936f1e46c04a773e872e012ba6e1618c5f0b95c800779a16",
+      "original_signature": "int __cdecl memcmp(void *_Buf1,void *_Buf2,size_t _Size)",
+      "original_symbol": "memcmp"
+    },
+    {
+      "original": "NAMED_L151085",
+      "rust": "recovered::adapters15::named_l151085",
+      "category": "adapters15",
+      "source_line": 151085,
+      "source_lines": 8,
+      "source_sha256": "447b1fe00ea9f645f1130e5e79f389cb5f85bd72dc4166e2f4928ce76106692d",
+      "original_signature": "void __thiscall CWnd::CalcWindowRect(CWnd *this,tagRECT *param_1,uint param_2)",
+      "original_symbol": "CWnd::CalcWindowRect"
+    },
+    {
+      "original": "NAMED_L153180",
+      "rust": "recovered::adapters15::named_l153180",
+      "category": "adapters15",
+      "source_line": 153180,
+      "source_lines": 8,
+      "source_sha256": "e564f530ffae22029682c97626b249289934a091c20c96f5c403811c63cba538",
+      "original_signature": "void __thiscall COleServerDoc::OnOpenEmbedding(COleServerDoc *this,IStorage *param_1)",
+      "original_symbol": "COleServerDoc::OnOpenEmbedding"
+    },
+    {
+      "original": "NAMED_L153191",
+      "rust": "recovered::adapters15::named_l153191",
+      "category": "adapters15",
+      "source_line": 153191,
+      "source_lines": 8,
+      "source_sha256": "5ca6a536704bb16ac08cd6cd74c430eefd57a569a04f3cd4205af18ee2151e53",
+      "original_signature": "void __thiscall COleServerDoc::OnSaveEmbedding(COleServerDoc *this,IStorage *param_1)",
+      "original_symbol": "COleServerDoc::OnSaveEmbedding"
+    },
+    {
+      "original": "NAMED_L150569",
+      "rust": "recovered::adapters15::named_l150569",
+      "category": "adapters15",
+      "source_line": 150569,
+      "source_lines": 8,
+      "source_sha256": "8840949460f1ed61ec0c6f21008742fb84f75be7c606f009014b01aca37e9461",
+      "original_signature": "void __thiscall CEventPublisher::NotifyListeners(CEventPublisher *this,Event *param_1)",
+      "original_symbol": "CEventPublisher::NotifyListeners"
+    },
+    {
+      "original": "NAMED_L153450",
+      "rust": "recovered::adapters15::named_l153450",
+      "category": "adapters15",
+      "source_line": 153450,
+      "source_lines": 10,
+      "source_sha256": "54e146d29ce0b6ca46dec8043cf49dbbe8caa6c9f9649c0a875b275e4843a512",
+      "original_signature": "ulong __thiscall CFrameWnd::GetMenuBarState(CFrameWnd *this)",
+      "original_symbol": "CFrameWnd::GetMenuBarState"
+    },
+    {
+      "original": "NAMED_L153474",
+      "rust": "recovered::adapters15::named_l153474",
+      "category": "adapters15",
+      "source_line": 153474,
+      "source_lines": 10,
+      "source_sha256": "30f97001e5691ecbb35e225a7d926677ba21d3a5749b8b64cf571c31811bc610",
+      "original_signature": "CWnd * __thiscall CFrameWnd::GetMessageBar(CFrameWnd *this)",
+      "original_symbol": "CFrameWnd::GetMessageBar"
+    },
+    {
+      "original": "NAMED_L153536",
+      "rust": "recovered::adapters15::named_l153536",
+      "category": "adapters15",
+      "source_line": 153536,
+      "source_lines": 8,
+      "source_sha256": "7a73f69ef6c2a2ce490a0a0d58d085969ba38cbcd7a138bbd71030afe82ebed4",
+      "original_signature": "void __thiscall CFrameWnd::DelayUpdateFrameMenu(CFrameWnd *this,HMENU__ *param_1)",
+      "original_symbol": "CFrameWnd::DelayUpdateFrameMenu"
+    },
+    {
+      "original": "NAMED_L153604",
+      "rust": "recovered::adapters15::named_l153604",
+      "category": "adapters15",
+      "source_line": 153604,
+      "source_lines": 10,
+      "source_sha256": "252aec8d9e7759fa00e0100844282b0b7ab95fbcc71eec51f8744d5150a8f8f7",
+      "original_signature": "AFX_MSGMAP * __cdecl CWinApp::GetThisMessageMap(void)",
+      "original_symbol": "CWinApp::GetThisMessageMap"
+    },
+    {
+      "original": "NAMED_L157297",
+      "rust": "recovered::adapters15::named_l157297",
+      "category": "adapters15",
+      "source_line": 157297,
+      "source_lines": 10,
+      "source_sha256": "df86132298d264d0f13eb84ea2f0c47c6837c7014d20a50ec6196cb903183d3a",
+      "original_signature": "void * __cdecl memset(void *_Dst,int _Val,size_t _Size)",
+      "original_symbol": "memset"
+    },
+    {
+      "original": "NAMED_L66506",
+      "rust": "recovered::adapters15::named_l66506",
+      "category": "adapters15",
+      "source_line": 66506,
+      "source_lines": 10,
+      "source_sha256": "c19c6f73fb7fb6f565db28df34c386a6446fec61f4d5f673701c38b72b91481e",
+      "original_signature": "CRuntimeClass * __cdecl CPrintDialog::GetThisClass(void)",
+      "original_symbol": "CPrintDialog::GetThisClass"
+    },
+    {
+      "original": "NAMED_L70810",
+      "rust": "recovered::adapters15::named_l70810",
+      "category": "adapters15",
+      "source_line": 70810,
+      "source_lines": 10,
+      "source_sha256": "5a4d6a5831431ea95f52477ff8b79bb154c9e619253ad266dd1deb498b2619c9",
+      "original_signature": "CRuntimeClass * __cdecl CPreviewView::GetThisClass(void)",
+      "original_symbol": "CPreviewView::GetThisClass"
+    },
+    {
+      "original": "NAMED_L150547",
+      "rust": "recovered::adapters15::named_l150547",
+      "category": "adapters15",
+      "source_line": 150547,
+      "source_lines": 8,
+      "source_sha256": "c7b5ae7ab432e0aab527aa64a9d0fc9c9b7c9d85246af9144a6a3ae3c6cf99fd",
+      "original_signature": "void __thiscall CEventPublisher::AddListener(CEventPublisher *this,IPaintListener *param_1)",
+      "original_symbol": "CEventPublisher::AddListener"
+    },
+    {
+      "original": "NAMED_L151170",
+      "rust": "recovered::adapters15::named_l151170",
+      "category": "adapters15",
+      "source_line": 151170,
+      "source_lines": 8,
+      "source_sha256": "7840847be3bf91005d6fdc41b631893d1b0e4d34c8f5f71e8193e6efc1da5848",
+      "original_signature": "void __thiscall CWnd::WinHelpInternal(CWnd *this,__uint64 param_1,uint param_2)",
+      "original_symbol": "CWnd::WinHelpInternal"
+    },
+    {
+      "original": "NAMED_L151943",
+      "rust": "recovered::adapters15::named_l151943",
+      "category": "adapters15",
+      "source_line": 151943,
+      "source_lines": 8,
+      "source_sha256": "6adc15c45704fae0f2da0e0bcc9be588bd0b69a1aa8b888e7f6f84a9f0b336e3",
+      "original_signature": "void __thiscall CView::CalcWindowRect(CView *this,tagRECT *param_1,uint param_2)",
+      "original_symbol": "CView::CalcWindowRect"
+    },
+    {
+      "original": "NAMED_L153062",
+      "rust": "recovered::adapters15::named_l153062",
+      "category": "adapters15",
+      "source_line": 153062,
+      "source_lines": 8,
+      "source_sha256": "20d6e08e0a16e0c386795360f88ed253b8ae1312fefe39b12f0b5e79b23149a0",
+      "original_signature": "void __thiscall COleServerDoc::OnDocWindowActivate(COleServerDoc *this,int param_1)",
+      "original_symbol": "COleServerDoc::OnDocWindowActivate"
+    },
+    {
+      "original": "NAMED_L154493",
+      "rust": "recovered::adapters15::named_l154493",
+      "category": "adapters15",
+      "source_line": 154493,
+      "source_lines": 8,
+      "source_sha256": "570847957a56e540bc91222626df5d8bd3e1e8ca0915a5ab3eef6ab4d6ca195a",
+      "original_signature": "void __thiscall COleServerItem::OnSaveEmbedding(COleServerItem *this,IStorage *param_1)",
+      "original_symbol": "COleServerItem::OnSaveEmbedding"
+    },
+    {
+      "original": "NAMED_L84276",
+      "rust": "recovered::adapters15::named_l84276",
+      "category": "adapters15",
+      "source_line": 84276,
+      "source_lines": 10,
+      "source_sha256": "676a2285eb53d35d7d5db0405afeb836ec96aede596f8150743928d4df9c4945",
+      "original_signature": "CRuntimeClass * __cdecl COleServerDoc::GetThisClass(void)",
+      "original_symbol": "COleServerDoc::GetThisClass"
+    },
+    {
+      "original": "NAMED_L150747",
+      "rust": "recovered::adapters15::named_l150747",
+      "category": "adapters15",
+      "source_line": 150747,
+      "source_lines": 8,
+      "source_sha256": "6abdc3ba33225f90c83df8af79a18b30e69c13017a752afd40863b38562834e5",
+      "original_signature": "void __thiscall CView::OnEndPrinting(CView *this,CDC *param_1,CPrintInfo *param_2)",
+      "original_symbol": "CView::OnEndPrinting"
+    },
+    {
+      "original": "NAMED_L150846",
+      "rust": "recovered::adapters15::named_l150846",
+      "category": "adapters15",
+      "source_line": 150846,
+      "source_lines": 10,
+      "source_sha256": "1065d8aa4f58b3632debb40548e649fe26bab7bcd7ebf1b70cb57fa4da6bf60f",
+      "original_signature": "uint __thiscall CCmdTarget::GetTypeInfoCount(CCmdTarget *this)",
+      "original_symbol": "CCmdTarget::GetTypeInfoCount"
+    },
+    {
+      "original": "NAMED_L152306",
+      "rust": "recovered::adapters15::named_l152306",
+      "category": "adapters15",
+      "source_line": 152306,
+      "source_lines": 10,
+      "source_sha256": "d93b2deaea480ac983c278e35fcbcbf54973cd717f84f92b490215de245a4ee5",
+      "original_signature": "AFX_MSGMAP * __thiscall CWnd::GetMessageMap(CWnd *this)",
+      "original_symbol": "CWnd::GetMessageMap"
+    },
+    {
+      "original": "NAMED_L152581",
+      "rust": "recovered::adapters15::named_l152581",
+      "category": "adapters15",
+      "source_line": 152581,
+      "source_lines": 8,
+      "source_sha256": "e5fdb427673fb2c89c0470c14b82521a8eeb64329578fb21ff69743bd05832f6",
+      "original_signature": "void __thiscall CDocument::RemoveChunk(CDocument *this,_GUID *param_1,ulong param_2)",
+      "original_symbol": "CDocument::RemoveChunk"
+    },
+    {
+      "original": "NAMED_L153213",
+      "rust": "recovered::adapters15::named_l153213",
+      "category": "adapters15",
+      "source_line": 153213,
+      "source_lines": 10,
+      "source_sha256": "aa0bdbddf0b5c2390cfbad3f839743cf07e1ab8acb670f1ae8f88e1d815f9ae9",
+      "original_signature": "AFX_MSGMAP * __cdecl CFrameWnd::GetThisMessageMap(void)",
+      "original_symbol": "CFrameWnd::GetThisMessageMap"
+    },
+    {
+      "original": "NAMED_L154144",
+      "rust": "recovered::adapters15::named_l154144",
+      "category": "adapters15",
+      "source_line": 154144,
+      "source_lines": 8,
+      "source_sha256": "18fd675fbee1b04cad1a36d8413326003775c8edc4c16c799265778697854cc5",
+      "original_signature": "void __thiscall CSingleDocTemplate::AddDocument(CSingleDocTemplate *this,CDocument *param_1)",
+      "original_symbol": "CSingleDocTemplate::AddDocument"
+    },
+    {
+      "original": "NAMED_L154220",
+      "rust": "recovered::adapters15::named_l154220",
+      "category": "adapters15",
+      "source_line": 154220,
+      "source_lines": 10,
+      "source_sha256": "fd0b1537bddbbddb673a142e2203356935670abda8b8a06685f075748395d1e1",
+      "original_signature": "int __thiscall CDocTemplate::SaveAllModified(CDocTemplate *this)",
+      "original_symbol": "CDocTemplate::SaveAllModified"
+    },
+    {
+      "original": "NAMED_L157358",
+      "rust": "recovered::adapters15::named_l157358",
+      "category": "adapters15",
+      "source_line": 157358,
+      "source_lines": 10,
+      "source_sha256": "a0294ab93179377f610664ae107f9a7138f736a4230a1a4b50806dc5fa032c7c",
+      "original_signature": "void * __cdecl memcpy(void *_Dst,void *_Src,size_t _Size)",
+      "original_symbol": "memcpy"
+    },
+    {
+      "original": "NAMED_L121791",
+      "rust": "recovered::adapters15::named_l121791",
+      "category": "adapters15",
+      "source_line": 121791,
+      "source_lines": 10,
+      "source_sha256": "c5bc775fb217210521165d36655dd5c86040d937624694496f35b5ea98cdb54d",
+      "original_signature": "CRuntimeClass * __cdecl COleServerItem::GetThisClass(void)",
+      "original_symbol": "COleServerItem::GetThisClass"
+    },
+    {
+      "original": "NAMED_L150630",
+      "rust": "recovered::adapters15::named_l150630",
+      "category": "adapters15",
+      "source_line": 150630,
+      "source_lines": 10,
+      "source_sha256": "0592b3845e839fe7ba038ad044d19cb055f5e4e09bb115dc995c7cf1cadb1f9a",
+      "original_signature": "AFX_MODULE_STATE * __cdecl AfxGetModuleState(void)",
+      "original_symbol": "AfxGetModuleState"
+    },
+    {
+      "original": "NAMED_L152030",
+      "rust": "recovered::adapters15::named_l152030",
+      "category": "adapters15",
+      "source_line": 152030,
+      "source_lines": 10,
+      "source_sha256": "03b537f7e6a1dcdbd47b20b024a45a8bf601481bda1061fa36789e3bd2cd5492",
+      "original_signature": "int __thiscall CView::IsSelected(CView *this,CObject *param_1)",
+      "original_symbol": "CView::IsSelected"
+    },
+    {
+      "original": "NAMED_L153293",
+      "rust": "recovered::adapters15::named_l153293",
+      "category": "adapters15",
+      "source_line": 153293,
+      "source_lines": 10,
+      "source_sha256": "9e5ecfc246dd4a8c24f99c5cbbf35aab6cf771ed58c3c2e4255a60345eeacc8a",
+      "original_signature": "int __thiscall CFrameWnd::SetMenu(CFrameWnd *this,CMenu *param_1)",
+      "original_symbol": "CFrameWnd::SetMenu"
+    },
+    {
+      "original": "NAMED_L156861",
+      "rust": "recovered::adapters15::named_l156861",
+      "category": "adapters15",
+      "source_line": 156861,
+      "source_lines": 10,
+      "source_sha256": "fb5eb499829bec75b70bb6d51ec16009f8363e3d4c458ab35e5c32744fb3b37d",
+      "original_signature": "ushort __thiscall std::basic_streambuf<>::uflow(basic_streambuf<> *this)",
+      "original_symbol": "std::basic_streambuf<>::uflow"
+    },
+    {
+      "original": "NAMED_L150963",
+      "rust": "recovered::adapters15::named_l150963",
+      "category": "adapters15",
+      "source_line": 150963,
+      "source_lines": 10,
+      "source_sha256": "11202fe30068faa3ca3eed3b620f8f03596e70f89b2ea2820354cfa0704125ba",
+      "original_signature": "int __thiscall CCmdTarget::OnCreateAggregates(CCmdTarget *this)",
+      "original_symbol": "CCmdTarget::OnCreateAggregates"
+    },
+    {
+      "original": "NAMED_L157332",
+      "rust": "recovered::adapters15::named_l157332",
+      "category": "adapters15",
+      "source_line": 157332,
+      "source_lines": 10,
+      "source_sha256": "852547abeb2c0bb5de57ec112db597f52a16f2f441dc7c2bd1fa6db5f0c2f934",
+      "original_signature": "void * __cdecl memmove(void *_Dst,void *_Src,size_t _Size)",
+      "original_symbol": "memmove"
+    },
+    {
+      "original": "NAMED_L152156",
+      "rust": "recovered::adapters15::named_l152156",
+      "category": "adapters15",
+      "source_line": 152156,
+      "source_lines": 8,
+      "source_sha256": "43b337dbb1403b0ec05703ddae20ad120f8cf84f5a7a5e8daf6b3d88fd152bd2",
+      "original_signature": "void __thiscall CView::OnActivateFrame(CView *this,uint param_1,CFrameWnd *param_2)",
+      "original_symbol": "CView::OnActivateFrame"
+    },
+    {
+      "original": "NAMED_L152319",
+      "rust": "recovered::adapters15::named_l152319",
+      "category": "adapters15",
+      "source_line": 152319,
+      "source_lines": 10,
+      "source_sha256": "4d687110bdd53fd27611e153911429a1feb2b69e8e0150d3052bb128810fd72b",
+      "original_signature": "AFX_MSGMAP * __cdecl CPreviewView::GetThisMessageMap(void)",
+      "original_symbol": "CPreviewView::GetThisMessageMap"
+    },
+    {
+      "original": "NAMED_L153108",
+      "rust": "recovered::adapters15::named_l153108",
+      "category": "adapters15",
+      "source_line": 153108,
+      "source_lines": 8,
+      "source_sha256": "a34c055784483399a66c71f400365baecc9f2049f74b3180509a1eb44013420e",
+      "original_signature": "void __thiscall COleServerDoc::OnFrameWindowActivate(COleServerDoc *this,int param_1)",
+      "original_symbol": "COleServerDoc::OnFrameWindowActivate"
+    },
+    {
+      "original": "NAMED_L150736",
+      "rust": "recovered::adapters15::named_l150736",
+      "category": "adapters15",
+      "source_line": 150736,
+      "source_lines": 8,
+      "source_sha256": "a6b566bb3fb5e10b62510c623e3518c5636a5805660d18a59a61e887eb96577e",
+      "original_signature": "void __thiscall CView::OnBeginPrinting(CView *this,CDC *param_1,CPrintInfo *param_2)",
+      "original_symbol": "CView::OnBeginPrinting"
+    },
+    {
+      "original": "NAMED_L152446",
+      "rust": "recovered::adapters15::named_l152446",
+      "category": "adapters15",
+      "source_line": 152446,
+      "source_lines": 10,
+      "source_sha256": "162f885033e2ebdc9623d2fe147143a46cb5a81fcafcbf7e6302d7e5a19ebb06",
+      "original_signature": "AFX_MSGMAP * __cdecl COleServerDoc::GetThisMessageMap(void)",
+      "original_symbol": "COleServerDoc::GetThisMessageMap"
+    },
+    {
+      "original": "NAMED_L152814",
+      "rust": "recovered::adapters15::named_l152814",
+      "category": "adapters15",
+      "source_line": 152814,
+      "source_lines": 10,
+      "source_sha256": "ec49d884e32e2d348bedec8aada8f59e5d98930d22a9194850a7d7c3e13d1a59",
+      "original_signature": "int __thiscall CDocument::OnCreatePreviewFrame(CDocument *this)",
+      "original_symbol": "CDocument::OnCreatePreviewFrame"
+    },
+    {
+      "original": "NAMED_L150558",
+      "rust": "recovered::adapters15::named_l150558",
+      "category": "adapters15",
+      "source_line": 150558,
+      "source_lines": 8,
+      "source_sha256": "240da9dfe3723f102ce09a86d9f743489b9705920dd2871851ee474d29e5ca1a",
+      "original_signature": "void __thiscall CEventPublisher::RemoveListener(CEventPublisher *this,IPaintListener *param_1)",
+      "original_symbol": "CEventPublisher::RemoveListener"
+    },
+    {
+      "original": "NAMED_L153948",
+      "rust": "recovered::adapters15::named_l153948",
+      "category": "adapters15",
+      "source_line": 153948,
+      "source_lines": 8,
+      "source_sha256": "273e3a48871736761d4aadc0d51b0c195ad6da7ec6bab76e1023af503c59fd94",
+      "original_signature": "void __thiscall CWinApp::WinHelpInternal(CWinApp *this,__uint64 param_1,uint param_2)",
+      "original_symbol": "CWinApp::WinHelpInternal"
+    },
+    {
+      "original": "NAMED_L157253",
+      "rust": "recovered::adapters15::named_l157253",
+      "category": "adapters15",
+      "source_line": 157253,
+      "source_lines": 10,
+      "source_sha256": "fd994d1e6c867e7d410f0130b469ca634a4b89fca3c187e6a7b1effc58f13f6a",
+      "original_signature": "_Facet_base * __thiscall std::locale::facet::_Decref(facet *this)",
+      "original_symbol": "std::locale::facet::_Decref"
+    },
+    {
+      "original": "NAMED_L150885",
+      "rust": "recovered::adapters15::named_l150885",
+      "category": "adapters15",
+      "source_line": 150885,
+      "source_lines": 10,
+      "source_sha256": "021e0c3df6cc970d8b88d2a3be2477dd95a017620f79dd4e48918a36d2c34b91",
+      "original_signature": "AFX_MSGMAP * __thiscall CDialog::GetMessageMap(CDialog *this)",
+      "original_symbol": "CDialog::GetMessageMap"
+    },
+    {
+      "original": "NAMED_L151502",
+      "rust": "recovered::adapters15::named_l151502",
+      "category": "adapters15",
+      "source_line": 151502,
+      "source_lines": 10,
+      "source_sha256": "6d3606419dcb30854cd2cbb0b833559ce8bcd3613b6fd3f8def2f26d39190cf3",
+      "original_signature": "long __thiscall CWnd::SetProxy(CWnd *this,IAccessibleProxy *param_1)",
+      "original_symbol": "CWnd::SetProxy"
+    },
+    {
+      "original": "NAMED_L152496",
+      "rust": "recovered::adapters15::named_l152496",
+      "category": "adapters15",
+      "source_line": 152496,
+      "source_lines": 8,
+      "source_sha256": "fa54353be412994fa7620c243927e63bd37918b4abf673b17cdb22dac4a568e6",
+      "original_signature": "void __thiscall COleDocument::SetPathName(COleDocument *this,wchar_t *param_1,int param_2)",
+      "original_symbol": "COleDocument::SetPathName"
+    },
+    {
+      "original": "NAMED_L154155",
+      "rust": "recovered::adapters15::named_l154155",
+      "category": "adapters15",
+      "source_line": 154155,
+      "source_lines": 8,
+      "source_sha256": "fc5e854a5ba0182e1c53187238a98874aec3714098f660188b4cca735ce071f2",
+      "original_signature": "void __thiscall CSingleDocTemplate::RemoveDocument(CSingleDocTemplate *this,CDocument *param_1)",
+      "original_symbol": "CSingleDocTemplate::RemoveDocument"
+    },
+    {
+      "original": "NAMED_L157782",
+      "rust": "recovered::adapters15::named_l157782",
+      "category": "adapters15",
+      "source_line": 157782,
+      "source_lines": 10,
+      "source_sha256": "6824ac3eef7805ce5231eca4897a7f9f0ff0b1b709497a80ec6cbaef44f010a5",
+      "original_signature": "HRESULT __stdcall CoGetObjectContext(IID *riid,LPVOID *ppv)",
+      "original_symbol": "CoGetObjectContext"
+    },
+    {
+      "original": "NAMED_L151372",
+      "rust": "recovered::adapters15::named_l151372",
+      "category": "adapters15",
+      "source_line": 151372,
+      "source_lines": 10,
+      "source_sha256": "67570255f61a8f60c69a61ab6ccb3271df03ebb30f9b63ed2441de6ece767553",
+      "original_signature": "long __thiscall CWnd::get_accFocus(CWnd *this,tagVARIANT *param_1)",
+      "original_symbol": "CWnd::get_accFocus"
+    },
+    {
+      "original": "NAMED_L153424",
+      "rust": "recovered::adapters15::named_l153424",
+      "category": "adapters15",
+      "source_line": 153424,
+      "source_lines": 10,
+      "source_sha256": "1325a3443c5406430561b0193d6bcbacfd61bf3e9b07694dbb5339deb315a063",
+      "original_signature": "ulong __thiscall CFrameWnd::GetMenuBarVisibility(CFrameWnd *this)",
+      "original_symbol": "CFrameWnd::GetMenuBarVisibility"
+    },
+    {
+      "original": "NAMED_L154273",
+      "rust": "recovered::adapters15::named_l154273",
+      "category": "adapters15",
+      "source_line": 154273,
+      "source_lines": 8,
+      "source_sha256": "8a7ad31e2982c23457f3679d41800742538141ea15a909e6f906636c101b1933",
+      "original_signature": "void __thiscall CSingleDocTemplate::SetDefaultTitle(CSingleDocTemplate *this,CDocument *param_1)",
+      "original_symbol": "CSingleDocTemplate::SetDefaultTitle"
+    },
+    {
+      "original": "NAMED_L150090",
+      "rust": "recovered::adapters15::named_l150090",
+      "category": "adapters15",
+      "source_line": 150090,
+      "source_lines": 10,
+      "source_sha256": "a09f2af79a633255e79c726b6369ea3abb01282c2a7560a88ebcd3c00ff645c3",
+      "original_signature": "BOOL __stdcall HeapFree(HANDLE hHeap,DWORD dwFlags,LPVOID lpMem)",
+      "original_symbol": "HeapFree"
+    },
+    {
+      "original": "NAMED_L152838",
+      "rust": "recovered::adapters15::named_l152838",
+      "category": "adapters15",
+      "source_line": 152838,
+      "source_lines": 8,
+      "source_sha256": "869259c1ea87dd8e46fc8daa6351562f4bf2e43b0b7327dd42be7e0fa79bd3cf",
+      "original_signature": "void __thiscall CDocument::OnDrawThumbnail(CDocument *this,CDC *param_1,tagRECT *param_2)",
+      "original_symbol": "CDocument::OnDrawThumbnail"
+    },
+    {
+      "original": "NAMED_L153924",
+      "rust": "recovered::adapters15::named_l153924",
+      "category": "adapters15",
+      "source_line": 153924,
+      "source_lines": 10,
+      "source_sha256": "964cf6697bd8f097a0cc018f8860bca261540e9cd910ca025d14e62078eef9e5",
+      "original_signature": "int __thiscall CWinApp::OnDDECommand(CWinApp *this,wchar_t *param_1)",
+      "original_symbol": "CWinApp::OnDDECommand"
+    },
+    {
+      "original": "NAMED_L151229",
+      "rust": "recovered::adapters15::named_l151229",
+      "category": "adapters15",
+      "source_line": 151229,
+      "source_lines": 10,
+      "source_sha256": "df28a00082adffb483ac35d78945929c61fe464eecc9e73fe46c509134770ff8",
+      "original_signature": "long __thiscall CWnd::get_accParent(CWnd *this,IDispatch **param_1)",
+      "original_symbol": "CWnd::get_accParent"
+    },
+    {
+      "original": "NAMED_L152278",
+      "rust": "recovered::adapters15::named_l152278",
+      "category": "adapters15",
+      "source_line": 152278,
+      "source_lines": 10,
+      "source_sha256": "67e35fded47a9125712c9cdd3e4e6a93d4be90006076caedcbd9288e1d89be04",
+      "original_signature": "CRuntimeClass * __thiscall CWnd::GetRuntimeClass(CWnd *this)",
+      "original_symbol": "CWnd::GetRuntimeClass"
+    },
+    {
+      "original": "NAMED_L152369",
+      "rust": "recovered::adapters15::named_l152369",
+      "category": "adapters15",
+      "source_line": 152369,
+      "source_lines": 8,
+      "source_sha256": "bd18ebe051e77b0a8046201a92ff40a78ee82be099c0b2bb005ec9900627f0f4",
+      "original_signature": "void __thiscall CPreviewView::OnPrepareDC(CPreviewView *this,CDC *param_1,CPrintInfo *param_2)",
+      "original_symbol": "CPreviewView::OnPrepareDC"
+    },
+    {
+      "original": "NAMED_L153095",
+      "rust": "recovered::adapters15::named_l153095",
+      "category": "adapters15",
+      "source_line": 153095,
+      "source_lines": 10,
+      "source_sha256": "5d0809b169558137a5117c4abe3aa9ad4bfa0bb9b67266d5442201cc63deedd0",
+      "original_signature": "int __thiscall COleServerDoc::OnReactivateAndUndo(COleServerDoc *this)",
+      "original_symbol": "COleServerDoc::OnReactivateAndUndo"
+    },
+    {
+      "original": "NAMED_L153378",
+      "rust": "recovered::adapters15::named_l153378",
+      "category": "adapters15",
+      "source_line": 153378,
+      "source_lines": 10,
+      "source_sha256": "d412d309f3dd004e0832ae52c6d885a1018f899489e852223c847274bbf50438",
+      "original_signature": "CFrameWnd * __thiscall CFrameWnd::GetActiveFrame(CFrameWnd *this)",
+      "original_symbol": "CFrameWnd::GetActiveFrame"
+    },
+    {
+      "original": "NAMED_L154412",
+      "rust": "recovered::adapters15::named_l154412",
+      "category": "adapters15",
+      "source_line": 154412,
+      "source_lines": 10,
+      "source_sha256": "f2559c8489df56a93ff3be267a26c04c5a55014db2aa5a89456ba956571a64d8",
+      "original_signature": "int __thiscall COleServerItem::OnQueryUpdateItems(COleServerItem *this)",
+      "original_symbol": "COleServerItem::OnQueryUpdateItems"
+    },
+    {
+      "original": "NAMED_L152191",
+      "rust": "recovered::adapters15::named_l152191",
+      "category": "adapters15",
+      "source_line": 152191,
+      "source_lines": 10,
+      "source_sha256": "b620615acfafee2192b82a29ce843d25e81e5ddaf4f75bebb47db81eefb5fb76",
+      "original_signature": "AFX_INTERFACEMAP * __cdecl CWnd::GetThisInterfaceMap(void)",
+      "original_symbol": "CWnd::GetThisInterfaceMap"
+    },
+    {
+      "original": "NAMED_L152332",
+      "rust": "recovered::adapters15::named_l152332",
+      "category": "adapters15",
+      "source_line": 152332,
+      "source_lines": 8,
+      "source_sha256": "196be9c6a8ab5ee891665813fbf67eaa26df19ec2abaed732a060b26044bb9f0",
+      "original_signature": "void __thiscall CScrollView::CalcWindowRect(CScrollView *this,tagRECT *param_1,uint param_2)",
+      "original_symbol": "CScrollView::CalcWindowRect"
+    },
+    {
+      "original": "NAMED_L153132",
+      "rust": "recovered::adapters15::named_l153132",
+      "category": "adapters15",
+      "source_line": 153132,
+      "source_lines": 8,
+      "source_sha256": "8a933474022ffeaf17ae6c5ab7270e224dec6f8c54be8bda601c0b6843677660",
+      "original_signature": "void __thiscall COleServerDoc::DestroyInPlaceFrame(COleServerDoc *this,COleIPFrameWnd *param_1)",
+      "original_symbol": "COleServerDoc::DestroyInPlaceFrame"
+    },
+    {
+      "original": "NAMED_L156848",
+      "rust": "recovered::adapters15::named_l156848",
+      "category": "adapters15",
+      "source_line": 156848,
+      "source_lines": 10,
+      "source_sha256": "f59a045e3c6a05a89d12203ebbbc6d64e16c032914b99defd8d1a876c5dcac21",
+      "original_signature": "__int64 __thiscall std::basic_streambuf<>::showmanyc(basic_streambuf<> *this)",
+      "original_symbol": "std::basic_streambuf<>::showmanyc"
+    },
+    {
+      "original": "NAMED_L151242",
+      "rust": "recovered::adapters15::named_l151242",
+      "category": "adapters15",
+      "source_line": 151242,
+      "source_lines": 10,
+      "source_sha256": "f1d5336a48e49fce61ee3e2b43bbc89b73cefe05137cb808a7bd724a24dd5cd7",
+      "original_signature": "long __thiscall CWnd::get_accChildCount(CWnd *this,long *param_1)",
+      "original_symbol": "CWnd::get_accChildCount"
+    },
+    {
+      "original": "NAMED_L154094",
+      "rust": "recovered::adapters15::named_l154094",
+      "category": "adapters15",
+      "source_line": 154094,
+      "source_lines": 10,
+      "source_sha256": "cf2a97c82c1f56edb168dd3ed38a0326b5ed00ca4b303994a648f64f2adb2ac2",
+      "original_signature": "AFX_MSGMAP * __thiscall CCmdTarget::GetMessageMap(CCmdTarget *this)",
+      "original_symbol": "CCmdTarget::GetMessageMap"
+    },
+    {
+      "original": "NAMED_L152167",
+      "rust": "recovered::adapters15::named_l152167",
+      "category": "adapters15",
+      "source_line": 152167,
+      "source_lines": 8,
+      "source_sha256": "8b5e6c2ec42cf63ce9dd753dd6d63352158b4792aad19bab68b083fdec165a17",
+      "original_signature": "void __thiscall CView::OnUpdate(CView *this,CView *param_1,__int64 param_2,CObject *param_3)",
+      "original_symbol": "CView::OnUpdate"
+    },
+    {
+      "original": "NAMED_L152737",
+      "rust": "recovered::adapters15::named_l152737",
+      "category": "adapters15",
+      "source_line": 152737,
+      "source_lines": 10,
+      "source_sha256": "f53e168bab5fd44105fc8eb02aef50a9fa756bf6f1160a4958e187ca61bd0fc3",
+      "original_signature": "HMENU__ * __thiscall COleServerDoc::GetDefaultMenu(COleServerDoc *this)",
+      "original_symbol": "COleServerDoc::GetDefaultMenu"
+    },
+    {
+      "original": "NAMED_L153391",
+      "rust": "recovered::adapters15::named_l153391",
+      "category": "adapters15",
+      "source_line": 153391,
+      "source_lines": 8,
+      "source_sha256": "83793efa4561c259ae3d0542ae17f8a72948ae98b05bb359e6b9e9456bd4d162",
+      "original_signature": "void __thiscall CFrameWnd::GetMessageString(CFrameWnd *this,uint param_1,CStringT<> *param_2)",
+      "original_symbol": "CFrameWnd::GetMessageString"
+    },
+    {
+      "original": "NAMED_L154014",
+      "rust": "recovered::adapters15::named_l154014",
+      "category": "adapters15",
+      "source_line": 154014,
+      "source_lines": 10,
+      "source_sha256": "cf557bb694cd7e066d6e1320f7168085b850e6ed5caa62afa2c923acc5002011",
+      "original_signature": "int __thiscall CWinApp::IsTaskbarInteractionEnabled(CWinApp *this)",
+      "original_symbol": "CWinApp::IsTaskbarInteractionEnabled"
+    },
+    {
+      "original": "NAMED_L70888",
+      "rust": "recovered::adapters15::named_l70888",
+      "category": "adapters15",
+      "source_line": 70888,
+      "source_lines": 10,
+      "source_sha256": "0cfa1131036803c1586a3224c940321ed83fd81e226f1df9ec170d1f5e5db4d5",
+      "original_signature": "int __thiscall CWnd::PreTranslateMessage(CWnd *this,tagMSG *param_1)",
+      "original_symbol": "CWnd::PreTranslateMessage"
+    },
+    {
+      "original": "NAMED_L150604",
+      "rust": "recovered::adapters15::named_l150604",
+      "category": "adapters15",
+      "source_line": 150604,
+      "source_lines": 10,
+      "source_sha256": "6610bf7173322ebac7e9d075342e901226556f63a7362fa0622a333dab08bb07",
+      "original_signature": "CRuntimeClass * __thiscall CBitmap::GetRuntimeClass(CBitmap *this)",
+      "original_symbol": "CBitmap::GetRuntimeClass"
+    },
+    {
+      "original": "NAMED_L150782",
+      "rust": "recovered::adapters15::named_l150782",
+      "category": "adapters15",
+      "source_line": 150782,
+      "source_lines": 10,
+      "source_sha256": "aa95467c3d3666c6618cd615fa4c25bd35e7a91cf0e1c123fd74d5ed6d250c73",
+      "original_signature": "CRuntimeClass * __thiscall CDialog::GetRuntimeClass(CDialog *this)",
+      "original_symbol": "CDialog::GetRuntimeClass"
+    },
+    {
+      "original": "NAMED_L150911",
+      "rust": "recovered::adapters15::named_l150911",
+      "category": "adapters15",
+      "source_line": 150911,
+      "source_lines": 10,
+      "source_sha256": "65aaca97d9cb5319082e121f954021f436367f59269995be7803a997fe5def5d",
+      "original_signature": "AFX_DISPMAP * __thiscall CCmdTarget::GetDispatchMap(CCmdTarget *this)",
+      "original_symbol": "CCmdTarget::GetDispatchMap"
+    },
+    {
+      "original": "NAMED_L150937",
+      "rust": "recovered::adapters15::named_l150937",
+      "category": "adapters15",
+      "source_line": 150937,
+      "source_lines": 10,
+      "source_sha256": "24bdc4248f154df42eefb7c01d8b257aa15ec634b7402cc15f08618c50cee5f6",
+      "original_signature": "AFX_INTERFACEMAP * __thiscall CWnd::GetInterfaceMap(CWnd *this)",
+      "original_symbol": "CWnd::GetInterfaceMap"
+    },
+    {
+      "original": "NAMED_L151385",
+      "rust": "recovered::adapters15::named_l151385",
+      "category": "adapters15",
+      "source_line": 151385,
+      "source_lines": 10,
+      "source_sha256": "7e65f96120aa355284d7921f1b057b5a0da47798289d1710deb77e23e7ed82a7",
+      "original_signature": "long __thiscall CWnd::get_accSelection(CWnd *this,tagVARIANT *param_1)",
+      "original_symbol": "CWnd::get_accSelection"
+    },
+    {
+      "original": "NAMED_L151967",
+      "rust": "recovered::adapters15::named_l151967",
+      "category": "adapters15",
+      "source_line": 151967,
+      "source_lines": 10,
+      "source_sha256": "2077905daaab22a3fcbb26d34e65d9a0bba9208cd24fd351d7fad773e317b4bf",
+      "original_signature": "int __thiscall CWnd::PreTranslateMessage(CWnd *this,tagMSG *param_1)",
+      "original_symbol": "CWnd::PreTranslateMessage"
+    },
+    {
+      "original": "NAMED_L152252",
+      "rust": "recovered::adapters15::named_l152252",
+      "category": "adapters15",
+      "source_line": 152252,
+      "source_lines": 10,
+      "source_sha256": "04574fdbe580506903eb65aac3b4eeb7885865e6eda4e28164c787f4431dc300",
+      "original_signature": "AFX_MSGMAP * __thiscall CPrintDialog::GetMessageMap(CPrintDialog *this)",
+      "original_symbol": "CPrintDialog::GetMessageMap"
+    },
+    {
+      "original": "NAMED_L153365",
+      "rust": "recovered::adapters15::named_l153365",
+      "category": "adapters15",
+      "source_line": 153365,
+      "source_lines": 10,
+      "source_sha256": "d0dcd7dcb1aa38c371cb29282f41b3172b544909f7599da8c3a8e915d399c938",
+      "original_signature": "CDocument * __thiscall CFrameWnd::GetActiveDocument(CFrameWnd *this)",
+      "original_symbol": "CFrameWnd::GetActiveDocument"
+    },
+    {
+      "original": "NAMED_L153437",
+      "rust": "recovered::adapters15::named_l153437",
+      "category": "adapters15",
+      "source_line": 153437,
+      "source_lines": 10,
+      "source_sha256": "d2ab26bbec9ae77c222d83ed3d578d73e02f7bc97a0a90b42882eb80e7a7f645",
+      "original_signature": "int __thiscall CFrameWnd::SetMenuBarState(CFrameWnd *this,ulong param_1)",
+      "original_symbol": "CFrameWnd::SetMenuBarState"
+    },
+    {
+      "original": "NAMED_L153628",
+      "rust": "recovered::adapters15::named_l153628",
+      "category": "adapters15",
+      "source_line": 153628,
+      "source_lines": 10,
+      "source_sha256": "226a87c45428e3ca63017a4f4a35ea8fb92111ea4850778227583c7b055a2b9b",
+      "original_signature": "CRuntimeClass * __thiscall CWinApp::GetRuntimeClass(CWinApp *this)",
+      "original_symbol": "CWinApp::GetRuntimeClass"
+    },
+    {
+      "original": "NAMED_L150820",
+      "rust": "recovered::adapters15::named_l150820",
+      "category": "adapters15",
+      "source_line": 150820,
+      "source_lines": 10,
+      "source_sha256": "1c4d55b11b20d97bc3babe42c32591fd93adbe005ae089c0909b5c578aed7e18",
+      "original_signature": "int __thiscall CCmdTarget::IsInvokeAllowed(CCmdTarget *this,long param_1)",
+      "original_symbol": "CCmdTarget::IsInvokeAllowed"
+    },
+    {
+      "original": "NAMED_L150833",
+      "rust": "recovered::adapters15::named_l150833",
+      "category": "adapters15",
+      "source_line": 150833,
+      "source_lines": 10,
+      "source_sha256": "4964601f118a240df6522956d1037efd45cbaf292ff59b684136e7f5282ec747",
+      "original_signature": "int __thiscall CCmdTarget::GetDispatchIID(CCmdTarget *this,_GUID *param_1)",
+      "original_symbol": "CCmdTarget::GetDispatchIID"
+    },
+    {
+      "original": "NAMED_L150723",
+      "rust": "recovered::adapters15::named_l150723",
+      "category": "adapters15",
+      "source_line": 150723,
+      "source_lines": 10,
+      "source_sha256": "7844897ca95887261032f131831ac67fd7f87aea5f091830f69b4da52c32a05b",
+      "original_signature": "int __thiscall CView::OnPreparePrinting(CView *this,CPrintInfo *param_1)",
+      "original_symbol": "CView::OnPreparePrinting"
+    },
+    {
+      "original": "NAMED_L150898",
+      "rust": "recovered::adapters15::named_l150898",
+      "category": "adapters15",
+      "source_line": 150898,
+      "source_lines": 10,
+      "source_sha256": "1898ce92f595628ea3cfe6835834013c7e7d526c06342fd9dc22ec3cfc4c1f72",
+      "original_signature": "AFX_OLECMDMAP * __thiscall CCmdTarget::GetCommandMap(CCmdTarget *this)",
+      "original_symbol": "CCmdTarget::GetCommandMap"
+    }
+  ]
+}

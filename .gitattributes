@@ -1,0 +1,3 @@
+# Audits bind the reference, generators and recovery evidence to exact bytes.
+# Preserve existing line endings on every platform; text diffs still work.
+* -text

@@ -1,0 +1,135 @@
+{
+  "reference_sha256": "01ca7b8866b6918f7e24c65fe02893aea444f2cbde9867981e78160b7a49719d",
+  "binary_reference_sha256": "d94d89377a2a78a73b95cff70fc7706df9ae2ae53175bd6d26abb8301e36ecd9",
+  "binary_evidence": [
+    "binary-recovery/global-width-evidence.json",
+    "binary-recovery/register-repairs.json",
+    "binary-recovery/size-records22.json",
+    "binary-recovery/constant-lanes23.json",
+    "binary-recovery/constant-lanes24.json",
+    "binary-recovery/repairs25.json",
+    "binary-recovery/repairs26.json",
+    "binary-recovery/contracts27.json",
+    "binary-recovery/repairs28.json"
+  ],
+  "expected_count": 6,
+  "functions": [
+    {
+      "original": "FUN_14000d4c0",
+      "rust": "recovered::adapters36::fun_14000d4c0",
+      "category": "adapters36",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_context_contract": {
+        "symbols": [],
+        "unused_first_parameter_callees": [],
+        "global_view_types": {}
+      },
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 16813,
+      "source_lines": 218,
+      "source_sha256": "439f0810096eee58ad6c3b2581b11410d7b48a320486354c05724cdc90c4961c"
+    },
+    {
+      "original": "FUN_14000d9e0",
+      "rust": "recovered::adapters36::fun_14000d9e0",
+      "category": "adapters36",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_context_contract": {
+        "symbols": [],
+        "unused_first_parameter_callees": [],
+        "global_view_types": {}
+      },
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 17034,
+      "source_lines": 437,
+      "source_sha256": "d3aa166471e15d4b91323d2c9574f4ef66ad994c1a8ff3fdeb593aeefcc7cd29"
+    },
+    {
+      "original": "FUN_1400268a0",
+      "rust": "recovered::adapters36::fun_1400268a0",
+      "category": "adapters36",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_context_contract": {
+        "symbols": [],
+        "unused_first_parameter_callees": [],
+        "global_view_types": {}
+      },
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 37513,
+      "source_lines": 71,
+      "source_sha256": "017d24630ce08a0f551511fec075f81c6b575b4fcce5b37fe9ff5557a3eb174b"
+    },
+    {
+      "original": "FUN_140026da0",
+      "rust": "recovered::adapters36::fun_140026da0",
+      "category": "adapters36",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_context_contract": {
+        "symbols": [],
+        "unused_first_parameter_callees": [],
+        "global_view_types": {}
+      },
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 37737,
+      "source_lines": 34,
+      "source_sha256": "43e5f91b482a4167bc9b6e9524e476b4e320e0ea9fd25eb449fae94e95b69c39"
+    },
+    {
+      "original": "FUN_14002dcb0",
+      "rust": "recovered::adapters36::fun_14002dcb0",
+      "category": "adapters36",
+      "native_reference": "normalized-source-c",
+      "incoming_register_words": [],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_context_contract": {
+        "symbols": [],
+        "unused_first_parameter_callees": [],
+        "global_view_types": {}
+      },
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 43348,
+      "source_lines": 330,
+      "source_sha256": "9cd5da606acdfa617491a720d1decf7fa0acd3f9ad408fa69ecedb520e97de85"
+    },
+    {
+      "original": "FUN_1400b0bdc",
+      "rust": "recovered::adapters36::fun_1400b0bdc",
+      "category": "adapters36",
+      "native_reference": "parsed-c-ir",
+      "incoming_register_words": [
+        "CONTEXT_in_XCR0"
+      ],
+      "incoming_stack_words": [],
+      "incoming_register_storage": [],
+      "ignored_context_contract": {
+        "symbols": [],
+        "unused_first_parameter_callees": [],
+        "global_view_types": {}
+      },
+      "ignored_register_arguments": [],
+      "implicit_qword_dereferences": 0,
+      "source_line": 155443,
+      "source_lines": 96,
+      "source_sha256": "aa761f0ccce51200d705dc3c2e59f24f5ba5f1368caa44b7ff10dd2dbda5a9d2"
+    }
+  ],
+  "recovery_evidence": "binary-recovery/batch36/contracts.json"
+}

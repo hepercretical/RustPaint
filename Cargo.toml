@@ -1,0 +1,9 @@
+[package]
+name = "mspaint-port"
+version = "0.1.0"
+edition = "2021"
+publish = false
+description = "Incremental Rust translation of the supplied mspaint decompilation"
+
+[lib]
+path = "src/lib.rs"

@@ -1,0 +1,66 @@
+{
+  "reference_sha256": "01ca7b8866b6918f7e24c65fe02893aea444f2cbde9867981e78160b7a49719d",
+  "expected_count": 6,
+  "functions": [
+    {
+      "original": "FUN_1400b0ff0",
+      "rust": "recovered::search29::fun_1400b0ff0",
+      "category": "search29",
+      "native_reference": "normalized-source-c-vector-emulation",
+      "source_line": 155653,
+      "source_lines": 155,
+      "source_sha256": "778ac7773276eaf53e952465267be40298b312c8bd234bb489f63467b42f2cb5"
+    },
+    {
+      "original": "FUN_1400b1150",
+      "rust": "recovered::search29::fun_1400b1150",
+      "category": "search29",
+      "native_reference": "normalized-source-c-vector-emulation",
+      "source_line": 155811,
+      "source_lines": 145,
+      "source_sha256": "3240d31104328fddc491922a0454f5c775f4324c340ec6006d538358be2c5b1d"
+    },
+    {
+      "original": "FUN_1400b1250",
+      "rust": "recovered::search29::fun_1400b1250",
+      "category": "search29",
+      "native_reference": "normalized-source-c-vector-emulation",
+      "source_line": 155959,
+      "source_lines": 136,
+      "source_sha256": "0aa441eec58f5c08c96d20fdaeac94d2a3256fa898cffd7943e3610e660d5ec3"
+    },
+    {
+      "original": "NAMED_L156226",
+      "rust": "recovered::search29::named_l156226",
+      "category": "search29",
+      "native_reference": "normalized-source-c-vector-emulation",
+      "source_line": 156226,
+      "source_lines": 155,
+      "source_sha256": "8bc53af0c43f2474ba0f126e04dee89f8e5ad58f1f47cbaa157367903ab8865f",
+      "original_signature": "undefined1 (*) [32]\r\nthunk_FUN_1400b0ff0(undefined1 (*param_1) [32],undefined1 (*param_2) [32],short param_3)",
+      "original_symbol": "thunk_FUN_1400b0ff0"
+    },
+    {
+      "original": "NAMED_L156384",
+      "rust": "recovered::search29::named_l156384",
+      "category": "search29",
+      "native_reference": "normalized-source-c-vector-emulation",
+      "source_line": 156384,
+      "source_lines": 145,
+      "source_sha256": "3a89e839668221538548b83f712cc5e73becacac08c6695602bafed903597e14",
+      "original_signature": "undefined1 (*) [32]\r\nthunk_FUN_1400b1150(undefined1 (*param_1) [32],undefined1 (*param_2) [32],byte param_3)",
+      "original_symbol": "thunk_FUN_1400b1150"
+    },
+    {
+      "original": "NAMED_L156532",
+      "rust": "recovered::search29::named_l156532",
+      "category": "search29",
+      "native_reference": "normalized-source-c-vector-emulation",
+      "source_line": 156532,
+      "source_lines": 136,
+      "source_sha256": "cec5212d0e91477cee9c2a950aa08bf2db041b0528baeb8a7a071977743d1642",
+      "original_signature": "undefined1 (*) [32]\r\nthunk_FUN_1400b1250(undefined1 (*param_1) [32],undefined1 (*param_2) [32],short param_3)",
+      "original_symbol": "thunk_FUN_1400b1250"
+    }
+  ]
+}
