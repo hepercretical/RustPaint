@@ -6,8 +6,8 @@ This program is rust translation of mspaint.
 
 Steps to build and/or run the software:
 
-1. Install rust program and compile into an executable file.
-2. Launch compiled program.
+1. Compile the Rust code.
+2. Run the ocmpiled rust program.
 
 Instructions for using the software:
 

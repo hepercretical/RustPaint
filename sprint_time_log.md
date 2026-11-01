@@ -26,12 +26,17 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 |Date      |Start Time|Category|Description                                 |Total Minutes|
 |----------|----------|:------:|--------------------------------------------|:-----------:|
+|10/20/2026| 09:00 PM |   TP   | Work on Mobile app integration.            |     60      |
 |10/20/2026| 10:00 PM |   IM   | Began rust translation with 440 functions. |     55      |
 |10/21/2026| 12:45 PM |   IM   | Translated through 93.8% of functions.     |    260      |
+|10/22/2026| 10:42 PM |   TP   | More work on Mobile app integration.       |     60      |
 |10/22/2026| 11:42 AM |   IM   | 99.2% of Functions & 85% of Source Lines.  |    195      |
 |10/23/2026| 11:33 AM |   IM   | 99.5% of Funcitons & 88% of Source Lines.  |     65      |
 |10/26/2026| 06:30 PM |   IM   | Finished usable translation with Ghidra.   |    230      |
+|10/27/2026| 09:40 PM |   TP   | Additional Like and remove functionality.  |     60      |
 |10/27/2026| 10:40 PM |   IM   | Patches/Fixes, Compile, and .gitignore.    |     30      |
+|10/29/2026| 09:00 PM |   IM   | Translated through 93.8% of functions.     |     60      |
+|10/27/2026| 09:40 PM |   TP   | Include swipe functionality.               |     60      |
 
 _Note: Add more rows as needed._
 
